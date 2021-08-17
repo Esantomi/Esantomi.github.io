@@ -1,1 +1,1 @@
-Sitemap: https://Esantomi.github.io/sitemap.xml
+Sitemap: https://esantomi.github.io/sitemap.xml
