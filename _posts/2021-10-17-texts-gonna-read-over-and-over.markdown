@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - thought
 - life
-star: true
+star: false
 category: blog
 author: haechanji
 description: The texts I am going to read over and over
