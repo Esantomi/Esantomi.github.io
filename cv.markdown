@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-layout: post
+layout: page
 date: 2021-10-18 23:23
 image: /assets/images/markdown.jpg
 headerImage: false
@@ -34,12 +34,14 @@ description: my curriculum vitae
 
   <body class="theme-default" data-gr-c-s-loaded="true">
 
-
     <div class="wrapper" itemscope="" itemtype="http://schema.org/Person">
       <meta itemprop="telephone" content="555-7334">
       <meta itemprop="address" content="742 Evergreen Terrace, Springfield">
 
       <header class="page-header">
+
+
+      <h1 class="resume-item-title" itemprop="name" style="text-align:center; font-size:40px;">Curriculum Vitae</h1>
 
 
       <!-- begin Work Experience -->
@@ -135,34 +137,3 @@ description: my curriculum vitae
 
       </section>
       <!-- end Software Projects -->
-
-
-      <!-- begin Teaching Experience -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2 style="font-size:25px" style="font-size:25px">Teaching Experience</h2>
-        </header>
-        
-        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Blank</h3>
-          <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">Spring semester, 2000</h4>
-          <p class="resume-item-copy">Blank.</p>
-        </div> 
-
-      </section>
-      <!-- end Teaching Experience -->
-
-
-      <!-- begin PORs -->
-      <section class="content-section">
-        <header class="section-header">
-          <h2 style="font-size:25px">Positions of Responsibility</h2>
-        </header>
-
-        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-          <p class="resume-item-copy" style="font-size:15px">• <strong>jan lawa</strong>, kulupu pi toki pona pi ma Anku</p>
-        </div>
-
-      </section>
-      <!-- end PORs -->
