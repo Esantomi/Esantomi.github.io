@@ -1,15 +1,8 @@
 ---
 title: "Curriculum Vitae"
 layout: page
-date: 2021-10-18 23:23
 image: /assets/images/markdown.jpg
-headerImage: false
-projects: true
-tag: CV
-category: project
-author: haechanji
 description: my curriculum vitae
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
 <head>
