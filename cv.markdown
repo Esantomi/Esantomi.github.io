@@ -41,7 +41,7 @@ description: my curriculum vitae
       <header class="page-header">
 
 
-      <h1 class="resume-item-title" itemprop="name" style="text-align:center; font-size:40px;">Curriculum Vitae</h1>
+      <h1 class="resume-item-title" itemprop="name" style="text-align:center; font-size:35px; padding:0px 0px 25px 0px;">Curriculum Vitae</h1>
 
 
       <!-- begin Work Experience -->
