@@ -1,16 +1,16 @@
 ---
 title: "뵘-야코피니 정리(Böhm–Jacopini theorem)란?"
 layout: post
-date: 2021-03-01 20:00
+date: 2021-03-01 18:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- Computer Science
-- Programming Language Theory
+- computer science
+- programming language theory
 star: false
 category: blog
 author: haechanji
-description: The three of control structure. Sequence, Selection, Iteration
+description: The three control structure : Sequence, Selection, Iteration
 ---
 
 <strong>뵘 야코피니 정리(Böhm–Jacopini theorem)</strong>는 간단히 말해, 컴퓨터로 해결 가능한 문제는 모두 'Sequence', 'Selection', 'Iteration'의 3가지 제어 구조(control structure)로 나타낼 수 있다는 정리다.  
