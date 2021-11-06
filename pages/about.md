@@ -8,7 +8,13 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+공부가 좋은 사람. 선인(先人)이 일군 비옥한 학술의 농토에 이것저것 경작해 보다 나무 그늘 아래 앉아 신농씨(神農氏)의 위업을 흠모하는 게 하루의 주된 일과다. 체계적인 지적 탐구라면 대체로 환장하는 편이지만 특별히 똑똑하다는 뜻은 아니다.
+
+국어국문학도인 주제에 생명과학(Life Science)을 복수전공 하는 등 여러 기행을 자행한 내력이 있다. 본인은 장기적으로 언어학이 생물학의 하위 분과로 포섭될 거라 생각했다나? 최근에는 침습적 접근 불가의 벽에 막혀 강령술을 익히는 편이 더 빠를 거라 생각하고 있다.
+
+출판업과 마케팅업에 종사하며 취미로 콤퓨타를 좀 만지다가 콤퓨타와 금란지교를 맺었다. 처음으로 생긴 지우와 한창 우애를 나누던 중 나라에 역병이 돌고 세간이 흉흉하니 바로 장부가 웅심을 펼 때라 생각하고 분연히 떨치고 일어났다. 일어난 김에 세태를 일견하니 이는 세상이 천리(天理)를 벗어났기 때문이라, 대도(大道)를 찾아 대학원의 문을 두드렸다. 현재 대학원생으로서 공부를 해 나갈 수 있기를 고대하며 데이터 전처리 작업으로 후사를 도모하고 있다.
+
+기본적으로 뭐든 텍스트로 읽어야 직성이 풀리는 성미이나 여러 경험을 계기로 체험으로서의 삶 또한 중히 여기게 됐다. 한 사람의 우바새(優婆塞), 예비 천도교(天道敎) 교인으로서 일상 속의 수양을 게을리하지 않고자 노력하고 있다. 자주 아나키즘(反强權主義)의 꿈을 꾸지만 꿈에 주공(周公)을 못 뵌 지 오래인 것은 그야말로 부덕의 소치가 아닐 수 없다며 한탄하고 있다.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
