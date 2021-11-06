@@ -1,7 +1,7 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: TensorFlow
+  percentage: 60
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Natural Language Processing
+  percentage: 50
   color: success
