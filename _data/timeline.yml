@@ -1,17 +1,14 @@
-- title: Student, Harvard CS
-  from: 2014
+- title: Undergraduate, Konkuk University
+  from: 2012
   to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Double major in korean language & literature and life sciences (국어국문학 1전공, 생명과학특성학 2전공)
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Undergraduate, Korea National Open University
+  from: 2019
+  to: 2022 (expected)
+  description: major in computer science (컴퓨터과학)
+
+- title: Editor, Seoul, Korea
+  from: 2019
+  to: 2021
+  description: 국어 콘텐츠 제작 및 교정·교열 업무 수행
