@@ -1,0 +1,25 @@
+---
+title: K-Digital Training AI 과정 시작 (영우글로벌러닝)
+tags: [Education]
+style: fill
+color: light
+description: The first day of the AI course of K-Digital training (ygl)
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61646760/129823498-16d02040-e952-45c0-8aae-54d77fb4f0eb.png" />
+</p>
+
+2021년 3월 29일부터 2021년 8월 31일까지, [영우글로벌러닝(Youngwoo Global Learning)][1]에서 대략 5개월에 걸쳐 K-Digital Training 인공지능(AI) 국비 지원 과정을 듣게 되었다.  
+
+정확한 명칭은 **'데이터 기반 인공지능 시스템 엔지니어 양성 과정'**인데, 과정 중에 짠 소스 코드는 아래 링크를 참조하기 바란다.
+
+<p align="center">
+  <a href="https://github.com/Esantomi/ygl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Esantomi&repo=ygl&show_owner=true(https://github.com/Esantomi/ygl)" />
+  </a>
+</p>
+
+후기는 과정을 모두 마치면 간략하게 남겨 보려고 한다.
+
+[1]: http://www.ycampus.co.kr/edu/class.asp?ca1=A3&ca2=A306
