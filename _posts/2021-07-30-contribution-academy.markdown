@@ -1,5 +1,5 @@
 ---
-title: Contribution Academy, Backend.AI 지원 그리고 탈락
+title: Contribution Academy의 Backend.AI prj 지원 그리고 탈락
 tags: [Contribution]
 style: fill
 color: light
