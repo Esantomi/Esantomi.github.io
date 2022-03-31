@@ -5,17 +5,19 @@
     "ng": "ng",
     "start": "ng serve",
     "start:en": "ng serve --configuration=en",
-    "start:pt": "ng serve --configuration=pt",
+    "start:ko": "ng serve --configuration=ko",
     "build": "ng build",
     "build:en": "ng build --configuration=en",
-    "build:pt": "ng build --configuration=pt",
+    "build:ko": "ng build --configuration=ko",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
     "int:extract": "ng xi18n --output-path src/locales",
     "build-locale:en": "ng build --prod --configuration=en",
-    "build-locale:pt": "ng build --prod --configuration=pt",
-    "build-locale": "npm run build-locale:en && npm run build-locale:pt"
+    "build-locale:ko": "ng build --prod --configuration=ko",
+    "build-locale": "npm run build-locale:en && npm run build-locale:ko",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "private": true,
   "dependencies": {
@@ -39,6 +41,7 @@
     "compass-mixins": "^0.12.10",
     "elliptic": "^6.5.4",
     "firebase": "^9.6.3",
+    "gh-pages": "^3.2.3",
     "hammerjs": "^2.0.8",
     "http-proxy": "^1.18.1",
     "ini": "^1.3.8",
@@ -80,5 +83,8 @@
     "protractor": "~7.0.0",
     "ts-node": "~8.3.0",
     "typescript": "~4.5.4"
-  }
+  },
+  {
+    "homepage" : "https://Esantomi.github.io/Esantomi.github.io/"
+ }
 }

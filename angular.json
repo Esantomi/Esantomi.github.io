@@ -12,8 +12,8 @@
       "i18n": {
         "sourceLocale": "en-US",
         "locales": {
-          "kr": {
-            "translation": "src/locales/messages.kr.xlf",
+          "ko": {
+            "translation": "src/locales/messages.ko.xlf",
             "baseHref": ""
           },
           "en": {
@@ -78,11 +78,11 @@
               "outputPath": "dist/en/",
               "i18nMissingTranslation": "error"
             },
-            "kr": {
+            "ko": {
               "localize": [
-                "kr"
+                "ko"
               ],
-              "outputPath": "dist/kr/",
+              "outputPath": "dist/ko/",
               "i18nMissingTranslation": "error"
             },
             "es5": {
@@ -102,8 +102,8 @@
             "en": {
               "browserTarget": "live-resume:build:en"
             },
-            "kr": {
-              "browserTarget": "live-resume:build:kr"
+            "ko": {
+              "browserTarget": "live-resume:build:ko"
             },
             "es5": {
               "browserTarget": "live-resume:build:es5"
