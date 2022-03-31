@@ -16,7 +16,8 @@
     "build-locale:en": "ng build --prod --configuration=en",
     "build-locale:ko": "ng build --prod --configuration=ko",
     "build-locale": "npm run build-locale:en && npm run build-locale:ko",
-    "deploy": "ng build --prod --output-path dist --base-href Esantomi.github.io"
+    "predeploy": "ng add angular-cli-ghpages",
+    "deploy": "ng deploy --base-href=/Esantomi.github.io/"
   },
   "private": true,
   "dependencies": {
