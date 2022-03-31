@@ -1,0 +1,42 @@
+{
+    "internationalizations": [
+        {
+            "language": "pt",
+            "description": "Minha caminhada como <i>programador</i> teve início aos nove anos de idade quando me apaixonei pelo <i>Logo</i>, uma linguagem de programação educacional usada para cativar crianças nas maravilhosas terras da <i>Programação</i>. Costumava passar horas seguidas tentando criar figuras e animações, usando matemática e geometria. Naquela época, eu simplesmente não conhecia os desafios emocionantes que ainda estavam por vir.<br><br>Alguns anos depois, consegui um estágio como <i>Webmaster</i>, desde então, nunca mais parei, sendo mais de uma década, onde venho tendo a chance de trabalhar com pessoas maravilhosas, aprendendo todos os dias, viajando pelo mundo e, principalmente, sempre fazendo grandes amizades.<br><br>Tive experiência como empreendedor, quando um amigo apresentou-me <i>Magento</i>, um framework de comércio eletrônico extremamente popular. Depois de fazer vários cursos e muita prática, consegui contratos com agências de São Paulo e Rio de Janeiro, Brasil. Essa experiência de empreendedorismo me deu a chance de ver o outro lado da moeda, o que contribuiu para expandir um pouco mais minha consciência como colaborador.<br><br>Atualmente, continuo buscando novas habilidades, aprendendo e compartilhando meu humilde conhecimento, tanto quanto possível."
+        },
+        {
+            "language": "en",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem et tortor consequat id. In dictum non consectetur a erat. Ipsum dolor sit amet consectetur adipiscing elit. Id diam vel quam elementum pulvinar. Urna porttitor rhoncus dolor purus. Facilisi morbi tempus iaculis urna id. Netus et malesuada fames ac turpis egestas. Felis eget nunc lobortis mattis aliquam faucibus purus. Vulputate enim nulla aliquet porttitor. Ante in nibh mauris cursus mattis molestie a. Egestas dui id ornare arcu odio ut sem nulla. Auctor augue mauris augue neque gravida in fermentum et. Ipsum a arcu cursus vitae congue mauris. Nibh venenatis cras sed felis eget velit aliquet sagittis id. Gravida arcu ac tortor dignissim. Fermentum et sollicitudin ac orci phasellus egestas tellus rutrum.<br><br>Sem fringilla ut morbi tincidunt. Sed faucibus turpis in eu mi bibendum neque egestas. Arcu odio ut sem nulla pharetra. At auctor urna nunc id cursus. Dui vivamus arcu felis bibendum ut. Ultricies mi eget mauris pharetra et ultrices neque. Odio tempor orci dapibus ultrices in iaculis nunc sed augue. Elementum sagittis vitae et leo duis ut diam. Aenean sed adipiscing diam donec adipiscing tristique risus nec. Elementum integer enim neque volutpat ac tincidunt. Eu volutpat odio facilisis mauris sit amet massa vitae. Nulla pharetra diam sit amet. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Consectetur libero id faucibus nisl tincidunt eget nullam non nisi. Massa sed elementum tempus egestas sed."
+        }
+    ],
+    "medias": [        
+        {
+            "icon": "github",
+            "title": "GitHub",
+            "http": "https://github.com/Esantomi"
+        },
+        {
+            "icon": "twitter",
+            "title": "Twitter",
+            "http": "https://twitter.com/dh_haein"
+        }
+    ],
+    "hobbies": [        
+        {
+            "icon": "biking",
+            "title": "Cycling"
+        },
+        {
+            "icon": "dumbbell",
+            "title": "Gym"
+        },
+        {
+            "icon": "suitcase-rolling",
+            "title": "Travel"
+        },
+        {
+            "icon": "book",
+            "title": "Read"
+        }
+    ]
+}
