@@ -6,7 +6,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build && cp CNAME ./build"
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",
