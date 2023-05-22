@@ -2,7 +2,7 @@
 title: blah
 description: blahblahblahblah
 categories: scientists
-header-img: images/post/dino.jpg
+header-img: images/haein2.png
 ---
 
 blah
