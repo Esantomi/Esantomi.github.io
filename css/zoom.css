@@ -39,9 +39,3 @@ img.zoom-img {
 .zoom-overlay-transitioning {
   cursor: default;
 }
-
-/* center tag */
-.center {
-  display: block;
-  margin: auto;
-}
