@@ -1,7 +1,7 @@
 ---
 title: blah
 description: blahblahblahblah
-categories: scientists
+categories: newblog
 header-img: images/haein2.png
 ---
 
