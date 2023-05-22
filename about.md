@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 ### About me
-<center><img src="./images/haein1.png" width="250" height="250"></center>
+<center><img src="../images/haein1.png" width="200" height="200" style="border-radius: 50%"></center>
 
 저는 현재 한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the Academy of Korean Studies)에서 보조연구원(Research assistant)으로 있습니다.
 

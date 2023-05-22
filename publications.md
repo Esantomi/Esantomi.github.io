@@ -3,29 +3,32 @@ title: Publication
 permalink: /publication/
 ---
 
-For those interested in numbers, see Konrad's [google scholar citations profile](https://scholar.google.com/citations?user=MiFqJGcAAAAJ).
+<!-- For those interested in numbers, see Konrad's [google scholar citations profile](https://scholar.google.com/citations?user=MiFqJGcAAAAJ).
 
 We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
+<hr> -->
+
+### eBooks
+
+_인문 데이터 분석 - 디지털인문학 시리즈_<br>
+김바로(Baro Kim), 지해인(Haein Ji) et al.<br>
+Wikidocs, 2023 ([Link](https://wikidocs.net/book/8451))
+
+_시각적 인문학(Visual Humanities) - 디지털인문학 시리즈_<br>
+김바로(Baro Kim), 지해인(Haein Ji) et al.<br>
+Wikidocs, 2022 ([Link](https://wikidocs.net/book/8450))
+
 <hr>
 
-### 2022
-
-_Data-driven exclusion criteria for instrumental variable studies_<br>
-Tony Liu, Patrick Lawlor, Lyle Ungar, Konrad Kording<br>
-Conference on Causal Learning and Reasoning, 2022 ([Article](https://proceedings.mlr.press/v177/liu22a/liu22a.pdf))
-
-
-<hr>
-
-### 2015
+<!-- ### Papers
 
 _Neural coordination during reach-to-grasp_<br>
 M Vaidya, K Körding, M Saleh, K Takahashi, NG Hatsopoulos <br>
 Journal of Neurophysiology ([Abstract](http://jn.physiology.org/content/early/2015/07/27/jn.00349.2015))
 
 
-<hr>
+<hr> -->
 
 ### Copyright Notice
 
