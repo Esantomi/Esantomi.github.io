@@ -5,23 +5,34 @@ permalink: /resources/
 
 ### Upcoming lab teachings
 
-Every Friday at 13:30 EST, we get together (mix of virtual and in person) for lab teachings. 
-On a rotating basis, each member of the lab speaks and teaches about something they know. 
-Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
-neuroscientific princples, new findings and literature reviews... whatever!
+저술(Publication) 외 기타 자료들을 모아 둔 페이지입니다.
 
-Get on the listserve for announcements: https://groups.google.com/forum/#!forum/kording-lab-teachings
-
-[Click here for current topics (as of summer 2021)](http://kordinglab.com/2021/01/01/upcoming-lab-teaching.html)
-
-{% assign reference_types = "scientists|students" | split: "|" %}
+{% assign reference_types = "scholars|public" | split: "|" %}
 
 {% for type in reference_types %}
 
-{% if type == 'scientists' %}
-### **For scientists**
- {% elsif type == 'students' %}
-### **For students, lab members**
+{% if type == 'scholars' %}
+
+### **Teaching**
+
+<div class="content list">
+  {% for post in site.posts %}
+    {% if post.categories contains 'teaching' %}
+    <div class="list-item">
+      <p class="list-post-title">
+        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
+      </p>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<hr>
+
+### **For scholars**
+ {% elsif type == 'public' %}
+
+### **For public**
 {% endif %}
 
 <div class="content list">
@@ -39,18 +50,3 @@ Get on the listserve for announcements: https://groups.google.com/forum/#!forum/
 <hr>
 {% endfor %}
 
-### **Older Blog posts from the lab**
-
-<div class="content list">
-  {% for post in site.posts %}
-    {% if post.categories contains 'blog' %}
-    <div class="list-item">
-      <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
-      </p>
-    </div>
-    {% endif %}
-  {% endfor %}
-</div>
-
-<hr>
