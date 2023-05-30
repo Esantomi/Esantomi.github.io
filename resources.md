@@ -3,9 +3,10 @@ title: Reference
 permalink: /resources/
 ---
 
+### Resources
 저술(Publication) 외 기타 자료들을 모아 둔 페이지입니다.
 
-### **Talk**
+#### **Talk**
 
 <div class="content list">
   {% for post in site.posts %}
@@ -21,7 +22,7 @@ permalink: /resources/
 
 <hr>
 
-### **Teaching**
+#### **Teaching**
 
 <div class="content list">
   {% for post in site.posts %}
