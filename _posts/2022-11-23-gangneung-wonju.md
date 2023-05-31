@@ -14,8 +14,8 @@ header-img: images/post/teaching-gwnu.jpg
 국립강릉원주대학교(Gangneung-Wonju National University)에서 진행된 '유가철학 창의·인성 코너스톤 KCC' 특강 진행과 실습을 보조하였습니다.
 
 <figure style="margin-bottom: 1em;">
-    <center style="position: relative; overflow: hidden;">
-        <iframe width="100%" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/Esantomi/Esantomi.github.io/master/images/post/teaching-gwnu-vr.jpg"></iframe>
+    <center>
+        <iframe width="100%" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/Esantomi/Esantomi.github.io/master/images/post/teaching-gwnu-vr.jpg"></iframe>
         <figcaption>
             클릭하면 파노라마 이미지를 보실 수 있습니다.
         </figcaption>
