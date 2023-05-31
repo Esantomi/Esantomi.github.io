@@ -6,6 +6,8 @@ permalink: /resources/
 ### Resources
 저술(Publication) 외 기타 자료들을 모아 둔 페이지입니다.
 
+<br />
+
 #### **Talk**
 
 <div class="content list">
