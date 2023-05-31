@@ -24,7 +24,8 @@ permalink: /about/
   - 『꼬깜이는 부드러워』라는 그림책 작업을 진행 중입니다. 2023년 여름 중 출간을 목표로 하고 있습니다.
 
 #### Semantic network
-
-<iframe src="https://haein.info/semantic-network" scrolling="no" frameborder="0" width="100%" height="750px" marginheight="0" marginwidth="0" style="padding: 0; margin: 0;">
-    Haein's Semantic network graph
-</iframe>
+<figure>
+  <center>
+    <iframe src="https://haein.info/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+  </center>
+</figure>
