@@ -10,7 +10,7 @@ permalink: /resources/
   <summary>▶ 제 CV를 보고 싶으시다면 클릭해 주세요.</summary>
   <figure>
     <center>
-      <embed src="/documents/Haein_CV.pdf" width="100%" height=1000 type='application/pdf'>
+      <embed src="/documents/Haein_cv.pdf" width="100%" height=1000 type='application/pdf'>
     </center>
   </figure>
 </details>
