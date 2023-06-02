@@ -12,18 +12,24 @@ layout: default
 
         <span style="display: block; margin-bottom: 5px"></span>
       
-        <img class='img-responsive center-block' src="../images/home/logo.png" style="height: 20px;" />
+        <img class='img-responsive center-block' src="../images/home/logo.png" style="height: 20px; margin-bottom: 1%;" />
         <!-- Center for Digital Humanities at the Acadey of Korean Studies<br /> -->
+
+        <a href="https://github.com/Esantomi"><i class="fa fa-github"></i> Esantomi</a>&nbsp;&nbsp;&nbsp;
+        <a href="https://twitter.com/DH_haein"><i class="fa fa-twitter"></i> DH_haein</a>&nbsp;&nbsp;&nbsp;
+        <a href="mailto:cihayin@gmail.com"><i class="fa fa-envelope-o"></i> cihayin@gmail.com</a>
       </p>
 
-      <!-- <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
+      <div class="w3-container" style="background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
         <div style="text-align:left">
-          <h3> Recent News </h3>
-          <u>Happenings of the last few months</u>
+          <center>
+            <h3> What's new? </h3>
+            <u>Only the last 3 months are shown.</u>
+          </center>
           <span style="display: block; margin-bottom: 1em"></span>
           <div class="news">
               {% capture now %}{{'now' | date: '%s' | minus: 7776000 %}}{% endcapture %}
-              <ul style="list-style-position:outside;padding:20px" >
+              <ul style="list-style-position: outside; padding: 10px; margin-bottom: 0px" >
                 {% for new in site.data.news %}
                   {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
                   {% if date > now %}
@@ -37,10 +43,10 @@ layout: default
               </ul>
           </div>
         </div >
-      </div> -->
+      </div>
 
 
-      <!-- <span style="display: block; margin-bottom: 3em"></span> -->
+      <span style="display: block; margin-bottom: 1em"></span>
 
 
       <!-- <div style="display: table; margin-left: auto; margin-right: auto;">
@@ -50,12 +56,12 @@ layout: default
 
     </header>
 
-    <footer style="position: absolute; bottom: 0; left: 50%; margin-left: -162px; text-align: center;">
-      <!-- <span style="display: block; margin-bottom: 1em"></span> -->
+    <!-- <footer style="position: absolute; bottom: 0; left: 50%; margin-left: -162px; text-align: center;">
+      <span style="display: block; margin-bottom: 1em"></span>
         <a href="https://github.com/Esantomi"><i class="fa fa-github"></i> Esantomi</a>&nbsp;&nbsp;&nbsp;
         <a href="https://twitter.com/DH_haein"><i class="fa fa-twitter"></i> DH_haein</a>&nbsp;&nbsp;&nbsp;
-        <a href="mailto:cihayin@gmail.com"><i class="fa fa-envelope-o"></i> cihayin@gmail.com</a>
-        <!-- <small>Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/KordingLab/KordingLab.github.io">Kording lab's</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.</small> -->
+        <a href="mailto:cihayin@gmail.com"><i class="fa fa-envelope-o"></i> cihayin@gmail.com</a><br />
+        <small>Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/KordingLab/KordingLab.github.io">Kording lab's</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.</small>
       <span style="display: block; margin-bottom: 1em"></span>
-    </footer>
+    </footer> -->
 </div>
