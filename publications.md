@@ -11,13 +11,13 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### eBooks
 
-_인문 데이터 분석 - 디지털인문학 시리즈_<br>
+**_인문 데이터 분석 - 디지털인문학 시리즈_**<br>
 김바로(Baro Kim), 지해인(Haein Ji) et al.<br>
-Wikidocs, 2023 ([Link](https://wikidocs.net/book/8451))
+Wikidocs, 2023 (<a href="https://wikidocs.net/book/8451" target="_blank">Link</a>)
 
-_시각적 인문학(Visual Humanities) - 디지털인문학 시리즈_<br>
+**_시각적 인문학(Visual Humanities) - 디지털인문학 시리즈_**<br>
 김바로(Baro Kim), 지해인(Haein Ji) et al.<br>
-Wikidocs, 2022 ([Link](https://wikidocs.net/book/8450))
+Wikidocs, 2022 (<a href="https://wikidocs.net/book/8450" target="_blank">Link</a>)
 
 <hr>
 
