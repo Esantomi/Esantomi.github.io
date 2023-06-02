@@ -7,7 +7,7 @@ permalink: /resources/
 저술(Publication) 외 기타 자료들을 모아 둔 페이지입니다.
 
 <details>
-  <summary>▶ 제 CV를 보고 싶으시다면 클릭해 주세요.</summary>
+  <summary><img src="/images/resource/view_cv.png" style="margin-bottom: -1em;" /></summary>
   <figure>
     <center>
       <embed src="/documents/Haein_cv.pdf" width="100%" height=1000 type='application/pdf'>
