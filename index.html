@@ -21,10 +21,11 @@ layout: default
       </p>
 
       <!-- <div class="w3-container" style="background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8"> -->
-      <div class="w3-container" style="margin: 1em auto; padding: 2em; background-color: #f0f8ff; box-shadow: 0 0 0 2px rgba(114,171,209,1), 8px 8px 0 0 rgba(114,171,209,1);">
+      <!-- <div class="w3-container" style="margin: 1em auto; padding: 2em; background-color: #f0f8ff; box-shadow: 0 0 0 2px rgba(114,171,209,1), 8px 8px 0 0 rgba(114,171,209,1);"> -->
+      <div class="post-it" style="padding-left: 2em; padding-right: 2em;">
         <div style="text-align: left;">
           <center>
-            <h3> What's new? </h3>
+            <h3 style="font-family: 'Permanent Marker', cursive;"> What's new? </h3>
             <u>Only news from the last 3 months is shown.</u>
           </center>
           <span style="display: block; margin-bottom: 1em"></span>
@@ -34,7 +35,7 @@ layout: default
                 {% for new in site.data.news %}
                   {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
                   {% if date > now %}
-                    <li>
+                    <li style="font-family: 'Gowun Dodum', cursive; font-size: 21px;">
                       <span>
                         {{ new.details }}
                       </span>
