@@ -35,7 +35,7 @@ layout: default
                 {% for new in site.data.news %}
                   {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
                   {% if date > now %}
-                    <li style="font-family: 'Gowun Dodum', cursive; font-size: 19px;">
+                    <li style="font-family: 'Jua', cursive; font-size: 19px;">
                       <span>
                         {{ new.details }}
                       </span>
