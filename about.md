@@ -13,6 +13,8 @@ permalink: /about/
 #### Position
 <a href="http://dh.aks.ac.kr/" target="_blank">한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the Academy of Korean Studies)</a>에서 보조연구원(Research assistant)으로 근무하고 있습니다.
 
+<img class='img-responsive center-block' src="../images/about/logo.svg" style="height: 40px;"/>
+
 #### Interest
 한국 근대 산문문학, 그중에서도 이상(李箱) 소설을 중심으로 디지털인문학적 연구를 시도하고 있습니다. 그 이외에 문화 연구 등 다방면에 관심이 많습니다.
 
