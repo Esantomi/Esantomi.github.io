@@ -24,7 +24,7 @@ permalink: /about/
 <figure>
   <center>
     <img src="/images/about/duo.png" height="180">
-    <figcaption>최근 리그는 거의 신경 쓰지 못한 관계로 에메랄드입니다.</figcaption>
+    <figcaption style="margin-top: -1em;">최근 리그는 거의 신경 쓰지 못한 관계로 에메랄드입니다.</figcaption>
   </center>
 </figure>
 
@@ -35,7 +35,7 @@ permalink: /about/
 <figure>
   <center>
     <img src="/images/about/kokam-gentle.jpg" height="250">
-    <figcaption>『꼬깜이는 부드러워』 커버에 들어갈 그림입니다. 그림 작가는 따로 있습니다.</figcaption>
+    <figcaption style="margin-top: -1em;">『꼬깜이는 부드러워』 커버에 들어갈 그림입니다. 그림 작가는 따로 있습니다.</figcaption>
   </center>
 </figure>
 
