@@ -39,8 +39,6 @@ permalink: /about/
   </center>
 </figure>
 
-<br />
-
 #### Semantic network
 <figure>
   <center>

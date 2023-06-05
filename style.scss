@@ -262,6 +262,15 @@ img {
   border-radius: 5px;
 }
 
+figure {
+  font-family: ChosunGu;
+  margin-bottom: 1em;
+}
+
+figcaption {
+  margin-top: -1em;
+}
+
 table {
   margin-bottom: 1rem;
   width: 100%;
@@ -619,8 +628,4 @@ transform:skewX(25deg);
   border-radius: 50% ;
   bottom:0px;
   left:10%;
-}
-
-figure {
-  font-family: ChosunGu;
 }
