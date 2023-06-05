@@ -25,7 +25,7 @@ layout: default
       <div class="post-it" style="padding-left: 2em; padding-right: 2em;">
         <div style="text-align: left;">
           <center>
-            <h3 style="font-family: 'Klee One', cursive;"> 近 況 共 知 </h3>
+            <h3 style="font-family: 'SimKyungha', cursive;"> - 공지 사항 - </h3>
             <!-- <u>Only news from the last 3 months is shown.</u> -->
           </center>
           <span style="display: block; margin-bottom: 1em"></span>
@@ -35,7 +35,7 @@ layout: default
                 {% for new in site.data.news %}
                   {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
                   {% if date > now %}
-                    <li style="font-family: 'GangwonEdu_OTFBoldA'; font-size: 25px;">
+                    <li style="font-family: 'SimKyungha'; font-size: 24px;">
                       <span>
                         {{ new.details }}
                       </span>

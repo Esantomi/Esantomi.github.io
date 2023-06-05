@@ -7,7 +7,7 @@ permalink: /resources/
 저술(Publication) 외 기타 자료들을 모아 둔 페이지입니다.
 
 <details>
-  <summary style="font-family: 'GangwonEdu_OTFBoldA', cursive; font-size: 19px">Click here to view my CV</summary>
+  <summary style="font-family: 'SimKyungha', cursive; font-size: 19px">Click here to view my CV</summary>
   <figure>
     <center>
       <embed src="/documents/Haein_cv.pdf" width="100%" height=1000 type='application/pdf'>
