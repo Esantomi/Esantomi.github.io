@@ -75,7 +75,7 @@ h4, h5, h6 {
 
 p {
   // font-family: "Open Sans", "Helvetica Neue", Helvetica;
-  font-family: "Noto Sans Korean", "Klee One", "Open Sans", "Helvetica Neue", Helvetica;
+  font-family: "ChosunGu", "Klee One", "Open Sans", "Helvetica Neue", Helvetica;
   font-weight: 300;
   margin: 0 0 1rem;
   font-size: 0.8rem;
@@ -83,7 +83,7 @@ p {
 
 ul, ol, dl {
   // font-family: "Open Sans", "Helvetica Neue", Helvetica;
-  font-family: "Noto Sans Korean", "Klee One", "Open Sans", "Helvetica Neue", Helvetica;
+  font-family: "ChosunGu", "Klee One", "Open Sans", "Helvetica Neue", Helvetica;
   font-weight: 300;
   font-size: 0.8rem;
   margin-top: 0;
@@ -521,7 +521,7 @@ tbody tr:nth-child(odd) th {
 // change font for navbar
 .navbar, .navbar-nav>li>a {
   background-color: white;
-  font-family: 'Klee One', 'Open Sans', sans-serif;
+  font-family: 'ChosunGu', 'Klee One', 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 80%;
@@ -555,7 +555,22 @@ tbody tr:nth-child(odd) th {
 // sticky note (post-it)
 @import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
 @import url(https://fonts.googleapis.com/css2?family=Noto+Sans+Korean);
-@import url(https://fonts.googleapis.com/css2?family=Klee+One);
+@import url(https://fonts.googleapis.com/css2?family=Nanum+Brush+Script);
+@import url(https://fonts.googleapis.com/css2?family=Klee+One); // 한자용
+
+@font-face {
+  font-family: 'GangwonEdu_OTFBoldA';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEdu_OTFBoldA.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ChosunGu';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@1.0/ChosunGu.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 .post-it {
   width:auto;
@@ -571,7 +586,7 @@ tbody tr:nth-child(odd) th {
   //   inset 0 -20px 40px rgba(0,0,0,0.2),
   //   inset 0 10px 10px rgba(0,0,0,0.2),
   //   0 5px 6px 5px rgba(0,0,0,0.2);
-  font-family: "Permanent Marker", cursive;
+  font-family: "GangwonEdu_OTFBoldA", cursive;
   line-height:1.7em;
   font-size:19px;
   -webkit-mask-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC);
@@ -606,4 +621,8 @@ transform:skewX(25deg);
   border-radius: 50% ;
   bottom:0px;
   left:10%;
+}
+
+figure {
+  font-family: ChosunGu;
 }
