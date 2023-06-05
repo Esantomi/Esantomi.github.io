@@ -17,7 +17,7 @@ header-img: images/post/teaching-gwnu.jpg
     <center>
         <iframe width="100%" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/Esantomi/Esantomi.github.io/master/images/post/teaching-gwnu-vr.jpg"></iframe>
         <figcaption>
-            클릭하면 파노라마 이미지를 보실 수 있습니다.
+            클릭하시면 파노라마 이미지를 보실 수 있습니다.
         </figcaption>
     </center>
 </figure>
