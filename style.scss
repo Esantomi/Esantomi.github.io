@@ -580,7 +580,8 @@ tbody tr:nth-child(odd) th {
   height:auto;
   position:relative;
   // background:#ffa;
-  background:#f0f8ff;
+  background: linear-gradient(#F9EFAF, #F7E98D);
+  // background:#f0f8ff;
   overflow:hidden;
   margin: 1em auto;
   padding:20px;
@@ -604,7 +605,8 @@ tbody tr:nth-child(odd) th {
   width:20px;
   height:25px;
   // background:#ffa;
-  background:#f0f8ff;
+  background: linear-gradient(#F9EFAF, #F7E98D);
+  // background:#f0f8ff;
   box-shadow:
     3px -2px 10px rgba(0,0,0,0.2),
     inset 15px -15px 15px rgba(0,0,0,0.3);
