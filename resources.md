@@ -17,6 +17,11 @@ permalink: /resources/
 
 <br />
 
+#### **Lectures**
+- <a href="https://youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">시각적 인문학(Visual Humanities) - YouTube</a>
+
+<hr>
+
 #### **Talk**
 
 <div class="content list">
