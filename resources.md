@@ -17,9 +17,14 @@ permalink: /resources/
 
 <br />
 
-#### **Lectures**
-- <a href="https://youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">시각적 인문학(Visual Humanities) - YouTube</a>
-
+#### **Lectures**  <!--No Post-->
+<div class="content list">
+  <div class="list-item">
+    <p class="list-post-title">
+      <a href="https://youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">∘ 시각적 인문학(Visual Humanities) - YouTube</a>
+    </p>
+  </div>
+</div>
 <hr>
 
 #### **Talk**
@@ -29,7 +34,7 @@ permalink: /resources/
     {% if post.categories contains 'talk' %}
     <div class="list-item">
       <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
+        <a href="{{ site.baseurl }}{{ post.url }}">∘ {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
       </p>
     </div>
     {% endif %}
@@ -45,7 +50,7 @@ permalink: /resources/
     {% if post.categories contains 'teaching' %}
     <div class="list-item">
       <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
+        <a href="{{ site.baseurl }}{{ post.url }}">∘ {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
       </p>
     </div>
     {% endif %}
