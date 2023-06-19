@@ -20,13 +20,13 @@ permalink: /about/
 
 #### Hobby
 - 어학
-  - 언어 학습 어플리케이션인 듀오링고(Duolingo)로 1,000일에 가깝게 학습을 이어 가고 있습니다. 
+  - 언어 학습 어플리케이션인 듀오링고(Duolingo)로 1,000일이 넘게 학습을 이어 가고 있습니다. 
   - 애석하게도 실력은 대체로 그저 그렇습니다. 일본어(日本語), 독일어(Deutsch sprache), 인도네시아어(Bahasa Indonesia), 에스페란토(Esperanto)를 그나마 조금 할 줄 압니다.
 
 <figure>
   <center>
-    <img src="/images/about/duo.png" height="180">
-    <figcaption style="margin-top: -1em;">최근 리그는 거의 신경 쓰지 못한 관계로 에메랄드입니다.</figcaption>
+    <img src="/images/about/duo.jpg" height="250">
+    <figcaption style="margin-top: -1em;">듀오링고 학습 1,000일 달성!</figcaption>
   </center>
 </figure>
 
