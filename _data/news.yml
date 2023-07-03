@@ -1,8 +1,8 @@
-- date: 2023-04-16
-  details: "그림책 『꼬깜이는 부드러워』 출간을 준비하고 있습니다."
+# - date: 2023-04-16
+#   details: "그림책 『꼬깜이는 부드러워』 출간을 준비하고 있습니다."
 
-- date: 2023-05-01
-  details: 석사학위논문을 작성하고 있습니다.
+# - date: 2023-05-01
+#   details: 석사학위논문을 작성하고 있습니다.
 
 - date: 2023-06-12
   details: Microsoft Azure Fundamentals 자격증을 취득하였습니다.
@@ -12,3 +12,6 @@
 
 - date: 2023-06-28
   details: Microsoft Azure Data Fundamentals 자격증을 취득하였습니다.
+
+- date: 2023-07-03
+  details: 2023 오픈소스 컨트리뷰션 아카데미(OSSCA)에 멘티로 선발되었습니다.
