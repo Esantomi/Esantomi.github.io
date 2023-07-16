@@ -17,16 +17,6 @@ permalink: /resources/
 
 <br />
 
-#### **Lectures**  <!--No Post-->
-<div class="content list">
-  <div class="list-item">
-    <p class="list-post-title">
-      <a href="https://youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">◦ 시각적 인문학(Visual Humanities) - YouTube</a>
-    </p>
-  </div>
-</div>
-<hr>
-
 #### **Talk**
 
 <div class="content list">
