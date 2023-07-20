@@ -38,7 +38,7 @@ permalink: /about/
 </figure>
 
 - 창작
-  - 주로 고슴도치 일러스트를 그립니다. 제 그림은 <a href="https://hedgehogtoon.site/" target="_blank">이곳</a>에서 확인하실 수 있습니다.
+  - 주로 고슴도치 일러스트를 그립니다. 제 그림은 <a href="https://toon.haein.info/" target="_blank">이곳</a>에서 확인하실 수 있습니다.
   - 『꼬깜이는 부드러워』라는 그림책 작업을 진행 중입니다. 저는 글을 담당하였으며, 2023년 여름 중 출간을 목표로 하고 있습니다.
 
 <figure>
