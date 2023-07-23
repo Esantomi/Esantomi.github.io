@@ -81,6 +81,15 @@ p {
   font-size: 0.8rem;
 }
 
+summary {
+  // p를 바탕으로 새롭게 추가함
+  font-family: "ChosunGu", "Open Sans", "Helvetica Neue", Helvetica;
+  font-weight: 300;
+  margin: 0 0 1rem;
+  font-size: 0.8rem;
+  color: #0e75be;
+}
+
 ul, ol, dl {
   // font-family: "Open Sans", "Helvetica Neue", Helvetica;
   font-family: "ChosunGu", "Open Sans", "Helvetica Neue", Helvetica;
@@ -184,6 +193,7 @@ blockquote {
   p:last-child {
     margin-bottom: 0;
   }
+  font-family: "Courgette", "SimKyungha", cursive;
 }
 
 code,
@@ -559,6 +569,8 @@ tbody tr:nth-child(odd) th {
 
 // sticky note (post-it)
 // @import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+@import url(https://fonts.googleapis.com/css2?family=Courgette&display=swap); // blockquote용
+
 @import url(https://fonts.googleapis.com/css2?family=Klee+One); // 한자용
 
 @font-face {
