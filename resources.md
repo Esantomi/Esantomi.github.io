@@ -15,7 +15,9 @@ permalink: /resources/
   </figure>
 </details>
 
-<br />
+<div style="line-height:170%;">
+  <br />
+</div>
 
 #### **Article**
 <div class="content list">
