@@ -669,3 +669,6 @@ transform:skewX(25deg);
 .multi-accordion details[open] p {
   padding: .5em;
 }
+.multi-accordion details[open] ul, ol {
+  padding: .5em;
+}
