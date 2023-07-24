@@ -587,6 +587,8 @@ tbody tr:nth-child(odd) th {
   font-style: normal;
 }
 
+
+// 포스트잇
 .post-it {
   width:auto;
   height:auto;
@@ -638,4 +640,32 @@ transform:skewX(25deg);
   border-radius: 50% ;
   bottom:0px;
   left:10%;
+}
+
+
+// 아코디언
+.multi-accordion {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: .5em .5em 0;
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+.multi-accordion summary {
+  font-weight: bold;
+  margin: -.5em -.5em 0;
+  padding: 1.2em;
+  cursor: pointer;
+}
+.multi-accordion details:not(:first-child) summary {
+  border-top:1px solid #ccc;
+}
+.multi-accordion details[open] summary {
+  background-color:#E5F3FE;
+  border-bottom:1px solid #ccc;
+  margin-bottom: .5em;
+}
+.multi-accordion details[open] p {
+  padding: .5em;
 }

@@ -26,47 +26,45 @@ permalink: /about/
   </center>
 </figure>
 
-아래 요소는 각각 클릭하면 펼쳐집니다.
-
-<details>
-  <summary>🔤 어학</summary>
-  <figure>
-    <center>
-      <img src="/images/about/duo.jpg" height="250" oncontextmenu="return false">
-      <figcaption style="margin-top: -1em;">듀오링고 학습 1,000일 달성!</figcaption>
-    </center>
-  </figure>
-  <ul>
-    <li>언어 학습 어플리케이션인 듀오링고(Duolingo)로 1,000일이 넘게 학습을 이어 가고 있습니다.</li>
-    <li>애석하게도 실력은 대체로 그저 그렇습니다. 일본어(日本語), 독일어(Deutsch sprache), 인도네시아어(Bahasa Indonesia), 에스페란토(Esperanto)를 그나마 조금 할 줄 압니다.</li>
-  </ul>
-</details>
-
-<details>
-  <summary>✒️ 창작</summary>
-  <figure>
-    <center>
-      <img src="/images/about/kokam-gentle.jpg" height="250" oncontextmenu="return false">
-      <figcaption style="margin-top: -1em;">『꼬깜이는 부드러워』 커버에 들어갈 그림입니다. 그림 작가는 따로 있습니다.</figcaption>
-    </center>
-  </figure>
-  <ul>
-    <li>주로 고슴도치 일러스트를 그립니다. 제 그림은 <a href="https://toon.haein.info/" target="_blank">이곳</a>에서 확인하실 수 있습니다.</li>
-    <li>『꼬깜이는 부드러워』라는 그림책 작업을 진행 중입니다. 저는 글을 담당하였으며, 2023년 여름 중 출간을 목표로 하고 있습니다.</li>
-  </ul>
-</details>
-
-<details>
-  <summary>🖧 Volunteer computing using BOINC</summary>
-  <figure>
-    <img src="/images/about/amic_100k.png" height="50" oncontextmenu="return false">
-  </figure>
-  <ul>
-    <li>처음 알게 된 건 <a href="https://ko.wikipedia.org/wiki/SETI@home" target="_blank">SETI@Home</a> 덕분이었습니다. 컴퓨팅 자원을 좀 보태서 연구에 기여할 수 있다니!</li>
-    <li>현재 <a href="https://sech.me/boinc/Amicable/" target="_blank">Amicable Numbers</a>, <a href="https://www.primegrid.com/" target="_blank">PrimeGrid</a> 등의 연구 지원에 참여하고 있습니다.</li>
-  </ul>
-  <blockquote>You don't need to be a scientist to do a science. <small>Rosetta@home</small></blockquote>
-</details>
+<div class="multi-accordion">
+  <details>
+    <summary>🔤 어학 : 이런저런 언어 학습을 좋아해요.</summary>
+    <figure>
+      <center>
+        <img src="/images/about/duo.jpg" height="250" oncontextmenu="return false">
+        <figcaption style="margin-top: -1em;">듀오링고 학습 1,000일 달성!</figcaption>
+      </center>
+    </figure>
+    <ul>
+      <li>언어 학습 어플리케이션인 듀오링고(Duolingo)로 1,000일이 넘게 학습을 이어 가고 있습니다.</li>
+      <li>애석하게도 실력은 대체로 그저 그렇습니다. 일본어(日本語), 독일어(Deutsch sprache), 인도네시아어(Bahasa Indonesia), 에스페란토(Esperanto)를 그나마 조금 할 줄 압니다.</li>
+    </ul>
+  </details>
+  <details>
+    <summary>✒️ 창작 : 글쓰기와 그림 그리기를 좋아해요.</summary>
+    <figure>
+      <center>
+        <img src="/images/about/kokam-gentle.jpg" height="250" oncontextmenu="return false">
+        <figcaption style="margin-top: -1em;">『꼬깜이는 부드러워』 커버에 들어갈 그림입니다. 그림 작가는 따로 있습니다.</figcaption>
+      </center>
+    </figure>
+    <ul>
+      <li>주로 고슴도치 일러스트를 그립니다. 제 그림은 <a href="https://toon.haein.info/" target="_blank">이곳</a>에서 확인하실 수 있습니다.</li>
+      <li>『꼬깜이는 부드러워』라는 그림책 작업을 진행 중입니다. 저는 글을 담당하였으며, 2023년 여름 중 출간을 목표로 하고 있습니다.</li>
+    </ul>
+  </details>
+  <details>
+    <summary>📡 Volunteer computing : 유휴 컴퓨팅 자원을 활용한 연구 기여를 좋아해요.</summary>
+    <figure>
+      <img src="/images/about/amic_100k.png" height="50" oncontextmenu="return false">
+    </figure>
+    <ul>
+      <li>처음 알게 된 건 <a href="https://ko.wikipedia.org/wiki/SETI@home" target="_blank">SETI@Home</a> 덕분이었습니다. 컴퓨팅 자원을 좀 보태서 연구에 기여할 수 있다니!</li>
+      <li>현재 <a href="https://sech.me/boinc/Amicable/" target="_blank">Amicable Numbers</a>, <a href="https://www.primegrid.com/" target="_blank">PrimeGrid</a> 등의 연구 지원에 참여하고 있습니다.</li>
+    </ul>
+    <blockquote>You don't need to be a scientist to do a science. <small>Rosetta@home</small></blockquote>
+  </details>
+</div>
 
 #### Semantic network
 <figure>
