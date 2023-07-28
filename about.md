@@ -50,17 +50,20 @@ permalink: /about/
     </figure>
     <ul>
       <li>주로 고슴도치 일러스트를 그립니다. 제 그림은 <a href="https://toon.haein.info/" target="_blank">이곳</a>에서 확인하실 수 있습니다.</li>
-      <li>『꼬깜이는 부드러워』라는 그림책 작업을 진행 중입니다. 저는 글을 담당하였으며, 2023년 여름 중 출간을 목표로 하고 있습니다.</li>
+      <li>현재 『꼬깜이는 부드러워』라는 그림책 작업을 진행 중입니다. 저는 글을 담당하였으며, 2023년 중 출간을 목표로 하고 있습니다.</li>
     </ul>
   </details>
   <details>
     <summary>📡 Volunteer computing : 유휴 컴퓨팅 자원을 활용한 연구 기여를 좋아해요.</summary>
     <figure>
-      <img src="/images/about/amic_100k.png" height="50" oncontextmenu="return false">
+      <center>
+        <img src="/images/about/boinc.png" height="300" oncontextmenu="return false">
+        <figcaption style="margin-top: -1em;">참여 내역에 대한 certification입니다.</figcaption>
+      </center>
     </figure>
     <ul>
-      <li>처음 알게 된 건 <a href="https://ko.wikipedia.org/wiki/SETI@home" target="_blank">SETI@Home</a> 덕분이었습니다. 컴퓨팅 자원을 좀 보태서 연구에 기여할 수 있다니!</li>
-      <li>현재 <a href="https://sech.me/boinc/Amicable/" target="_blank">Amicable Numbers</a>, <a href="https://www.primegrid.com/" target="_blank">PrimeGrid</a> 등의 연구 지원에 참여하고 있습니다.</li>
+      <li>Volunteer computing 개념에 대한 설명은 <a href="https://terms.naver.com/entry.naver?docId=3576358&cid=59088&categoryId=59096" target="_blank">BOINC 프로젝트 문서</a>를 참고해 주세요.</li>
+      <li>처음 알게 된 건 <a href="https://ko.wikipedia.org/wiki/SETI@home" target="_blank">SETI@Home</a> 덕분이었습니다. 컴퓨팅 자원을 좀 보태서 연구에 기여할 수 있다니! 어린 마음에 설렜던 기억이 있습니다. 오랜 시간 잊고 있다가 현재는 <a href="https://sech.me/boinc/Amicable/" target="_blank">Amicable Numbers</a>, <a href="https://www.primegrid.com/" target="_blank">PrimeGrid</a> 등의 연구 지원에 참여하고 있습니다.</li>
     </ul>
     <blockquote>You don't need to be a scientist to do a science. <small>Rosetta@home</small></blockquote>
   </details>
