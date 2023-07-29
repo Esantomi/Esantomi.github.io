@@ -57,7 +57,7 @@ permalink: /about/
     <summary>📡 Volunteer computing : 유휴 컴퓨팅 자원을 활용한 연구 기여를 좋아해요.</summary>
     <figure>
       <center>
-        <img src="/images/about/boinc.png" width="80%" oncontextmenu="return false">
+        <img src="/images/about/boinc.png" width="90%" oncontextmenu="return false">
         <figcaption style="margin-top: -1em;">참여 내역에 대한 certification입니다.</figcaption>
       </center>
     </figure>
