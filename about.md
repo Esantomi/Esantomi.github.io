@@ -44,7 +44,7 @@ permalink: /about/
     <summary>✒️ 창작 : 글쓰기와 그림 그리기를 좋아해요.</summary>
     <figure>
       <center>
-        <img src="/images/about/kokam-gentle.jpg" height="250" oncontextmenu="return false">
+        <img src="/images/about/kokam-gentle.jpg" width="50%" oncontextmenu="return false">
         <figcaption style="margin-top: -1em;">『꼬깜이는 부드러워』 커버에 들어갈 그림입니다. 그림 작가는 따로 있습니다.</figcaption>
       </center>
     </figure>
@@ -57,7 +57,7 @@ permalink: /about/
     <summary>📡 Volunteer computing : 유휴 컴퓨팅 자원을 활용한 연구 기여를 좋아해요.</summary>
     <figure>
       <center>
-        <img src="/images/about/boinc.png" height="250" oncontextmenu="return false">
+        <img src="/images/about/boinc.png" width="100%" oncontextmenu="return false">
         <figcaption style="margin-top: -1em;">참여 내역에 대한 certification입니다.</figcaption>
       </center>
     </figure>
