@@ -19,7 +19,9 @@ permalink: /about/
 한국 근대 산문문학, 그중에서도 이상(李箱) 소설을 중심으로 디지털인문학적 연구를 시도하고 있습니다. 그 이외에 문화 연구 등 다방면에 관심이 많습니다.
 
 #### Recent idea
-<blockquote>&nbsp; "I am very much a humanist. I have no idea what the term "scientific" would mean in this context.<br />
+<blockquote>&nbsp; "I am very much a humanist.<br />
+
+&nbsp; I have no idea what the term "scientific" would mean in this context.<br />
 
 &nbsp; The people who talk in terms of science sometimes also talk in terms of provability or demonstrability, and I am sufficiently a postmodern thinker that I do not believe that the notion of demonstrability or provability has any value at all in our field. It's just a red herring.<br />
 
