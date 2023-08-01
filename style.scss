@@ -189,11 +189,12 @@ blockquote {
   margin: 0 2rem 1rem 0;
   //color: #999;
   border-left: .5rem; //solid #e5e5e5
+  font-size: large;
 
   p:last-child {
     margin-bottom: 0;
   }
-  font-family: "Courgette", "SimKyungha", cursive;
+  font-family: "Caveat", "SimKyungha", cursive;
 }
 
 code,
@@ -569,7 +570,7 @@ tbody tr:nth-child(odd) th {
 
 // sticky note (post-it)
 // @import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
-@import url(https://fonts.googleapis.com/css2?family=Courgette&display=swap); // blockquote용
+@import url(https://fonts.googleapis.com/css2?family=Caveat&display=swap); // blockquote용
 
 @import url(https://fonts.googleapis.com/css2?family=Klee+One); // 한자용
 

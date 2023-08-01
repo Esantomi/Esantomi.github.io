@@ -18,6 +18,13 @@ permalink: /about/
 #### Interest
 한국 근대 산문문학, 그중에서도 이상(李箱) 소설을 중심으로 디지털인문학적 연구를 시도하고 있습니다. 그 이외에 문화 연구 등 다방면에 관심이 많습니다.
 
+#### Recent idea
+<blockquote>&nbsp; "I am very much a humanist. I have no idea what the term "scientific" would mean in this context.<br />
+
+&nbsp; The people who talk in terms of science sometimes also talk in terms of provability or demonstrability, and I am sufficiently a postmodern thinker that I do not believe that the notion of demonstrability or provability has any value at all in our field. It's just a red herring.<br />
+
+&nbsp; If you talk to anthropologists these days, they don't put much weight on notions of demonstrability either but are more interested in aspects like the cogency, coherence, and persuasiveness of an accout."<br /><small>Dale B. Martin, Social-Scientific Criticism</small></blockquote>
+
 #### Pleasure
 <figure>
   <center>
@@ -65,7 +72,7 @@ permalink: /about/
       <li>Volunteer computing 개념에 대한 설명은 <a href="https://terms.naver.com/entry.naver?docId=3576358&cid=59088&categoryId=59096" target="_blank">BOINC 프로젝트 문서</a>를 참고해 주세요.</li>
       <li>처음 알게 된 건 <a href="https://ko.wikipedia.org/wiki/SETI@home" target="_blank">SETI@Home</a> 덕분이었습니다. 컴퓨팅 자원을 좀 보태서 연구에 기여할 수 있다니! 어린 마음에 설렜던 기억이 있습니다. 오랜 시간 잊고 있다가 현재는 <a href="https://sech.me/boinc/Amicable/" target="_blank">Amicable Numbers</a>, <a href="https://www.primegrid.com/" target="_blank">PrimeGrid</a> 등의 연구 지원에 참여하고 있습니다.</li>
     </ul>
-    <blockquote>You don't need to be a scientist to do a science. <small>Rosetta@home</small></blockquote>
+    <blockquote>You don't need to be a scientist to do a science.<small>Rosetta@home</small></blockquote>
   </details>
 </div>
 
