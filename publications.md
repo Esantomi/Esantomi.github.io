@@ -28,7 +28,7 @@ Wikidocs, 2022 (<a href="https://wikidocs.net/book/8450" target="_blank">🔗Lin
 **프롬프트 엔지니어링 가이드 (Prompt Engineering Guide)**<br>
 [백진주(Jinju Baek)](https://github.com/100pearlcent), 지해인(Haein Ji) et al.<br>
 [DAIR.AI](https://github.com/dair-ai), 2023 (<a href="https://www.promptingguide.ai/kr" target="_blank">🔗Link</a>)<br>
-&nbsp;➥ 2023 OSSCA 'LLM을 여행하는 프롬프트 엔지니어를 위한 안내서' 프로젝트 결과물 (프로젝트 진행 중)<br>
+&nbsp;➥ 2023 OSSCA 'LLM을 여행하는 프롬프트 엔지니어를 위한 안내서' 프로젝트 결과물<br>
 
 <hr>
 
