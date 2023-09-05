@@ -11,6 +11,11 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 📚 Books
 
+**선행 온톨로지 모델 탐색 - 디지털인문학 시리즈**<br>
+[김바로(Baro Kim)](https://www.ddokbaro.com/), 지해인(Haein Ji) et al.<br>
+Wikidocs, 2023 (<a href="https://wikidocs.net/book/8452" target="_blank">🔗Link</a>, <a href="" target="_blank">💻Youtube</a>)<br>
+&nbsp;➥ AKS, '한국학 시맨틱 웹 구축을 위한 선행 온톨로지 모델의 탐색과 교육' 프로젝트 결과물 (진행 중)
+
 **인문 데이터 분석 - 디지털인문학 시리즈**<br>
 [김바로(Baro Kim)](https://www.ddokbaro.com/), 지해인(Haein Ji) et al.<br>
 Wikidocs, 2023 (<a href="https://wikidocs.net/book/8451" target="_blank">🔗Link</a>, <a href="" target="_blank">💻Youtube</a>)<br>
