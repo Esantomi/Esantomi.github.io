@@ -14,12 +14,12 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 **인문 데이터 분석 - 디지털인문학 시리즈**<br>
 [김바로(Baro Kim)](https://www.ddokbaro.com/), 지해인(Haein Ji) et al.<br>
 Wikidocs, 2023 (<a href="https://wikidocs.net/book/8451" target="_blank">🔗Link</a>, <a href="" target="_blank">💻Youtube</a>)<br>
-&nbsp;➥ AKS, <인문학도를 위한 데이터 분석 교육 콘텐츠 편찬 -한국학 데이터를 중심으로-> 프로젝트 결과물
+&nbsp;➥ AKS, '인문학도를 위한 데이터 분석 교육 콘텐츠 편찬 - 한국학 데이터를 중심으로' 프로젝트 결과물
 
 **시각적 인문학(Visual Humanities) - 디지털인문학 시리즈**<br>
 [김바로(Baro Kim)](https://www.ddokbaro.com/), 지해인(Haein Ji) et al.<br>
 Wikidocs, 2022 (<a href="https://wikidocs.net/book/8450" target="_blank">🔗Link</a>, <a href="https://youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">💻Youtube</a>)<br>
-&nbsp;➥ AKS, <강릉 12향현(江陵 十二鄕賢) 멀티미디어콘텐츠 편찬 및 교육 동영상 제작> 프로젝트 결과물<br>
+&nbsp;➥ AKS, '강릉 12향현(江陵 十二鄕賢) 멀티미디어콘텐츠 편찬 및 교육 동영상 제작' 프로젝트 결과물<br>
 
 <hr>
 
