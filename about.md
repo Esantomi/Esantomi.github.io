@@ -16,7 +16,12 @@ permalink: /about/
 <img class='img-responsive center-block' src="../images/about/logo.svg" style="height: 40px;"/>
 
 #### Interest
-한국 근대 산문문학, 그중에서도 이상(李箱) 소설을 중심으로 디지털인문학적 연구를 시도하고 있습니다. 그 이외에 문화 연구 등 다방면에 관심이 많습니다.
+한국 근대 산문문학, 그중에서도 이상(李箱) 소설을 중심으로 디지털인문학적 연구를 시도하고 있습니다. 현재 관심을 가지고 있는 주제는 구체적으로 다음과 같습니다.
+
+- 문학 데이터의 스몰 데이터 형식의 구축과 분석 방법론
+- 자가진단도구 열풍에 투영된 자기서사 구축의 욕망
+- Technomasculinity와 드론
+- 인포스피어(Infosphere)와 지박령의 문제
 
 <!-- #### Recent idea
 <blockquote>&nbsp; "I am very much a humanist.<br />
