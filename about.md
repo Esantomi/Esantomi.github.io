@@ -3,25 +3,27 @@ title: About
 permalink: /about/
 ---
 
-### About me
+### <i class="xi-profile-o"></i> About me
 <figure>
   <center>
     <img src="/images/about/haein1.png" width="200" height="200" oncontextmenu="return false" style="border-radius: 50%">
   </center>
 </figure>
 
-#### Position
+#### <i class="xi-user-o"></i> Position
 <a href="http://dh.aks.ac.kr/" target="_blank">한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the Academy of Korean Studies)</a>에서 보조연구원(Research assistant)으로 근무하고 있습니다.
 
 <img class='img-responsive center-block' src="../images/about/logo.svg" style="height: 40px;"/>
 
-#### Interest
+#### <i class="xi-lightning"></i> Interest
 한국 근대 산문문학, 그중에서도 이상(李箱) 소설을 중심으로 디지털인문학적 연구를 시도하고 있습니다. 현재 관심을 가지고 있는 주제는 구체적으로 다음과 같습니다.
 
-- 문학 데이터의 스몰 데이터 형식의 구축과 분석 방법론
-- 자가진단도구 열풍에 투영된 자기서사 구축의 욕망
-- Technomasculinity와 드론
-- 인포스피어(Infosphere)와 지박령의 문제
+<ul style="margin-left: 1rem">
+  <li>문학 데이터의 스몰 데이터 형식의 구축과 분석 방법론</li>
+  <li>자가진단도구 열풍에 투영된 자기서사 구축의 욕망</li>
+  <li>Technomasculinity와 드론</li>
+  <li>인포스피어(Infosphere)와 지박령의 문제</li>
+</ul>
 
 <!-- #### Recent idea
 <blockquote>&nbsp; "I am very much a humanist.<br />
@@ -32,7 +34,7 @@ permalink: /about/
 
 &nbsp; If you talk to anthropologists these days, they don't put much weight on notions of demonstrability either but are more interested in aspects like the cogency, coherence, and persuasiveness of an accout."<br /><small>Dale B. Martin, Social-Scientific Criticism</small></blockquote> -->
 
-#### Pleasure
+#### <i class="xi-emoticon-cool-o"></i> Pleasure
 <figure>
   <center>
     <img src="/images/about/seang.jpg" height="200" oncontextmenu="return false" style="border-radius: 50%">
@@ -84,7 +86,7 @@ permalink: /about/
   </details>
 </div>
 
-#### Semantic network
+#### <i class="xi-sitemap-o"></i> Semantic network
 <figure>
   <center>
     <iframe src="https://haein.info/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>

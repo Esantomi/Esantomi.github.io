@@ -3,11 +3,11 @@ title: Reference
 permalink: /resources/
 ---
 
-### Resources
+### <i class="xi-folder-open"></i> Resources
 저술(Publication) 외 기타 자료들을 모아 둔 페이지입니다.
 
 <details>
-  <summary style="font-family: 'SimKyungha', cursive; font-size: 19px">📄 Click here to view my CV</summary>
+  <summary style="font-family: 'SimKyungha', cursive; font-size: 19px"><i class="xi-document"></i> Click here to view my CV</summary>
   <figure>
     <center>
       <embed src="/documents/Haein_cv.pdf" width="100%" height=1000 type='application/pdf'>
@@ -19,25 +19,25 @@ permalink: /resources/
   <br />
 </div>
 
-#### **Article**
+#### <i class="xi-browser-text"></i> Article
 <div class="content list">
     <div class="list-item">
       <p class="list-post-title">
-        <a href="https://www.aks.ac.kr/webzine/2205/sub08.jsp">📰 시습재 일기, 「인문정보학 : 구름 속 세계, 환상적이고 어렴풋한」</a> (<small>05/22</small>)
+        <a href="https://www.aks.ac.kr/webzine/2205/sub08.jsp"><i class="xi-check-min"></i> 시습재 일기, 「인문정보학 : 구름 속 세계, 환상적이고 어렴풋한」</a> (<small>05/22</small>)
       </p>
     </div>
 </div>
 
 <hr>
 
-#### **Talk**
+#### <i class="xi-microphone-o"></i> Talk
 
 <div class="content list">
   {% for post in site.posts %}
     {% if post.categories contains 'talk' %}
     <div class="list-item">
       <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">🎤 {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
+        <a href="{{ site.baseurl }}{{ post.url }}"><i class="xi-check-min"></i> {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
       </p>
     </div>
     {% endif %}
@@ -46,14 +46,14 @@ permalink: /resources/
 
 <hr>
 
-#### **Teaching**
+#### <i class="xi-lightbulb-o"></i> Teaching
 
 <div class="content list">
   {% for post in site.posts %}
     {% if post.categories contains 'teaching' %}
     <div class="list-item">
       <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">👨‍🏫 {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
+        <a href="{{ site.baseurl }}{{ post.url }}"><i class="xi-check-min"></i> {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
       </p>
     </div>
     {% endif %}
