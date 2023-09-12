@@ -46,6 +46,15 @@ a {
   }
 }
 
+// XEIcon
+@import url(//cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css);
+
+a[href*="//www.youtube.com"]:before,a[href*="//youtube.com"]:before{
+  content: '\ec32';  // 값은 다음 링크 참조: https://github.com/xpressengine/XEIcon/blob/master/xeicon.css
+  font-family: 'xeicon';
+  color: red;
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: .5rem;
