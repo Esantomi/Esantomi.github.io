@@ -18,7 +18,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
         (예정) <strong>꼬깜이는 부드러워</strong><br />
         해인 글, 천산 그림<br>
         부크크, 2024 (<a href="" target="_blank">🔗Link</a>)<br />
-        &nbsp;➥ 고슴도치 꼬깜의 죽음을 애도하며 반려자와 함께 작업한 그림책입니다. 곧 서점 사이트를 통해 구매할 수 있게 할 예정이에요.
+        &nbsp;➥ 고슴도치 꼬깜의 죽음을 애도하며 반려자와 함께 작업한 그림책입니다. 곧 각종 인터넷 서점을 통해 구매할 수 있게 할 예정입니다.
         </p>
     </div>
 </div>
@@ -30,7 +30,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
         (예정) <strong>선행 온톨로지 모델 탐색 - 디지털인문학 시리즈</strong><br />
         <a href="https://www.ddokbaro.com/" target="_blank">김바로(Baro Kim)</a>, 지해인(Haein Ji) et al.<br />
         Wikidocs, 2023 (<a href="https://wikidocs.net/book/8452" target="_blank">🔗Link</a>)<br />
-        &nbsp;➥ AKSR2023-RE07: '한국학 시맨틱 웹 구축을 위한 선행 온톨로지 모델의 탐색과 교육' 프로젝트 결과물 (<a href="" target="_blank">💻Youtube</a> 강의 Coming Soon!)
+        &nbsp;➥ AKSR2023-RE07: '한국학 시맨틱 웹 구축을 위한 선행 온톨로지 모델의 탐색과 교육' 프로젝트 결과물 (<a href="" target="_blank">💻Youtube</a> 강의 제공 예정)
         </p>
     </div>
 </div>
@@ -42,7 +42,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
         <strong>인문 데이터 분석 - 디지털인문학 시리즈</strong><br />
         <a href="https://www.ddokbaro.com/" target="_blank">김바로(Baro Kim)</a>, 지해인(Haein Ji) et al.<br />
         Wikidocs, 2023 (<a href="https://wikidocs.net/book/8451" target="_blank">🔗Link</a>)<br />
-        &nbsp;➥ AKSR2023-RE01: '인문학도를 위한 데이터 분석 교육 콘텐츠 편찬 -한국학 데이터를 중심으로-' 프로젝트 결과물 (<a href="" target="_blank">💻Youtube</a> 강의 Coming Soon!)
+        &nbsp;➥ AKSR2023-RE01: '인문학도를 위한 데이터 분석 교육 콘텐츠 편찬 -한국학 데이터를 중심으로-' 프로젝트 결과물 (<a href="" target="_blank">💻Youtube</a> 강의 제공 예정)
         </p>
     </div>
 </div>
@@ -54,7 +54,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
         <strong>시각적 인문학(Visual Humanities) - 디지털인문학 시리즈</strong><br />
         <a href="https://www.ddokbaro.com/" target="_blank">김바로(Baro Kim)</a>, 지해인(Haein Ji) et al.<br />
         Wikidocs, 2022 (<a href="https://wikidocs.net/book/8450" target="_blank">🔗Link</a>)<br>
-        &nbsp;➥ AKSR2022-RE08: '강릉 12향현(江陵 十二鄕賢) 멀티미디어콘텐츠 편찬 및 교육 동영상 제작' 프로젝트 결과물 (<a href="https://youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">💻Youtube</a> 강의 보기)<br />
+        &nbsp;➥ AKSR2022-RE08: '강릉 12향현(江陵 十二鄕賢) 멀티미디어콘텐츠 편찬 및 교육 동영상 제작' 프로젝트 결과물 (<a href="https://youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">💻Youtube</a> 강의 제공)<br />
         </p>
     </div>
 </div>
