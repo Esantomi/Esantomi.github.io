@@ -11,7 +11,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 📚 Books
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
     <div style="flex: none;"><img src="/images/about/kokam-gentle.jpg" width="100px" height="130px"></div>
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
@@ -23,7 +23,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
     </div>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
     <div style="flex: none;"><img src="/images/publication/eb03.jpg" width="100px" height="130px"></div>
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
@@ -35,7 +35,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
     </div>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
     <div style="flex: none;"><img src="/images/publication/eb02.jpg" width="100px" height="130px"></div>
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
@@ -47,7 +47,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
     </div>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
     <div style="flex: none;"><img src="/images/publication/eb01.jpg" width="100px" height="130px"></div>
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
