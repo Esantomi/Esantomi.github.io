@@ -12,7 +12,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 ### <i class="xi-book-o"></i> Books
 
 <div style="display: flex; align-items: flex-start;">
-    <div style="flex: none;"><img src="/images/about/kokam-gentle.jpg" width="100px" height="130px"></div>
+    <div style="flex: none;"><img src="/images/publication/kokam-gentle-cover.jpg" width="100px" height="130px"></div>
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
         (<i class="xi-spinner-4 xi-spin"></i> 출간 예정) <strong>꼬깜이는 부드러워</strong><br />
