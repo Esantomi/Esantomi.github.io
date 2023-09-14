@@ -28,7 +28,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
         (<i class="xi-spinner-4 xi-spin"></i> 공개 예정) <strong>선행 온톨로지 모델 탐색 - 디지털인문학 시리즈</strong><br />
-        <a href="https://www.ddokbaro.com/" target="_blank">김바로(Baro Kim)</a>, 지해인(Haein Ji) et al.<br />
+        <a href="https://www.ddokbaro.com/" target="_blank">김바로</a>, 지해인 외<br />
         Wikidocs, 2023 (<a href="https://wikidocs.net/book/8452" target="_blank"><i class="xi-link"></i> Link</a>)<br />
         &nbsp;➥ AKSR2023-RE07: '한국학 시맨틱 웹 구축을 위한 선행 온톨로지 모델의 탐색과 교육' 프로젝트 결과물 (<i class="xi-spinner-2 xi-spin"></i> Youtube 강의 제공 예정)
         </p>
@@ -40,7 +40,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
         <strong>인문 데이터 분석 - 디지털인문학 시리즈</strong><br />
-        <a href="https://www.ddokbaro.com/" target="_blank">김바로(Baro Kim)</a>, 지해인(Haein Ji) et al.<br />
+        <a href="https://www.ddokbaro.com/" target="_blank">김바로</a>, 지해인 외<br />
         Wikidocs, 2023 (<a href="https://wikidocs.net/book/8451" target="_blank"><i class="xi-link"></i> Link</a>)<br />
         &nbsp;➥ AKSR2023-RE01: '인문학도를 위한 데이터 분석 교육 콘텐츠 편찬 -한국학 데이터를 중심으로-' 프로젝트 결과물 (<i class="xi-spinner-2 xi-spin"></i> Youtube 강의 제공 예정)
         </p>
@@ -52,7 +52,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
         <strong>시각적 인문학(Visual Humanities) - 디지털인문학 시리즈</strong><br />
-        <a href="https://www.ddokbaro.com/" target="_blank">김바로(Baro Kim)</a>, 지해인(Haein Ji) et al.<br />
+        <a href="https://www.ddokbaro.com/" target="_blank">김바로</a>, 지해인 외<br />
         Wikidocs, 2022 (<a href="https://wikidocs.net/book/8450" target="_blank"><i class="xi-link"></i> Link</a>)<br />
         &nbsp;➥ AKSR2022-RE08: '강릉 12향현(江陵 十二鄕賢) 멀티미디어콘텐츠 편찬 및 교육 동영상 제작' 프로젝트 결과물 (<a href="https://youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank"> Youtube</a> 강의 제공)<br />
         </p>
