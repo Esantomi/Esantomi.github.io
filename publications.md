@@ -12,7 +12,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 ### <i class="xi-book-o"></i> Books
 
 <div style="display: flex; align-items: flex-start;">
-    <div style="flex: none;"><img src="/images/publication/kokam-gentle-cover.jpg" width="100px" height="130px"></div>
+    <div style="flex: none;"><img src="/images/publication/kokam-gentle-cover.jpg" width="100px" height="130px" oncontextmenu="return false"></div>
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
         (<i class="xi-spinner-4 xi-spin"></i> 출간 예정) <strong>꼬깜이는 부드러워</strong><br />
@@ -24,7 +24,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 </div>
 
 <div style="display: flex; align-items: flex-start;">
-    <div style="flex: none;"><img src="/images/publication/eb03.jpg" width="100px" height="130px"></div>
+    <div style="flex: none;"><a href="https://wikidocs.net/book/8452" target="_blank"><img src="/images/publication/eb03.jpg" width="100px" height="130px" oncontextmenu="return false"></a></div>
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
         (<i class="xi-spinner-4 xi-spin"></i> 공개 예정) <strong>선행 온톨로지 모델 탐색 - 디지털인문학 시리즈</strong><br />
@@ -36,7 +36,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 </div>
 
 <div style="display: flex; align-items: flex-start;">
-    <div style="flex: none;"><img src="/images/publication/eb02.jpg" width="100px" height="130px"></div>
+    <div style="flex: none;"><a href="https://wikidocs.net/book/8451" target="_blank"><img src="/images/publication/eb02.jpg" width="100px" height="130px" oncontextmenu="return false"></a></div>
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
         <strong>인문 데이터 분석 - 디지털인문학 시리즈</strong><br />
@@ -48,7 +48,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 </div>
 
 <div style="display: flex; align-items: flex-start;">
-    <div style="flex: none;"><img src="/images/publication/eb01.jpg" width="100px" height="130px"></div>
+    <div style="flex: none;"><a href="https://wikidocs.net/book/8450" target="_blank"><img src="/images/publication/eb01.jpg" width="100px" height="130px" oncontextmenu="return false"></a></div>
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
         <strong>시각적 인문학(Visual Humanities) - 디지털인문학 시리즈</strong><br />
