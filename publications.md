@@ -63,18 +63,18 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### <i class="xi-translate"></i> Translations
 
-**프롬프트 엔지니어링 가이드 (Prompt Engineering Guide)**<br>
-[백진주(Jinju Baek)](https://github.com/100pearlcent), 지해인(Haein Ji) et al.<br>
-[DAIR.AI](https://github.com/dair-ai), 2023 (<a href="https://www.promptingguide.ai/kr" target="_blank"><i class="xi-link"></i> Link</a>)<br>
-&nbsp;➥ 2023 OSSCA 'LLM을 여행하는 프롬프트 엔지니어를 위한 안내서' 프로젝트 결과물<br>
+**프롬프트 엔지니어링 가이드 (Prompt Engineering Guide)**<br />
+[백진주](https://github.com/100pearlcent), 지해인 외<br />
+[DAIR.AI](https://github.com/dair-ai), 2023 (<a href="https://www.promptingguide.ai/kr" target="_blank"><i class="xi-link"></i> Link</a>)<br />
+&nbsp;➥ 2023 OSSCA 'LLM을 여행하는 프롬프트 엔지니어를 위한 안내서' 프로젝트 결과물<br />
 
 <hr>
 
 <!-- ### Papers
 
-_Neural coordination during reach-to-grasp_<br>
-M Vaidya, K Körding, M Saleh, K Takahashi, NG Hatsopoulos <br>
-Journal of Neurophysiology ([Abstract](http://jn.physiology.org/content/early/2015/07/27/jn.00349.2015))
+이상 단편소설 속 감각-감정 문제에 대한 디지털인문학적 접근<br />
+지해인<br />
+석사학위논문, 한국학중앙연구원 한국학대학원, 2024 ([Abstract]())
 
 
 <hr> -->
