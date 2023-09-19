@@ -21,8 +21,10 @@ permalink: /about/
 <ul style="margin-left: 1rem">
   <li>문학 데이터의 스몰 데이터 형식의 구축과 분석 방법론</li>
   <li>자가진단도구 열풍에 투영된 자기서사 구축의 욕망</li>
-  <li>Technomasculinity와 드론</li>
-  <li>인포스피어(Infosphere)와 지박령의 문제</li>
+  <li>Technomasculinity와 드론(Drone)</li>
+  <li>인포스피어(Infosphere)와 정보철학(Philosophy of Information; PI)</li>
+  <li>온라인 커뮤니티를 중심으로 한 대중의 과학이해(Public Understanding of Science; PUS) 연구</li>
+  <li>행위자 네트워크 이론(Actor-Network Theory; ANT)과 객체지향존재론(Object Oriented Ontology; OOO)</li>
 </ul>
 
 <!-- #### Recent idea
