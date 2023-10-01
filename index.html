@@ -5,47 +5,77 @@ layout: default
 <div class='container'>
     <header class="masthead text-center">
 
-      <img class='img-responsive center-block' src="../images/home/home.jpg" oncontextmenu="return false" style="width: 100%; margin-top: -3%" />
+      <figure class="folded">
+
+        <img class="fold-me-please" src="../images/home/home.jpg" oncontextmenu="return false" style="width: 100%;" />
+
+        <span class="folds main">
+          <span class="cell main-2"></span>
+          <span class="cell main-1"></span>
+          <span class="cell main-2"></span>
+          <span class="cell main-1"></span>
+          <span class="cell main-2"></span>
+        </span>
+        
+        <span class="folds vertical">
+          <span class="cell vertical-1"></span>
+          <span class="cell vertical-2"></span>
+          <span class="cell vertical-3"></span>
+          <span class="cell vertical-4"></span>
+          <span class="cell vertical-5"></span>
+        </span> 
+        
+        <span class="folds horizontal">
+          <span class="cell horizontal-1"></span>
+          <span class="cell horizontal-2"></span>
+          <span class="cell horizontal-1"></span>
+          <span class="cell horizontal-2"></span>
+          <span class="cell horizontal-1"></span>
+          <span class="cell horizontal-3"></span>
+          <span class="cell horizontal-4"></span>
+          <span class="cell horizontal-3"></span>
+          <span class="cell horizontal-4"></span>
+          <span class="cell horizontal-3"></span>
+        </span>
+
+      </figure>
+
+
+      <span style="display: block; margin-bottom: 2em"></span>
+
+
+        <div class="box" style="padding-left: 2em; padding-right: 2em; padding-top: 1em;">
+
+            <center>
+              <h3 style="font-family: 'SimKyungha', cursive;">- 해인사에 오신 것을 환영합니다 -</h3>
+              <h4 style="font-family: 'SimKyungha', cursive;">이곳은 제 온라인 사무실이며, 3개월 이내 근황이 아래에 출력됩니다.</h4>
+              <!-- <u>Only news from the last 3 months is shown.</u> -->
+            </center>
+            <!-- <span style="display: block; margin-bottom: 0em"></span> -->
+            <div class="news" style="text-align: left;">
+                {% capture now %}{{'now' | date: '%s' | minus: 7776000 %}}{% endcapture %}
+                <ul style="list-style-position: outside; padding: 10px; margin-bottom: 0px" >
+                  {% for new in site.data.news %}
+                    {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
+                    {% if date > now %}
+                      <li style="font-family: 'SimKyungha'; font-size: 22px;">
+                        <span>
+                          {{ new.details }}
+                        </span>
+                      </li>
+                    {% endif %}
+                  {% endfor %}
+                </ul>
+            </div>
+
+        </div>
+
 
       <p>
-        <!-- <MARQUEE direction="down" scrollamount="2" style="text-align:center;">해인사에 오신 것을 환영합니다!</MARQUEE> -->
-        Welcome to Haeinsa.<br />This is my online office.<br />This is also a place to promote myself.
-
-        <span style="display: block; margin-bottom: 1em"></span>
-      
-        <!-- Center for Digital Humanities at the Acadey of Korean Studies<br /> -->
-
         <a href="https://github.com/Esantomi" target="_blank"><i class="fa fa-github"></i> Esantomi</a>&nbsp;&nbsp;&nbsp;
         <a href="https://twitter.com/DH_haein" target="_blank"><i class="fa fa-twitter"></i> DH_haein</a>&nbsp;&nbsp;&nbsp;
         <a href="mailto:cihayin@gmail.com"><i class="fa fa-envelope-o"></i> cihayin@gmail.com</a>
       </p>
-
-      <!-- <div class="w3-container" style="background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8"> -->
-      <!-- <div class="w3-container" style="margin: 1em auto; padding: 2em; background-color: #f0f8ff; box-shadow: 0 0 0 2px rgba(114,171,209,1), 8px 8px 0 0 rgba(114,171,209,1);"> -->
-      <div class="post-it" style="padding-left: 2em; padding-right: 2em;">
-        <div style="text-align: left;">
-          <center>
-            <h3 style="font-family: 'SimKyungha', cursive;"> - 지난 3달간 근황 공지 - </h3>
-            <!-- <u>Only news from the last 3 months is shown.</u> -->
-          </center>
-          <span style="display: block; margin-bottom: 0em"></span>
-          <div class="news">
-              {% capture now %}{{'now' | date: '%s' | minus: 7776000 %}}{% endcapture %}
-              <ul style="list-style-position: outside; padding: 10px; margin-bottom: 0px" >
-                {% for new in site.data.news %}
-                  {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
-                  {% if date > now %}
-                    <li style="font-family: 'SimKyungha'; font-size: 24px;">
-                      <span>
-                        {{ new.details }}
-                      </span>
-                    </li>
-                  {% endif %}
-                {% endfor %}
-              </ul>
-          </div>
-        </div >
-      </div>
 
       <span style="display: block; margin-bottom: 1em"></span>
 
