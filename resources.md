@@ -30,7 +30,7 @@ permalink: /resources/
 
 <hr>
 
-#### <i class="xi-microphone-o"></i> Talk
+#### <i class="xi-microphone-o"></i> Presentation
 
 <div class="content list">
   {% for post in site.posts %}
