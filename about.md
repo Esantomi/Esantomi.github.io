@@ -10,12 +10,16 @@ permalink: /about/
   </center>
 </figure>
 
+저는 삼매(參每) 또는 오자(伍字)라는 호(號)를 쓰는 학인(學人) 해인(海印)입니다. 이곳에서는 저에 대한 상세한 소개 대신, 곱씹고 싶은 말들의 목록을 제시하고자 합니다. 실질적인 이력이 궁금하신 분들께서는 <a href="/resources" target="_blank">CV</a> 항목을 확인해 주세요.
+
+<ul style="margin-left: 1rem">
+  <li>페레그리나티오(Peregrinatio)</li>
+</ul>
+
 #### <i class="xi-user-o"></i> Position
 <a href="http://dh.aks.ac.kr/" target="_blank">한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the Academy of Korean Studies)</a>에서 보조연구원(Research assistant)으로 근무하고 있습니다.
 
 <img class='img-responsive center-block' src="../images/about/logo.svg" style="height: 40px;"/>
-
-보다 상세한 이력은 상단 RESOURCES 메뉴의 CV 항목을 참고해 주세요.
 
 #### <i class="xi-lightning"></i> Interest
 한국 근대 산문문학, 그중에서도 이상(李箱) 소설을 중심으로 디지털인문학적 연구를 시도하고 있습니다. 현재 관심을 가지고 있는 주제는 구체적으로 다음과 같습니다.
