@@ -10,7 +10,9 @@ permalink: /about/
   </center>
 </figure>
 
-저는 삼매(參每) 또는 오자(伍字)라는 호(號)를 쓰는 학인(學人) 해인(海印)입니다. 이곳에서는 저에 대한 상세한 소개 대신, 곱씹고 싶은 말들의 목록을 열거하고자 합니다. 실질적인 이력이 궁금하신 분들께서는 <a href="/resources" target="_blank">CV</a> 항목을 확인해 주세요.
+안녕하세요?
+
+저는 삼매(參每)라는 호(號)를 쓰는 학인(學人) 지해인입니다. 이곳에는 저에 대한 상세한 소개 대신, 흥미 위주의 목록을 열거하고자 합니다. 실질적인 이력이 궁금하신 분들께서는 <a href="/resources" target="_blank">CV</a> 항목을 확인해 주세요.
 
 <ul style="margin-left: 1rem">
   <li>페레그리나티오(Peregrinatio)</li>
