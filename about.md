@@ -6,7 +6,7 @@ permalink: /about/
 ### <i class="xi-profile-o"></i> About me
 <figure>
   <center>
-    <img src="/images/about/haein1.png" width="200" height="200" oncontextmenu="return false" style="border-radius: 50%">
+    <img src="/images/about/haein.png" width="200" height="200" oncontextmenu="return false" style="border-radius: 50%">
   </center>
 </figure>
 
