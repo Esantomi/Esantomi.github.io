@@ -10,13 +10,7 @@ permalink: /about/
   </center>
 </figure>
 
-안녕하세요?
-
-저는 삼매(參每)라는 호(號)를 쓰는 학인(學人) 지해인입니다. 이곳에는 저에 대한 상세한 소개 대신, 흥미 위주의 목록을 열거하고자 합니다. 실질적인 이력이 궁금하신 분들께서는 <a href="/resources" target="_blank">CV</a> 항목을 확인해 주세요.
-
-<ul style="margin-left: 1rem">
-  <li>페레그리나티오(Peregrinatio)</li>
-</ul>
+안녕하세요? 저는 삼매(參每) 지해인입니다.
 
 #### <i class="xi-user-o"></i> Position
 <a href="http://dh.aks.ac.kr/" target="_blank">한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the Academy of Korean Studies)</a>에서 보조연구원(Research assistant)으로 근무하고 있습니다.
@@ -34,6 +28,7 @@ permalink: /about/
   <li>인포스피어(Infosphere)와 정보철학(Philosophy of Information; PI)</li>
   <li>온라인 커뮤니티를 중심으로 한 대중의 과학이해(Public Understanding of Science; PUS) 연구</li>
   <li>행위자 네트워크 이론(Actor-Network Theory; ANT)과 객체지향존재론(Object Oriented Ontology; OOO)</li>
+  <li>페레그리나티오(Peregrinatio)</li>
 </ul>
 
 <!-- #### Recent idea
