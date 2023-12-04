@@ -23,7 +23,7 @@ permalink: /resources/
 <div class="content list">
     <div class="list-item">
       <p class="list-post-title">
-        <a href="https://www.aks.ac.kr/webzine/2205/sub08.jsp" target="_blank"><i class="xi-check-min"></i> 시습재 일기, 「인문정보학 : 구름 속 세계, 환상적이고 어렴풋한」</a> (<small>05/22</small>)
+        <a href="https://www.aks.ac.kr/webzine/2205/sub08.jsp" target="_blank"><i class="xi-check-min"></i> 시습재 일기, 「인문정보학 : 구름 속 세계, 환상적이고 어렴풋한」</a> (<small>2022/05/22</small>)
       </p>
     </div>
 </div>
@@ -37,7 +37,7 @@ permalink: /resources/
     {% if post.categories contains 'talk' %}
     <div class="list-item">
       <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}"><i class="xi-check-min"></i> {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
+        <a href="{{ site.baseurl }}{{ post.url }}"><i class="xi-check-min"></i> {{ post.title }}</a> (<small>{{post.date | date: "20%y/%m/%d" }}</small>)
       </p>
     </div>
     {% endif %}
@@ -53,7 +53,7 @@ permalink: /resources/
     {% if post.categories contains 'teaching' %}
     <div class="list-item">
       <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}"><i class="xi-check-min"></i> {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
+        <a href="{{ site.baseurl }}{{ post.url }}"><i class="xi-check-min"></i> {{ post.title }}</a> (<small>{{post.date | date: "20%y/%m/%d" }}</small>)
       </p>
     </div>
     {% endif %}
