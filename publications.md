@@ -12,6 +12,18 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 ### <i class="xi-book-o"></i> Books
 
 <div style="display: flex; align-items: flex-start;">
+    <div style="flex: none;"><img src="/images/publication/tp-cover.png" width="100px" height="130px" oncontextmenu="return false"></div>
+    <div style="flex: auto;">
+        <p style="margin-left: 1rem;">
+        (<i class="xi-spinner-4 xi-spin"></i> 출간 예정) <strong>도기 보나 - 좋은 언어</strong><br />
+        손야 랑(Sonja Lang), 조민준(jan Epen)(역), 한국도기보나모임 일동(검수)<br>
+        부크크, 2024 (<a href="" target="_blank"><i class="xi-link"></i> Link</a>)<br />
+        &nbsp;➥ 인공어 <a href="https://ko.wikipedia.org/wiki/도기_보나" target="_blank">도기 보나(Toki pona)</a> 학습용 공식 교재(<a href="https://www.amazon.com/gp/product/0978292308" target="_blank">Toki Pona: The Language of Good</a>)의 '한국도기보나모임(kulupu pi toki pona pi ma Anku)' 주관 공식 번역서
+        </p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: flex-start;">
     <div style="flex: none;"><img src="/images/publication/kokam-gentle-cover.jpg" width="100px" height="130px" oncontextmenu="return false"></div>
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
@@ -61,7 +73,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
-### <i class="xi-translate"></i> Translations
+### <i class="xi-devices"></i> Web Contents
 
 **프롬프트 엔지니어링 가이드 (Prompt Engineering Guide)**<br />
 [백진주](https://github.com/100pearlcent), 지해인 외<br />
