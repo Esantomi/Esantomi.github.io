@@ -18,7 +18,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
         (<i class="xi-spinner-4 xi-spin"></i> 출간 예정) <strong>도기 보나 - 좋은 언어</strong><br />
         손야 랑(Sonja Lang), 조민준(jan Epen)(역), 한국도기보나모임(검수)<br>
         부크크, 2024 (<a href="" target="_blank"><i class="xi-link"></i> Link</a>)<br />
-        &nbsp;➥ <a href="https://ko.wikipedia.org/wiki/도기_보나" target="_blank">도기 보나(Toki pona)</a> 공식 교재(<a href="https://www.amazon.com/gp/product/0978292308" target="_blank">Toki Pona: The Language of Good</a>)의 한국도기보나모임(kulupu pi toki pona pi ma Anku) 주관 번역서
+        &nbsp;➥ <a href="https://ko.wikipedia.org/wiki/도기_보나" target="_blank">도기 보나</a> 공식 교재(<a href="https://www.amazon.com/gp/product/0978292308" target="_blank">Toki Pona: The Language of Good</a>)의 한국도기보나모임(kulupu pi toki pona pi ma Anku) 주관 번역서
         </p>
     </div>
 </div>
