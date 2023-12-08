@@ -16,9 +16,9 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
         (<i class="xi-spinner-4 xi-spin"></i> 출간 예정) <strong>도기 보나 - 좋은 언어</strong><br />
-        손야 랑(Sonja Lang), 조민준(jan Epen)(역), 한국도기보나모임 일동(검수)<br>
+        손야 랑(Sonja Lang), 조민준(jan Epen)(역), 한국도기보나모임(검수)<br>
         부크크, 2024 (<a href="" target="_blank"><i class="xi-link"></i> Link</a>)<br />
-        &nbsp;➥ 인공어 <a href="https://ko.wikipedia.org/wiki/도기_보나" target="_blank">도기 보나(Toki pona)</a> 학습용 공식 교재(<a href="https://www.amazon.com/gp/product/0978292308" target="_blank">Toki Pona: The Language of Good</a>)의 '한국도기보나모임(kulupu pi toki pona pi ma Anku)' 주관 공식 번역서
+        &nbsp;➥ <a href="https://ko.wikipedia.org/wiki/도기_보나" target="_blank">도기 보나(Toki pona)</a> 공식 교재(<a href="https://www.amazon.com/gp/product/0978292308" target="_blank">Toki Pona: The Language of Good</a>)의 한국도기보나모임(kulupu pi toki pona pi ma Anku) 주관 번역서
         </p>
     </div>
 </div>
@@ -30,7 +30,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
         (<i class="xi-spinner-4 xi-spin"></i> 출간 예정) <strong>꼬깜이는 부드러워</strong><br />
         해인 글, 천산 그림<br>
         부크크, 2024 (<a href="" target="_blank"><i class="xi-link"></i> Link</a>)<br />
-        &nbsp;➥ 고슴도치 꼬깜의 죽음을 애도하며 반려자와 함께 작업한 그림책입니다. 곧 각종 인터넷 서점을 통해 구매할 수 있게 할 예정입니다.
+        &nbsp;➥ 고슴도치 꼬깜의 죽음을 애도하며 반려자와 함께 작업한 그림책
         </p>
     </div>
 </div>
