@@ -39,7 +39,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
     <div style="flex: none;"><a href="https://wikidocs.net/book/8452" target="_blank"><img src="/images/publication/eb03.jpg" width="100px" height="130px" oncontextmenu="return false"></a></div>
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
-        (<i class="xi-spinner-4 xi-spin"></i> 공개 예정) [eBook] <strong>선행 온톨로지 모델 탐색 - 디지털인문학 시리즈</strong><br />
+        [eBook] <strong>선행 온톨로지 모델 탐색 - 디지털인문학 시리즈</strong><br />
         <a href="https://www.ddokbaro.com/" target="_blank">김바로</a>, 지해인 외<br />
         WikiDocs, 2023 (<a href="https://wikidocs.net/book/8452" target="_blank"><i class="xi-link"></i> Link</a>)<br />
         &nbsp;➥ AKSR2023-RE07: '한국학 시맨틱 웹 구축을 위한 선행 온톨로지 모델의 탐색과 교육' 프로젝트 결과물 (<i class="xi-spinner-2 xi-spin"></i> YouTube 강의 제공 예정)
