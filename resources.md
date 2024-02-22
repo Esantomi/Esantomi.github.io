@@ -30,8 +30,22 @@ permalink: /resources/
 
 <hr>
 
-#### <i class="xi-presentation"></i> Presentation
+#### <i class="xi-browser-text"></i> Event
+<div class="content list">
+  {% for post in site.posts %}
+    {% if post.categories contains 'event' %}
+    <div class="list-item">
+      <p class="list-post-title">
+        <a href="{{ site.baseurl }}{{ post.url }}"><i class="xi-check-min"></i> {{ post.title }}</a> (<small>{{post.date | date: "20%y/%m/%d" }}</small>)
+      </p>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
 
+<hr>
+
+#### <i class="xi-presentation"></i> Presentation
 <div class="content list">
   {% for post in site.posts %}
     {% if post.categories contains 'talk' %}
@@ -47,7 +61,6 @@ permalink: /resources/
 <hr>
 
 #### <i class="xi-lightbulb-o"></i> Teaching
-
 <div class="content list">
   {% for post in site.posts %}
     {% if post.categories contains 'teaching' %}
