@@ -10,7 +10,7 @@ permalink: /about/
   </center>
 </figure>
 
-안녕하세요? 저는 삼매(參每) 지해인입니다.
+안녕하세요? 저는 지해인입니다. 호(號)로 삼매(參(三)每), 오자(伍(五)字)를 쓰고 있습니다.
 
 #### <i class="xi-user-o"></i> Position
 <a href="http://dh.aks.ac.kr/" target="_blank">한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the Academy of Korean Studies)</a>에서 보조연구원(Research assistant)으로 근무하고 있습니다.
