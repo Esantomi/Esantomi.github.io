@@ -95,6 +95,6 @@ permalink: /about/
 #### <i class="xi-sitemap-o"></i> Semantic network
 <figure>
   <center>
-    <iframe src="https://haein.info/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+    <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
   </center>
 </figure>
