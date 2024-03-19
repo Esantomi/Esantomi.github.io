@@ -35,6 +35,30 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
     </div>
 </div>
 
+<!-- <div style="display: flex; align-items: flex-start;">
+    <div style="flex: none;"><a href="https://wikidocs.net/book/8452" target="_blank"><img src="/images/publication/temp.jpg" width="100px" height="130px" oncontextmenu="return false"></a></div>
+    <div style="flex: auto;">
+        <p style="margin-left: 1rem;">
+        (<i class="xi-spinner-4 xi-spin"></i> 출간 예정)[eBook] <strong>생성AI with 인문학 - 디지털인문학 시리즈</strong><br />
+        <a href="https://www.ddokbaro.com/" target="_blank">김바로</a>, 지해인 외<br />
+        WikiDocs, 2024 (<a href="https://wikidocs.net/book/14568" target="_blank"><i class="xi-link"></i> Link</a>)<br />
+        &nbsp;➥ AKSR2024-RE??: '??' 프로젝트 결과물 (<i class="xi-spinner-2 xi-spin"></i> YouTube 강의 제공 예정)
+        </p>
+    </div>
+</div> -->
+
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: none;"><a href="https://wikidocs.net/book/8452" target="_blank"><img src="/images/publication/temp.jpg" width="100px" height="130px" oncontextmenu="return false"></a></div>
+    <div style="flex: auto;">
+        <p style="margin-left: 1rem;">
+        (<i class="xi-spinner-4 xi-spin"></i> 출간 예정)[eBook] <strong>XML(TEI) with 인문학 - 디지털인문학 시리즈</strong><br />
+        <a href="https://www.ddokbaro.com/" target="_blank">김바로</a>, 지해인 외<br />
+        WikiDocs, 2024 (<a href="https://wikidocs.net/book/14569" target="_blank"><i class="xi-link"></i> Link</a>)<br />
+        &nbsp;➥ AKSR2024-RE??: '고문헌 데이터 설계를 위한 선행 모델 분석 및 교육 콘텐츠 구축' 프로젝트 결과물 (<i class="xi-spinner-2 xi-spin"></i> YouTube 강의 제공 예정)
+        </p>
+    </div>
+</div>
+
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: none;"><a href="https://wikidocs.net/book/8452" target="_blank"><img src="/images/publication/eb03.jpg" width="100px" height="130px" oncontextmenu="return false"></a></div>
     <div style="flex: auto;">
