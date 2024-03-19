@@ -48,7 +48,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 </div> -->
 
 <div style="display: flex; align-items: flex-start;">
-    <div style="flex: none;"><a href="https://wikidocs.net/book/8452" target="_blank"><img src="/images/publication/temp.jpg" width="100px" height="130px" oncontextmenu="return false"></a></div>
+    <div style="flex: none;"><a href="https://wikidocs.net/book/14569" target="_blank"><img src="/images/publication/eb04.jpg" width="100px" height="130px" oncontextmenu="return false"></a></div>
     <div style="flex: auto;">
         <p style="margin-left: 1rem;">
         (<i class="xi-spinner-4 xi-spin"></i> 출간 예정)[eBook] <strong>XML(TEI) with 인문학 - 디지털인문학 시리즈</strong><br />
