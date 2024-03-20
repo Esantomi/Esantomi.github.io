@@ -2,14 +2,14 @@
 title: 사서삼경을 읽는 것과 유도를 닦는 것
 description: 이기동 선생님의 저서를 읽으며 느낀 감상
 categories: newblog
-header-img: images/blog/confucianism/논어.png
+header-img: images/blog/confucianism/seodang.jpg
 ---
 
 <figure>
     <center>
-        <img width="300" src="{{site.baseurl}}/images/blog/confucianism/논어.png" data-action="zoom">
+        <img width="300" src="{{site.baseurl}}/images/blog/confucianism/seodang.jpg" data-action="zoom">
         <figcaption>
-            학민문화사 논어. 이걸로 공부하게 된다.
+            이 시대에 유경을 읽는다는 것, 이런 느낌!?
         </figcaption>
     </center>
 </figure>
