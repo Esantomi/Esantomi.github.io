@@ -18,7 +18,7 @@ permalink: /about/
 <img class='img-responsive center-block' src="../images/about/logo.svg" style="height: 40px;"/>
 
 #### <i class="xi-lightning"></i> Interest
-한국 근대 산문문학, 그중에서도 이상(李箱) 소설을 중심으로 디지털인문학적 연구를 시도하고 있습니다. 현재 관심을 가지고 있는 주제는 구체적으로 다음과 같습니다.
+한국 근대 산문문학, 그중에서도 이상(李箱) 소설을 중심으로 전산인문학적 연구를 시도하고 있습니다. 그 외에 현재 막연하게나마 관심을 가지고 있는 주제는 대략 다음과 같습니다.
 
 <ul style="margin-left: 1rem">
   <li>문학 데이터의 스몰 데이터 형식의 구축과 분석 방법론</li>
@@ -31,6 +31,15 @@ permalink: /about/
   <li>페레그리나티오(Peregrinatio)</li>
 </ul>
 
+정보 기술(IT) 그 자체에도 흥미가 있어 작은 규모의 서버를 굴려 보고 있습니다.
+
+<figure>
+  <center>
+    <img class='img-responsive center-block' src="../images/about/server.jpg" oncontextmenu="return false" style="height: 300px;"/>
+    <figcaption style="margin-top: -1em;">현재 가동 중인 Synology NAS 서버입니다.</figcaption>
+  </center>
+</figure>
+
 <!-- #### Recent idea
 <blockquote>&nbsp; "I am very much a humanist.<br />
 
@@ -41,12 +50,16 @@ permalink: /about/
 &nbsp; If you talk to anthropologists these days, they don't put much weight on notions of demonstrability either but are more interested in aspects like the cogency, coherence, and persuasiveness of an accout."<br /><small>Dale B. Martin, Social-Scientific Criticism</small></blockquote> -->
 
 #### <i class="xi-emoticon-cool-o"></i> Pleasure
+먼저 세상에서 제일 귀여운 골든 햄스터를 소개합니다. 집에서 애니멀 테라피스트(Animal-assisted therapist)의 직책을 맡고 있습니다.
+
 <figure>
   <center>
     <img src="/images/about/seang.jpg" height="200" oncontextmenu="return false" style="border-radius: 50%">
     <figcaption style="margin-top: -1em;">새앙이란 이름의 햄스터를 키웁니다.</figcaption>
   </center>
 </figure>
+
+그 외에도 좋아하는 것들이 많습니다. 가볍게 열거해 보자면 다음과 같습니다.
 
 <div class="multi-accordion">
   <details>
