@@ -10,7 +10,7 @@ permalink: /about/
   </center>
 </figure>
 
-안녕하세요? 저는 지해인입니다. 호(號)로 오자(五字)를 쓰고 있습니다.
+안녕하세요? 저는 지해인입니다. 아명(兒名)이 성을 합쳐 다섯 글자였기 때문에 호(號)로 오자(㐅字)를 쓰고 있습니다. (㐅는 五의 고자(古字)입니다.)
 
 #### <i class="xi-user-o"></i> Position
 <a href="http://dh.aks.ac.kr/" target="_blank">한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the Academy of Korean Studies)</a>에서 보조연구원(Research assistant)으로 근무하고 있습니다.
