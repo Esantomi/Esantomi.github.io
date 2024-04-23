@@ -18,7 +18,7 @@ permalink: /about/
 <img class='img-responsive center-block' src="../images/about/logo.svg" style="height: 40px;"/>
 
 #### <i class="xi-lightning"></i> Interest
-한국 근대 산문문학, 그중에서도 이상(李箱) 소설을 중심으로 전산인문학적 연구를 시도하고 있습니다. 그 외에 현재 막연하게나마 관심을 가지고 있는 주제는 대략 다음과 같습니다.
+한국 근대 산문문학, 그중에서도 이상(李箱) 소설을 중심으로 감각·감정의 전산인문학적 연구를 시도하고 있습니다. 그 외에 현재 막연하게나마 관심을 가지고 있는 주제는 대략 다음과 같습니다.
 
 <ul style="margin-left: 1rem">
   <li>문학 데이터의 스몰 데이터 형식의 구축과 분석 방법론</li>
