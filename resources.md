@@ -79,7 +79,7 @@ permalink: /resources/
 <div class="content list">
     <div class="list-item">
       <p class="list-post-title">
-        <a href="https://dh.aks.ac.kr/" target="_blank"><i class="xi-check-min"></i> 한국학중앙연구원 디지털인문학연구소</a> (<small>2022/05/22</small>)
+        <a href="https://dh.aks.ac.kr/" target="_blank"><i class="xi-check-min"></i> 한국학중앙연구원 디지털인문학연구소</a>
       </p>
     </div>
 </div>
