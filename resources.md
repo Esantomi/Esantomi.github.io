@@ -81,6 +81,9 @@ permalink: /resources/
       <p class="list-post-title">
         <a href="https://dh.aks.ac.kr/" target="_blank"><i class="xi-check-min"></i> 한국학중앙연구원 디지털인문학연구소</a>
       </p>
+      <p class="list-post-title">
+        <a href="https://dh.aks.ac.kr/hanyang2/wiki/index.php/대문" target="_blank"><i class="xi-check-min"></i> 한양도성 타임머신 시맨틱 데이터 아카이브</a>
+      </p>
     </div>
 </div>
 
