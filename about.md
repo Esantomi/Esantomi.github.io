@@ -10,15 +10,15 @@ permalink: /about/
   </center>
 </figure>
 
-안녕하세요? 저는 지해인입니다. 아명(兒名)이 성을 합쳐 다섯 글자였기 때문에 호(號)로 오자(㐅字)를 쓰고 있습니다. (㐅는 五의 고자(古字)입니다.)
+안녕하세요? 저는 지해인입니다. 호(號)로 삼매(參每)를 쓰고 있습니다.
 
 #### <i class="xi-user-o"></i> Position
-<a href="http://dh.aks.ac.kr/" target="_blank">한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the Academy of Korean Studies)</a>에서 보조연구원(Research assistant)으로 근무하고 있습니다.
+<a href="https://grad.aks.ac.kr/" target="_blank">한국학중앙연구원 한국학대학원</a>에서 인문정보학(Cultural Informatics) 전공으로 석사 학위를 취득하고, 현재 <a href="http://dh.aks.ac.kr/" target="_blank">한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities)</a>에서 연구원으로 근무하고 있습니다.
 
-<img class='img-responsive center-block' src="../images/about/logo.svg" style="height: 40px;"/>
+<img class='img-responsive center-block' src="../images/about/c4dh.png" style="height: 200px;"/>
 
 #### <i class="xi-lightning"></i> Interest
-한국 근대 산문문학, 그중에서도 이상(李箱) 소설을 중심으로 감각·감정의 전산인문학적 연구를 시도하고 있습니다. 그 외에 현재 막연하게나마 관심을 가지고 있는 주제는 대략 다음과 같습니다.
+텍스트로 사람을 보고자 합니다. 현재 관심을 가지고 있는 주제는 대략 다음과 같습니다.
 
 <ul style="margin-left: 1rem">
   <li>문학 데이터의 스몰 데이터 형식의 구축과 분석 방법론</li>
