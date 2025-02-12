@@ -8,9 +8,11 @@ title: Curriculum Vitae
 
 ## Bio
 
-안녕하세요. **지해인(Ji Haein)**의 홈페이지에 오신 것을 환영합니다. 저는 디지털 인문학(Digital Humanities; DH), 그중에서도 전산 문학 연구(Computational Literary Studies; CLS)를 수행하고 있는 학생 신분 연구자입니다. 학부 강의 경험이 있고 인문 데이터 설계·구축, 분석 등과 관련해 강의가 가능합니다.
+안녕하세요. **지해인(Ji Haein)**의 홈페이지에 오신 것을 환영합니다. 
 
-### Interests
+저는 디지털 인문학(Digital Humanities; DH), 그중에서도 전산 문학 연구(Computational Literary Studies; CLS)를 수행하고 있는 학생 신분 연구자입니다. 학부 강의 경험이 있고 인문 데이터 설계·구축, 분석 등과 관련해 강의가 가능합니다.
+
+### Research Interests
 문학 텍스트에서 감정과 감각과 같은, **정량적으로 다루기 어려운 인간의 경험 요소를 기계적으로 포착하고 그 문학적 함의를 다루는 연구**로 석사 학위를 취득하였습니다. 문학 외에도 다방면으로 관심사를 넓히고자 노력하고 있습니다. 다음은 현재 관심 있는 연구 분야입니다.
 - 정보 철학(Philosophy of Information; PI)
 - 전산 문학 연구(Computational Literary Studies; CLS)
