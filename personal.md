@@ -3,7 +3,7 @@ author: Haein Ji
 title: Personal
 ---
 
-<div class="menu"><center><i class="fa fa-home" aria-hidden="true"></i><a href="./"> home</a> | <i class="fa fa-commenting" aria-hidden="true"></i><a href="./personal"> personal</a></center></div>
+<div class="menu"><center><i class="fas fa-home"></i><a href="./"> home</a> | <i class="fas fa-sticky-note"></i><a href="./personal"> personal</a></center></div>
 
 ## Sales
 각종 수제 장신구를 판매합니다. <a href="https://idus.com/horan_gongbang" target="_blank">[Link]</a>
