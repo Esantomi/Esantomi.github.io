@@ -52,17 +52,17 @@ title: Curriculum Vitae
 1. 지해인. (2024). **디지털 감각∙감정 분석을 통한 이상 문학의 에피파니 연구** [석사학위논문, 韓國學中央硏究院 韓國學大學院]. <a href="https://www.riss.kr/link?id=T17070127" target="_blank">T17070127</a>
 
 ### eBooks
-1. 김바로, **지해인** et al. (2024). **XML(TEI) with 인문학 - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/14569" target="_blank">book/14569</a> <br> <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocFlHZO4MEuehx6noQCp5Vy" target="_blank">[DH 교육] XML(TEI) with 인문학</a>
-2. 김바로, **지해인** et al. (2023). **선행 온톨로지 모델 탐색 - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8452" target="_blank">book/8452</a> <br> <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIoevFRxa0Ng9VrKYsk8GTqOK" target="_blank">[DH 교육] 선행 온톨로지 모델 리뷰</a>
-3. 김바로, **지해인** et al. (2023). **인문 데이터 분석 - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8451" target="_blank">book/8451</a> <br> <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocCaLeOESc7G_VMBCyuY0ca" target="_blank">[DH 교육] 인문 데이터 분석</a>
-4. 김바로, **지해인** et al. (2022). **시각적 인문학(Visual Humanities) - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8450" target="_blank">book/8450</a> <br> <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">[DH 교육] 시각적 인문학</a>
+1. 김바로, **지해인** et al. (2024). **XML(TEI) with 인문학 - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/14569" target="_blank">book/14569</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocFlHZO4MEuehx6noQCp5Vy" target="_blank">[DH 교육] XML(TEI) with 인문학</a>
+2. 김바로, **지해인** et al. (2023). **선행 온톨로지 모델 탐색 - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8452" target="_blank">book/8452</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIoevFRxa0Ng9VrKYsk8GTqOK" target="_blank">[DH 교육] 선행 온톨로지 모델 리뷰</a>
+3. 김바로, **지해인** et al. (2023). **인문 데이터 분석 - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8451" target="_blank">book/8451</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocCaLeOESc7G_VMBCyuY0ca" target="_blank">[DH 교육] 인문 데이터 분석</a>
+4. 김바로, **지해인** et al. (2022). **시각적 인문학(Visual Humanities) - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8450" target="_blank">book/8450</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">[DH 교육] 시각적 인문학</a>
 
 
 ## Talks/Presentations
 
-- 임이로, **지해인**, 김병준. (2025.02.13). **한국 근현대시 감정 라벨링 데이터셋 구축: 문학 텍스트의 컴퓨터 기반 감정 분류와 생성형 AI 활용을 위한 기초 연구** [Poster presentation]. 제2회 한국현대문학자대회, 서울, 대한민국. <br> <i class="fa fa-picture-o" aria-hidden="true"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2nd_korlitconf.png" target="_blank">Poster</a>
-- 지해인. (2023.12.12). **이상 단편소설에 대한 디지털 인문학적 접근 - ‘깨달음’의 감정을 중심으로** [Conference presentation]. 이상문학회(李箱文學會) 2023년도 하반기 정기학술대회: 이상(李箱) 문학의 다양성 모색, 서울, 대한민국. <br> <i class="fa fa-picture-o" aria-hidden="true"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2023_latterhalf_yisanglitconf.jpg" target="_blank">Poster</a>
-- 지해인. (2023.01.13). **KOTE를 통해 본 이상 텍스트 속 ‘깨달음’과 그 수용 양상** [Case presentation]. 2023 디지털인문학 겨울학교 심포지엄: 디지털인문학 - 포스트 AI 시대를 위한 융합전략, 서울, 대한민국. <br> <i class="fa fa-picture-o" aria-hidden="true"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2023_dhwntrsch.jpg" target="_blank">Poster</a>
+- 임이로, **지해인**, 김병준. (2025.02.13). **한국 근현대시 감정 라벨링 데이터셋 구축: 문학 텍스트의 컴퓨터 기반 감정 분류와 생성형 AI 활용을 위한 기초 연구** [Poster presentation]. 제2회 한국현대문학자대회, 서울, 대한민국. <br> <i class="fas fa-image"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2nd_korlitconf.png" target="_blank">Poster</a>
+- 지해인. (2023.12.12). **이상 단편소설에 대한 디지털 인문학적 접근 - ‘깨달음’의 감정을 중심으로** [Conference presentation]. 이상문학회(李箱文學會) 2023년도 하반기 정기학술대회: 이상(李箱) 문학의 다양성 모색, 서울, 대한민국. <br> <i class="fas fa-image"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2023_latterhalf_yisanglitconf.jpg" target="_blank">Poster</a>
+- 지해인. (2023.01.13). **KOTE를 통해 본 이상 텍스트 속 ‘깨달음’과 그 수용 양상** [Case presentation]. 2023 디지털인문학 겨울학교 심포지엄: 디지털인문학 - 포스트 AI 시대를 위한 융합전략, 서울, 대한민국. <br> <i class="fas fa-image"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2023_dhwntrsch.jpg" target="_blank">Poster</a>
 
 
 ## Teaching Experience
