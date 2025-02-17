@@ -68,6 +68,8 @@ title: Curriculum Vitae
 - SLA23501 **디지털 인문학 입문**, TA, 울산과학기술원(Ulsan National Institute of Science and Technology; UNIST) ; Mar. - Jun. 2025
 - **해커톤 세션**, TA, 2025 디지털인문학 겨울학교(2025 Digital Humanities Winter School) ; Jan. 20-24, 2025
 - LE1173 **빅데이터와분석**, 강사, 한국전통문화대학교(Korea National University of Heritage) ; Sept. - Dec. 2024
+- **유가철학 창의·인성 코너스톤 KCC**, TA, 강릉원주대학교(Gangneung-Wonju National University) ; Nov. 23, 2022
+- **문서에서 발견하는 옛 사람들 이야기**, TA, 경기꿈의대학(Gyeonggi Dream School) ; Apr. - Jun. 2022
 
 
 ## Skills
