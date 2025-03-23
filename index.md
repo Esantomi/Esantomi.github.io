@@ -41,14 +41,15 @@ title: Curriculum Vitae
 
 
 ## Publications
+
 ### Journal Articles
 1. 지해인. (2024). **이상 단편소설 기초·감각 데이터셋**. <i>디지털인문학</i>, 1(2), 49-67. <i class="ai ai-doi"></i> <a href="https://doi.org/10.23287/KJDH.2024.1.2.4" target="_blank">10.22936/sh.72..202410.021</a>
 2. 지해인. (2024). **디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구**. <i>상허학보</i>, 72, 753-827. <i class="ai ai-doi"></i> <a href="https://doi.org/10.22936/sh.72..202410.021" target="_blank">10.22936/sh.72..202410.021</a>
 
 ### Theses
-- 지해인. (2024). **디지털 감각∙감정 분석을 통한 이상 문학의 에피파니 연구** [석사학위논문, 韓國學中央硏究院 韓國學大學院]. <a href="https://www.riss.kr/link?id=T17070127" target="_blank">T17070127</a>
-- 지해인. (2018). **식물 SNARE와 그 기능** [학사학위논문, 건국대학교].
-- 지해인. (2018). **문장종결법으로서의 한국어 경계법 지위 검토** [학사학위논문, 건국대학교].
+1. 지해인. (2024). **디지털 감각∙감정 분석을 통한 이상 문학의 에피파니 연구** [석사학위논문, 韓國學中央硏究院 韓國學大學院]. <a href="https://www.riss.kr/link?id=T17070127" target="_blank">T17070127</a>
+2. 지해인. (2018). **식물 SNARE와 그 기능** [학사학위논문, 건국대학교].
+3. 지해인. (2018). **문장종결법으로서의 한국어 경계법 지위 검토** [학사학위논문, 건국대학교].
 
 ### eBooks
 1. 김바로, **지해인** et al. (2024). **XML(TEI) with 인문학 - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/14569" target="_blank">book/14569</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocFlHZO4MEuehx6noQCp5Vy" target="_blank">[DH 교육] XML(TEI) with 인문학</a>
@@ -57,8 +58,9 @@ title: Curriculum Vitae
 4. 김바로, **지해인** et al. (2022). **시각적 인문학(Visual Humanities) - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8450" target="_blank">book/8450</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">[DH 교육] 시각적 인문학</a>
 
 ## Projects
+
 - 한국연구재단: **네트워크형 디지털 인문학 교육모델 개발** ; 외부참여연구원(연구책임자: 이재연) ; Apr. 2024 - Present
-- 한국연구재단: **인간과 협업하는 딥러닝 기반 AI 소설 생성 융합 연구** ; 보조연구원(연구책임자: 윤미선) ; Sept. 2024 - Present
+- 한국연구재단: **인간과 협업하는 딥러닝 기반 AI 소설 생성 융합 연구** ; 보조연구원(연구책임자: 윤미선) ; Apr. 2024 - Present
 - 한국학중앙연구원: **고급 자연어 처리 및 대규모 언어 모델 기반 디지털 한국학 연구 및 교육 방법론 개발** ; 보조연구원(연구책임자: 김병준) ; Mar. 2025 - Aug. 2025
 - 한국학중앙연구원: **고문헌 데이터 설계를 위한 선행 모델 분석 및 교육 콘텐츠 구축** ; 보조연구원(연구책임자: 김바로) ; Mar. 2024 - Aug. 2024
 - 한국학중앙연구원: **한국학 시맨틱 웹 구축을 위한 선행 온톨로지 모델의 탐색과 교육** ; 보조연구원(연구책임자: 김바로) ; Sept. 2023 - Feb. 2024
