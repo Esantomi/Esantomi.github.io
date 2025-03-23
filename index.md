@@ -45,8 +45,10 @@ title: Curriculum Vitae
 1. 지해인. (2024). **이상 단편소설 기초·감각 데이터셋**. <i>디지털인문학</i>, 1(2), 49-67. <i class="ai ai-doi"></i> <a href="https://doi.org/10.23287/KJDH.2024.1.2.4" target="_blank">10.22936/sh.72..202410.021</a>
 2. 지해인. (2024). **디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구**. <i>상허학보</i>, 72, 753-827. <i class="ai ai-doi"></i> <a href="https://doi.org/10.22936/sh.72..202410.021" target="_blank">10.22936/sh.72..202410.021</a>
 
-### Thesis
-1. 지해인. (2024). **디지털 감각∙감정 분석을 통한 이상 문학의 에피파니 연구** [석사학위논문, 韓國學中央硏究院 韓國學大學院]. <a href="https://www.riss.kr/link?id=T17070127" target="_blank">T17070127</a>
+### Theses
+- 지해인. (2024). **디지털 감각∙감정 분석을 통한 이상 문학의 에피파니 연구** [석사학위논문, 韓國學中央硏究院 韓國學大學院]. <a href="https://www.riss.kr/link?id=T17070127" target="_blank">T17070127</a>
+- 지해인. (2018). **식물 SNARE와 그 기능** [학사학위논문, 건국대학교].
+- 지해인. (2018). **문장종결법으로서의 한국어 경계법 지위 검토** [학사학위논문, 건국대학교].
 
 ### eBooks
 1. 김바로, **지해인** et al. (2024). **XML(TEI) with 인문학 - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/14569" target="_blank">book/14569</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocFlHZO4MEuehx6noQCp5Vy" target="_blank">[DH 교육] XML(TEI) with 인문학</a>
@@ -54,6 +56,17 @@ title: Curriculum Vitae
 3. 김바로, **지해인** et al. (2023). **인문 데이터 분석 - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8451" target="_blank">book/8451</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocCaLeOESc7G_VMBCyuY0ca" target="_blank">[DH 교육] 인문 데이터 분석</a>
 4. 김바로, **지해인** et al. (2022). **시각적 인문학(Visual Humanities) - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8450" target="_blank">book/8450</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">[DH 교육] 시각적 인문학</a>
 
+## Projects
+- **네트워크형 디지털 인문학 교육모델 개발**, 외부참여연구원(연구책임자: 이재연) ; Apr. 2024 - Present
+- **인간과 협업하는 딥러닝 기반 AI 소설 생성 융합 연구**, 보조연구원(연구책임자: 윤미선) ; Sept. 2024 - Present
+- (AKSR2025-RE04) **고급 자연어 처리 및 대규모 언어 모델 기반 디지털 한국학 연구 및 교육 방법론 개발**, 보조연구원(연구책임자: 김병준) ; Mar. 2025 - Aug. 2025
+- (AKSR2024-RE02) **고문헌 데이터 설계를 위한 선행 모델 분석 및 교육 콘텐츠 구축**, 보조연구원(연구책임자: 김바로) ; Mar. 2024 - Aug. 2024
+- (AKSR2023-RE07) **한국학 시맨틱 웹 구축을 위한 선행 온톨로지 모델의 탐색과 교육**, 보조연구원(연구책임자: 김바로) ; Sept. 2023 - Feb. 2024
+- (AKSR2023-RE01) **인문학도를 위한 데이터 분석 교육 콘텐츠 편찬 - 한국학 데이터를 중심으로**, 보조연구원(연구책임자: 김바로) ; Mar. 2023 - Aug. 2023
+- (AKSR2022-RE08) **강릉 12향현(江陵 十二鄕賢) 멀티미디어콘텐츠 편찬 및 교육 동영상 제작**, 보조연구원(연구책임자: 김바로) ; Sept. 2022 - Feb. 2023
+- (AKSR2022-C14) **조선시대 『홍문록(弘文錄)』과 집권세력의 네트워크**, 보조연구원(연구책임자: 김바로) ; Jun. 2022 - Dec. 2022
+- **2022 한양도성 타임머신 사업 빅데이터 아카이브 구축**, 보조연구원(연구책임자: 김현) ; Jun. 2022 - Dec. 2022
+- **이야기 완성 평가 말뭉치 연구 분석**, 보조연구원(연구책임자: 송상헌) ; May. 2022 - Dec. 2022
 
 ## Talks/Presentations
 
@@ -64,7 +77,7 @@ title: Curriculum Vitae
 
 ## Teaching Experience
 
-- SLA23501 **디지털 인문학 입문**, 객원강사(Special Instructor), 울산과학기술원(Ulsan National Institute of Science and Technology; UNIST) ; Mar. - Jun. 2025
+- SLA23501 **디지털 인문학 입문**, 특별강사(Special Instructor), 울산과학기술원(Ulsan National Institute of Science and Technology; UNIST) ; Mar. - Jun. 2025
 - **해커톤 세션**, 수업조교(TA), 2025 디지털인문학 겨울학교(2025 Digital Humanities Winter School) ; Jan. 20-24, 2025
 - LE1173 **빅데이터와분석**, 강사(Instructor), 한국전통문화대학교(Korea National University of Heritage) ; Sept. - Dec. 2024
 - 104.325 **유가철학 창의·인성 코너스톤 KCC**, 수업조교(TA), 강릉원주대학교(Gangneung-Wonju National University) ; Nov. 23, 2022
