@@ -72,6 +72,7 @@ title: Curriculum Vitae
 
 ## Talks/Presentations
 
+- Iro Lim, **Haein Ji**, Byungjun Kim. (2025.04.25). **Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI modeling** [Poster presentation]. Digital Humanities and Social Sciences Korea Conference, Philadelphia, USA. <br> <i class="fas fa-image"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/DhSsKoConf.pdf" target="_blank">Program</a>
 - 임이로, **지해인**, 김병준. (2025.02.13). **한국 근현대시 감정 라벨링 데이터셋 구축: 문학 텍스트의 컴퓨터 기반 감정 분류와 생성형 AI 활용을 위한 기초 연구** [Poster presentation]. 제2회 한국현대문학자대회, 서울, 대한민국. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15055795" target="_blank">10.5281/zenodo.15055795</a> <br> <i class="fas fa-image"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2nd_korlitconf.png" target="_blank">Program</a>
 - 지해인. (2023.12.12). **이상 단편소설에 대한 디지털 인문학적 접근 - ‘깨달음’의 감정을 중심으로** [Conference presentation]. 이상문학회(李箱文學會) 2023년도 하반기 정기학술대회: 이상(李箱) 문학의 다양성 모색, 서울, 대한민국. <br> <i class="fas fa-image"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2023_latterhalf_yisanglitconf.jpg" target="_blank">Program</a>
 - 지해인. (2023.01.13). **KOTE를 통해 본 이상 텍스트 속 ‘깨달음’과 그 수용 양상** [Case presentation]. 2023 디지털인문학 겨울학교 심포지엄: 디지털인문학 - 포스트 AI 시대를 위한 융합전략, 서울, 대한민국. <br> <i class="fas fa-image"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2023_dhwntrsch.jpg" target="_blank">Program</a>
