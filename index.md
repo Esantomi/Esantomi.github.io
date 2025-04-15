@@ -85,6 +85,14 @@ title: Curriculum Vitae
 - 지해인. (2023.01.13). **KOTE를 통해 본 이상 텍스트 속 ‘깨달음’과 그 수용 양상** [Case presentation]. 2023 디지털인문학 겨울학교 심포지엄: 디지털인문학 - 포스트 AI 시대를 위한 융합전략, 서울, 대한민국. <br> <i class="fas fa-image"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2023_dhwntrsch.jpg" target="_blank">Program</a>
 
 
+## Awards and Honors
+- 등록금면제장학금(Tuition Fee Exemption Scholarship), Ph.D./1, 한국학중앙연구원(The Academy of Korean Studies)
+- 연구장학금(Research Scholarship), M.A./4, 한국학중앙연구원(The Academy of Korean Studies)
+- 연구장학금(Research Scholarship), M.A./3, 한국학중앙연구원(The Academy of Korean Studies)
+- 등록금면제장학금(Tuition Fee Exemption Scholarship), M.A./2, 한국학중앙연구원(The Academy of Korean Studies)
+- 등록금면제장학금(Tuition Fee Exemption Scholarship), M.A./1, 한국학중앙연구원(The Academy of Korean Studies)
+
+
 ## Teaching Experience
 
 - SLA23501 **디지털 인문학 입문**, 특별강사(Special Instructor), 울산과학기술원(Ulsan National Institute of Science and Technology; UNIST) ; Mar. - Jun. 2025
