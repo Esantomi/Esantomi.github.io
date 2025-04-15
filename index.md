@@ -86,11 +86,11 @@ title: Curriculum Vitae
 
 
 ## Awards and Honors
-- 등록금면제장학금(Tuition Fee Exemption Scholarship), Ph.D./1, 한국학중앙연구원(The Academy of Korean Studies)
-- 연구장학금(Research Scholarship), M.A./4, 한국학중앙연구원(The Academy of Korean Studies)
-- 연구장학금(Research Scholarship), M.A./3, 한국학중앙연구원(The Academy of Korean Studies)
-- 등록금면제장학금(Tuition Fee Exemption Scholarship), M.A./2, 한국학중앙연구원(The Academy of Korean Studies)
-- 등록금면제장학금(Tuition Fee Exemption Scholarship), M.A./1, 한국학중앙연구원(The Academy of Korean Studies)
+- **등록금면제장학금(Tuition Fee Exemption Scholarship)**, Ph.D./1, 한국학중앙연구원(The Academy of Korean Studies)
+- **연구장학금(Research Scholarship)**, M.A./4, 한국학중앙연구원(The Academy of Korean Studies)
+- **연구장학금(Research Scholarship)**, M.A./3, 한국학중앙연구원(The Academy of Korean Studies)
+- **등록금면제장학금(Tuition Fee Exemption Scholarship)**, M.A./2, 한국학중앙연구원(The Academy of Korean Studies)
+- **등록금면제장학금(Tuition Fee Exemption Scholarship)**, M.A./1, 한국학중앙연구원(The Academy of Korean Studies)
 
 
 ## Teaching Experience
