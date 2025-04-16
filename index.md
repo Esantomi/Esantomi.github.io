@@ -8,7 +8,7 @@ title: Curriculum Vitae
 
 ## Bio
 
-안녕하세요. 저는 디지털 인문학(Digital Humanities, DH), 특히 전산 문학 연구(Computational Literary Studies, CLS)를 주 연구 분야로 삼고 있는 학생 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**; Preferred Anglicized Romanization: **Hayne Deome Gee**; Sino-Korean: 池海印)입니다. 학부 수준의 강의 경험이 있으며, 인문 데이터 설계, 구축, 분석 등을 주제로 강의 및 워크숍을 진행할 수 있는 역량을 갖추고 있습니다.
+안녕하세요. 저는 디지털 인문학(Digital Humanities, DH), 특히 전산 문학 연구(Computational Literary Studies, CLS)를 주 연구 분야로 삼고 있는 학생 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**; Preferred Anglicized Romanization: **Hayne Deome Gee**; Sino-Korean: **池海印**)입니다. 학부 수준의 강의 경험이 있으며, 인문 데이터 설계, 구축, 분석 등을 주제로 강의 및 워크숍을 진행할 수 있는 역량을 갖추고 있습니다.
 
 ### Research Interests
 - **전산 문학 연구(Computational Literary Studies; CLS)**: 문학 텍스트에서 ‘감정’과 ‘감각’과 같은, 정량적으로 다루기 힘든 인간의 경험 요소를 기계적으로 포착하고, 그 문학적 함의를 다루는 연구로 석사 학위를 취득하였습니다. 지금은 감각-감정을 넘어 생활세계 전체를 구조화할 수 있도록 설계된 데이터셋을 바탕으로, 시대적 맥락까지 심도 있게 포괄하는 CLS 연구를 염두에 두고 정동 이론 등 제 분야를 공부하고 있습니다.
