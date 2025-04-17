@@ -15,6 +15,7 @@ title: Curriculum Vitae
 - **전산 사회 과학(Computational Social Science; CSS)**: 지식사회학(Sociology of knowledge)과 지성사(Intellectual history)의 전산적 연구 가능성에 대한 고민을 지속적으로 하고 있습니다. 또 사회적 실천으로서 인터넷 공론장에서 이루어지는 자발적 웹 아카이빙에도 관심이 있습니다. 특히 사회 운동 기록, 창작 윤리 논쟁 등 디지털 공간에서 펼쳐지는 다양한 사회적 담론의 흐름을 시민들이 주체적으로 구조화하는 과정 그 자체에 주목하고 있습니다.
 - **과학기술사회학(Science, Technology and Society; STS)**: 기술과 사회·문화 간 관계 양상에 관심이 많습니다. 구체적으로 신유물론(neo-materialism)과 사변적 실재론(Speculative Realism)적 관점과 행위자 연결망 이론(actor–network theory; ANT)에 흥미가 갖고, 비-인간 행위자와 인간 행위자 간 관계 맺음에 대해 살펴보고자 합니다.
 - **정보 철학(Philosophy of Information; PI)**: 기억의 외재화(Externalization of memory), 알고리즘 기억(Algorithmic memory)과 잊힐 권리(Right to be forgotten) 등에 관심을 갖고 조금씩 공부해 나가고 있습니다.
+- **실험 인문학(Experimental Humanities)**: 실험적·융합적 방법론을 통해 인간 경험과 사회 현상, 기술의 의미를 새롭게 탐구하는 데 흥미가 있습니다. 특히 Maker culture에 기반한 Critical making과 예술적 창작 및 공공 전시에 관심이 있어, 꾸준히 이것저것 꼼지락거리고 있습니다.
 
 
 ## Education
