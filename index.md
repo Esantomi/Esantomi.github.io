@@ -45,11 +45,11 @@ title: Curriculum Vitae
 ## Publications
 
 ### Journal Articles
-1. 지해인. (2024). **이상 단편소설 기초·감각 데이터셋**. <i>디지털인문학</i>, 1(2), 49-67. <i class="ai ai-doi"></i> <a href="https://doi.org/10.23287/KJDH.2024.1.2.4" target="_blank">10.22936/sh.72..202410.021</a>
-2. 지해인. (2024). **디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구**. <i>상허학보</i>, 72, 753-827. <i class="ai ai-doi"></i> <a href="https://doi.org/10.22936/sh.72..202410.021" target="_blank">10.22936/sh.72..202410.021</a>
+1. 지해인. (2024). **Yi Sang Short Story Basic·Sense Dataset [이상 단편소설 기초·감각 데이터셋]**. <i>디지털인문학</i>, 1(2), 49-67. <i class="ai ai-doi"></i> <a href="https://doi.org/10.23287/KJDH.2024.1.2.4" target="_blank">10.22936/sh.72..202410.021</a>
+2. 지해인. (2024). **A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis [디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구]**. <i>상허학보</i>, 72, 753-827. <i class="ai ai-doi"></i> <a href="https://doi.org/10.22936/sh.72..202410.021" target="_blank">10.22936/sh.72..202410.021</a>
 
 ### Theses
-1. 지해인. (2024). **디지털 감각∙감정 분석을 통한 이상 문학의 에피파니 연구** [석사학위논문, 韓國學中央硏究院 韓國學大學院]. <a href="https://www.riss.kr/link?id=T17070127" target="_blank">T17070127</a>
+1. 지해인. (2024). **A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis [디지털 감각∙감정 분석을 통한 이상 문학의 에피파니 연구]** [석사학위논문, 韓國學中央硏究院 韓國學大學院]. <a href="https://www.riss.kr/link?id=T17070127" target="_blank">T17070127</a>
 2. 지해인. (2018). **식물 SNARE와 그 기능** [학사학위논문, 건국대학교].
 3. 지해인. (2018). **문장종결법으로서의 한국어 경계법 지위 검토** [학사학위논문, 건국대학교].
 
@@ -61,7 +61,7 @@ title: Curriculum Vitae
 
 ### Datasets
 1. LIM, I., **Ji, H.**, Koo, S., & Kim, B. (2025). **KPoEM dataset for "Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling"** [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15181396" target="_blank">10.5281/zenodo.15055795</a>
-2. 지해인. (2024). **디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구** [Data set]. OSF. <i class="ai ai-doi"></i> <a href="http://doi.org/10.17605/OSF.IO/964NC" target="_blank">10.17605/OSF.IO/964NC</a>
+2. 지해인. (2024). **A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis [디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구]** [Data set]. OSF. <i class="ai ai-doi"></i> <a href="http://doi.org/10.17605/OSF.IO/964NC" target="_blank">10.17605/OSF.IO/964NC</a>
 
 
 ## Projects
