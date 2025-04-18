@@ -13,7 +13,7 @@ title: Curriculum Vitae
 ### Research Interests
 - **전산 문학 연구(Computational Literary Studies; CLS)**: 문학 텍스트에서 ‘감정’과 ‘감각’과 같은, 정량적으로 다루기 힘든 인간의 경험 요소를 기계적으로 포착하고, 그 문학적 함의를 다루는 연구로 석사 학위를 취득하였습니다. 지금은 감각-감정을 넘어 생활세계 전체를 구조화할 수 있도록 설계된 데이터셋을 바탕으로, 시대적 맥락까지 심도 있게 포괄하는 CLS 연구를 염두에 두고 정동 이론 등 제 분야를 공부하고 있습니다.
 - **전산 사회 과학(Computational Social Science; CSS)**: 지식사회학(Sociology of knowledge)과 지성사(Intellectual history)의 전산적 연구 가능성에 대한 고민을 지속적으로 하고 있습니다. 또 사회적 실천으로서 인터넷 공론장에서 이루어지는 자발적 웹 아카이빙에도 관심이 있습니다. 특히 사회 운동 기록, 창작 윤리 논쟁 등 디지털 공간에서 펼쳐지는 다양한 사회적 담론의 흐름을 시민들이 주체적으로 구조화하는 과정 그 자체에 주목하고 있습니다.
-- **과학기술사회학(Science, Technology and Society; STS)**: 기술과 사회·문화 간 관계 양상에 관심이 많습니다. 구체적으로 행위자-연결망 이론(actor–network theory; ANT)에 기반한 신유물론(neo-materialism), 사변적 실재론(Speculative Realism)의 관점에 흥미가 갖고, 비-인간 행위자(non-human agency)와 인간 행위자(human agency) 간 관계 맺음에 대해 살펴보고자 합니다.
+- **과학기술사회학(Science, Technology and Society; STS)**: 기술과 사회·문화 간 관계 양상에 관심이 많습니다. 구체적으로 행위자-연결망 이론(Actor–Network Theory; ANT)에 기반한 신유물론(neo-materialism), 사변적 실재론(Speculative Realism)의 관점에 흥미가 갖고, 비-인간 행위자(non-human agency)와 인간 행위자(human agency) 간 관계 맺음에 대해 살펴보고자 합니다.
 - **디지털 종교학(Digital Religious Studies)**: 기술의 종교-사회적 형성(Religious-Social Shaping of Technology; RSST)과 하이퍼리얼 종교(Hyper-real religion) 담론, 사이버신학(Cybertheology), 온라인 종교 공동체, 온라인 기반의 종교적 실천 등에 관심이 있습니다.
 - **실험 인문학(Experimental Humanities; EH)**: 실험적·융합적 방법론을 통해 인간 경험과 사회 현상, 기술의 의미를 새롭게 탐구하는 데 흥미가 있습니다. 특히 Maker culture에 기반한 Critical making과 예술적 창작 및 공공 전시에 관심이 있어, 꾸준히 이것저것 꼼지락거리고 있습니다. 최근 흥미롭게 본 작업은 [De Roure, D., & Willcox, P. (2017, October)](https://ieeexplore.ieee.org/abstract/document/8109137)입니다.
 
