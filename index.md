@@ -46,6 +46,9 @@ title: Curriculum Vitae
 
 ## Publications
 
+### Books
+1. 지해인, & 김바로. (2025). **(가제) 이상(李箱) 문학, AI를 만나다: 문학 감정 분석 가이드북**. 서울: 커뮤니케이션북스.
+
 ### Journal Articles
 1. 지해인. (2024). **Yi Sang Short Story Basic·Sense Dataset [이상 단편소설 기초·감각 데이터셋]**. <i>디지털인문학</i>, 1(2), 49-67. <i class="ai ai-doi"></i> <a href="https://doi.org/10.23287/KJDH.2024.1.2.4" target="_blank">10.22936/sh.72..202410.021</a>
 2. 지해인. (2024). **A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis [디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구]**. <i>상허학보</i>, 72, 753-827. <i class="ai ai-doi"></i> <a href="https://doi.org/10.22936/sh.72..202410.021" target="_blank">10.22936/sh.72..202410.021</a>
@@ -56,10 +59,10 @@ title: Curriculum Vitae
 3. 지해인. (2018). **Reconsidering the Status of the Korean Apprehensive Mood as a Sentence-Final Particle [문장종결법으로서의 한국어 경계법 지위 검토]** [학사학위논문, 건국대학교].
 
 ### eBooks
-1. 김바로, **지해인** et al. (2024). **XML(TEI) with 인문학 - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/14569" target="_blank">book/14569</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocFlHZO4MEuehx6noQCp5Vy" target="_blank">[DH 교육] XML(TEI) with 인문학</a>
-2. 김바로, **지해인** et al. (2023). **선행 온톨로지 모델 탐색 - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8452" target="_blank">book/8452</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIoevFRxa0Ng9VrKYsk8GTqOK" target="_blank">[DH 교육] 선행 온톨로지 모델 리뷰</a>
-3. 김바로, **지해인** et al. (2023). **인문 데이터 분석 - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8451" target="_blank">book/8451</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocCaLeOESc7G_VMBCyuY0ca" target="_blank">[DH 교육] 인문 데이터 분석</a>
-4. 김바로, **지해인** et al. (2022). **시각적 인문학(Visual Humanities) - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8450" target="_blank">book/8450</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">[DH 교육] 시각적 인문학</a>
+1. 김바로, **지해인** 외. (2024). **XML(TEI) with 인문학 - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/14569" target="_blank">book/14569</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocFlHZO4MEuehx6noQCp5Vy" target="_blank">[DH 교육] XML(TEI) with 인문학</a>
+2. 김바로, **지해인** 외. (2023). **선행 온톨로지 모델 탐색 - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8452" target="_blank">book/8452</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIoevFRxa0Ng9VrKYsk8GTqOK" target="_blank">[DH 교육] 선행 온톨로지 모델 리뷰</a>
+3. 김바로, **지해인** 외. (2023). **인문 데이터 분석 - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8451" target="_blank">book/8451</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocCaLeOESc7G_VMBCyuY0ca" target="_blank">[DH 교육] 인문 데이터 분석</a>
+4. 김바로, **지해인** 외. (2022). **시각적 인문학(Visual Humanities) - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8450" target="_blank">book/8450</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">[DH 교육] 시각적 인문학</a>
 
 ### Datasets
 1. LIM, I., **Ji, H.**, Koo, S., & Kim, B. (2025). **KPoEM dataset for "Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling"** [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15181396" target="_blank">10.5281/zenodo.15055795</a>
@@ -82,9 +85,11 @@ title: Curriculum Vitae
 
 ## Talks/Presentations
 
-- Iro Lim, **Haein Ji**, Byungjun Kim. (2025.04.25). **Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI modeling**. Digital Humanities and Social Sciences Korea Conference, Philadelphia, USA. <br> <i class="fas fa-image"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/DhSsKoConf.pdf" target="_blank">Program</a>
-- 임이로, **지해인**, 김병준. (2025.02.13). **Constructing an Emotion-Labeled Dataset of Modern Korean Poetry: A Foundational Study for Computational Emotion Classification and Generative AI Applications in Literary Texts [한국 근현대시 감정 라벨링 데이터셋 구축: 문학 텍스트의 컴퓨터 기반 감정 분류와 생성형 AI 활용을 위한 기초 연구]** [Poster presentation]. 제2회 한국현대문학자대회, 서울, 대한민국. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15055795" target="_blank">10.5281/zenodo.15055795</a> <br> <i class="fas fa-image"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2nd_korlitconf.png" target="_blank">Program</a>
-- 지해인. (2023.12.12). **A Digital Humanities Approach to Yi Sang’s Short Stories: Focusing on the Emotion of ‘Realization’ [이상 단편소설에 대한 디지털 인문학적 접근 - ‘깨달음’의 감정을 중심으로]**. 이상문학회(李箱文學會) 2023년도 하반기 정기학술대회: 이상(李箱) 문학의 다양성 모색, 서울, 대한민국. <br> <i class="fas fa-image"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2023_latterhalf_yisanglitconf.jpg" target="_blank">Program</a>
+- Lee, J., **Ji, H.** (2025.07.14-18) **A Quantitative Approach to Bodily Sensations: Modernist and Realist Authors in Colonial Korea**. The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2025 (DH2025), Universidade NOVA de Lisboa (NOVA FCSH), Lisbon, Portugal.
+- 지해인. (2025.05.23). **A Preliminary Study on the Analysis of Sensory Elements in Literature Based on Deep Learning [딥러닝 기반의 문학 감각 요소 분석을 위한 예비적 고찰]**. 제주대학교 인문과학연구소 전국학술대회: 인공지능(AI)과 인문학의 만남 - 그 실제와 응용, 제주대학교, 제주, 대한민국.
+- Lim, I., **Ji, H.**, & Kim, B. (2025.04.25). **Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI modeling**. Digital Humanities and Social Sciences Korea Conference, University of Pennsylvania, Philadelphia, USA. <br> <i class="fas fa-image"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/DhSsKoConf.pdf" target="_blank">Program</a>
+- 임이로, **지해인**, & 김병준. (2025.02.13). **Constructing an Emotion-Labeled Dataset of Modern Korean Poetry: A Foundational Study for Computational Emotion Classification and Generative AI Applications in Literary Texts [한국 근현대시 감정 라벨링 데이터셋 구축: 문학 텍스트의 컴퓨터 기반 감정 분류와 생성형 AI 활용을 위한 기초 연구]** [Poster presentation]. 제2회 한국현대문학자대회, 성균관대학교, 서울, 대한민국. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15055795" target="_blank">10.5281/zenodo.15055795</a> <br> <i class="fas fa-image"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2nd_korlitconf.png" target="_blank">Program</a>
+- 지해인. (2023.12.12). **A Digital Humanities Approach to Yi Sang’s Short Stories: Focusing on the Emotion of ‘Realization’ [이상 단편소설에 대한 디지털 인문학적 접근 - ‘깨달음’의 감정을 중심으로]**. 이상문학회(李箱文學會) 2023년도 하반기 정기학술대회: 이상(李箱) 문학의 다양성 모색, 이상의집, 서울, 대한민국. <br> <i class="fas fa-image"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2023_latterhalf_yisanglitconf.jpg" target="_blank">Program</a>
 - 지해인. (2023.01.13). **The Emotion of ‘Realization’ and Its Reception in Yi Sang’s Texts through KOTE [KOTE를 통해 본 이상 텍스트 속 ‘깨달음’과 그 수용 양상]** [Case presentation]. 2023 디지털인문학 겨울학교 심포지엄: 디지털인문학 - 포스트 AI 시대를 위한 융합전략, 서울, 대한민국. <br> <i class="fas fa-image"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2023_dhwntrsch.jpg" target="_blank">Program</a>
 
 
