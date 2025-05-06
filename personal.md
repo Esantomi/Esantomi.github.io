@@ -9,6 +9,7 @@ title: Personal
 좋아하는 것들을 끄적끄적.
 - 미식, 중국 차 문화
 - 수석(壽石)과 골동품
+
 ### Study
 취미로 한 공부 기록을 끄적끄적.
 - (In class) **Buddhist Magic and Healing in Korea**, K-MOOC ; Jan. 2025 - Dec. 2025. [Link](https://www.kmooc.kr/view/course/detail/15063?tm=20250506152341)
