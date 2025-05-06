@@ -10,9 +10,10 @@ title: Personal
 - 미식, 중국 차 문화
 - 수석(壽石)과 골동품
 ### Study
+취미로 한 공부 기록을 끄적끄적.
 - (In class) **Buddhist Magic and Healing in Korea**, K-MOOC ; Jan. 2025 - Dec. 2025. [Link](https://www.kmooc.kr/view/course/detail/15063?tm=20250506152341)
-- (Completion) SKKU_COS3062|2018_T1 **시경, 시를 알아야 사람노릇 할 수 있다**, K-MOOC ; Dec. 2018 - Feb. 2019
-- (Completion) SKKU_COS3063|2018_T1 **서경, 덕의 나라를 향한 진군가**, K-MOOC ; Dec. 2018 - Feb. 2019
+- (Completion) SKKU_COS3063_2018_T1 **서경, 덕의 나라를 향한 진군가**, K-MOOC ; Dec. 2018 - Feb. 2019. [Link](https://lms.kmooc.kr/course/view.php?id=6021)
+- (Completion) SKKU_COS3062_2018_T1 **시경, 시를 알아야 사람노릇 할 수 있다**, K-MOOC ; Dec. 2018 - Feb. 2019. [Link](https://lms.kmooc.kr/course/view.php?id=6016)
 
 ## Thoughts
 생각을 끄적끄적.
