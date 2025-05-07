@@ -11,15 +11,13 @@ title: Curriculum Vitae
 안녕하세요. 저는 디지털 인문학(Digital Humanities, DH), 특히 전산 문학 연구(Computational Literary Studies, CLS)를 주 연구 분야로 삼고 있는 학생 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**; Preferred Anglicized Romanization: **Hayne Deome Gee**; Sino-Korean: **池海印**)입니다. 학부 수준의 강의 경험이 있으며, 인문 데이터 설계, 구축, 분석 등을 주제로 강의 및 워크숍을 진행할 수 있는 역량을 갖추고 있습니다.
 
 ### Research Interests
-- **디지털 인문학(Digital Humanities)**: 디지털 기술을 활용한 인문학 연구 전반에 관심이 있습니다.
+- **디지털 인문학(Digital Humanities; DH)**: 기본적으로 디지털 기술을 활용한 인문학 연구 전반에 관심이 있습니다.
   - **전산 문학 연구(Computational Literary Studies; CLS)**: 문학 텍스트에서 ‘감정’과 ‘감각’과 같은, 정량적으로 다루기 힘든 인간의 경험 요소를 기계적으로 포착하고, 그 문학적 함의를 다루는 연구로 석사 학위를 취득하였습니다. 지금은 감각-감정을 넘어 생활세계 전체를 구조화할 수 있도록 설계된 데이터셋을 바탕으로, 시대적 맥락까지 심도 있게 포괄하는 CLS 연구를 염두에 두고 정동 이론 등 제 분야를 공부하고 있습니다.
-  - **비판적 코드 연구(Critical Code Studies; CCS)**: 문화적 산물이자 하나의 텍스트인 소스 코드(Source code)에 대한 문화비평적 사유에 흥미를 갖고 신생 연구인 CCS를 조금씩 살펴보고 있습니다.
-  - **디지털 종교학(Digital Religious Studies)**: 기술의 종교-사회적 형성(Religious-Social Shaping of Technology; RSST)과 하이퍼리얼 종교(Hyper-real religion) 담론, 사이버신학(Cybertheology), 온라인 종교 공동체, 온라인 기반의 종교적 실천 등에 관심이 있습니다.
+  - **문화 분석(Cultural analytics)**: 과학기술사회학(STS)·지식사회학(Sociology of knowledge)의 맥락에서, 기술과 사회·문화 간 관계성에 관심이 있습니다. 비-인간 행위자(Non-human agency)와 인간 행위자(Human agency) 간 관계 맺음을 흥미롭게 살펴보고 있고, 행위자-연결망 이론(Actor–Network Theory; ANT)에 기반한 신유물론(Neo-materialism)적 사유도 조금씩 살펴보고 있습니다.
+    - **비판적 코드 연구(Critical Code Studies; CCS)**: 문화적 산물이자 하나의 텍스트인 소스 코드(Source code)에 대한 문화비평적 사유에 흥미를 갖고 신생 연구인 CCS를 조금씩 살펴보고 있습니다.
+    - **디지털 종교학(Digital Religious Studies)**: 기술의 종교-사회적 형성(Religious-Social Shaping of Technology; RSST)과 하이퍼리얼 종교(Hyper-real religion) 담론, 사이버신학(Cybertheology), 온라인 종교 공동체, 온라인 기반의 종교적 실천 등에 관심이 있습니다.
   - **실험 인문학(Experimental Humanities; EH)**: 실험적·융합적 방법론을 통해 인간 경험과 사회 현상, 기술의 의미를 새롭게 탐구하는 데 흥미가 있습니다. 특히 Maker culture에 기반한 Critical making과 예술적 창작 및 공공 전시에 관심이 있어, 꾸준히 이것저것 꼼지락거리고 있습니다. 최근 흥미롭게 본 작업은 [De Roure, D., & Willcox, P. (2017, October)](https://ieeexplore.ieee.org/abstract/document/8109137)입니다.
-- **과학기술사회학(Science, Technology and Society; STS)**: 기술과 사회·문화 간 관계 양상에 관심이 많습니다.
-  - 행위자-연결망 이론(Actor–Network Theory; ANT)에 기반한 신유물론(Neo-materialism), 사변적 실재론(Speculative realism)
-  - 비-인간 행위자(Non-human agency)와 인간 행위자(Human agency) 간 관계 맺음
-  - 지식사회학(Sociology of knowledge)
+
 
 ## Education
 
