@@ -36,6 +36,7 @@ title: Curriculum Vitae
 
 ## Work Experience
 
+- **연구위원(Researcher)**, 인문학&신학연구소 에라스무스(Erasmus Institute for Humanities and Theologies) ; May 2025 - Present
 - **연구원(Researcher)**, 한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the AKS) ; Mar. 2025 - Present
 - **편집간사(Assistant Editor)**, 한국디지털인문학협의회(Korean Association for Digital Humanities; KADH) ; Nov. 2024 - Present
 - **연구보조원(Research Assistant)**, 한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the AKS) ; Mar. 2022 - Aug. 2024
@@ -93,6 +94,7 @@ title: Curriculum Vitae
 
 
 ## Awards and Honors
+
 - **등록금면제장학금(Tuition Fee Exemption Scholarship)**, Ph.D./1-2, 한국학중앙연구원(The Academy of Korean Studies)
 - **연구장학금(Research Scholarship)**, M.A./3-4, 한국학중앙연구원(The Academy of Korean Studies)
 - **등록금면제장학금(Tuition Fee Exemption Scholarship)**, M.A./1-2, 한국학중앙연구원(The Academy of Korean Studies)
