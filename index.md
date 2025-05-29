@@ -70,7 +70,9 @@ title: Curriculum Vitae
 5. 김바로, **지해인** 외. (2022). **시각적 인문학(Visual Humanities) - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8450" target="_blank">book/8450</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">[DH 교육] 시각적 인문학</a>
 
 ### Datasets
-1. LIM, I., **Ji, H.**, Koo, S., & Kim, B. (2025). **KPoEM dataset for "Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling"** [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15181396" target="_blank">10.5281/zenodo.15055795</a>
+1. KPoEM (Korean Poetry Emotion Mapping) Dataset
+   - **v2**
+   - **v1**: LIM, I., **Ji, H.**, Koo, S., & Kim, B. (2025). **KPoEM dataset for "Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling"** [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15181396" target="_blank">10.5281/zenodo.15055795</a>
 2. 지해인. (2024). **A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis [디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구]** [Data set]. OSF. <i class="ai ai-doi"></i> <a href="http://doi.org/10.17605/OSF.IO/964NC" target="_blank">10.17605/OSF.IO/964NC</a>
 
 
