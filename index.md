@@ -51,7 +51,7 @@ title: Curriculum Vitae
 ## Publications
 
 ### Books
-1. 지해인, & 김바로. (2025). **(가제) 이상(李箱) 문학, AI를 만나다: 문학 감정 분석 가이드북**. 서울: 커뮤니케이션북스.
+1. 지해인, & 김바로. (2025). **이상(李箱) 문학, AI를 만나다**. 서울: 커뮤니케이션북스.
 
 ### Journal Articles
 1. 지해인. (2024). **Yi Sang Short Story Basic·Sense Dataset [이상 단편소설 기초·감각 데이터셋]**. <i>디지털인문학</i>, 1(2), 49-67. <i class="ai ai-doi"></i> <a href="https://doi.org/10.23287/KJDH.2024.1.2.4" target="_blank">10.22936/sh.72..202410.021</a>
@@ -70,9 +70,9 @@ title: Curriculum Vitae
 5. 김바로, **지해인** 외. (2022). **시각적 인문학(Visual Humanities) - 디지털인문학 시리즈**. WikiDocs. <a href="https://wikidocs.net/book/8450" target="_blank">book/8450</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">[DH 교육] 시각적 인문학</a>
 
 ### Datasets
-1. KPoEM (Korean Poetry Emotion Mapping) Dataset
+1. LIM, I., **Ji, H.**, Koo, S., & Kim, B. (2025). **KPoEM dataset for "Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling"** [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo.
    - **v2**
-   - **v1**: LIM, I., **Ji, H.**, Koo, S., & Kim, B. (2025). **KPoEM dataset for "Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling"** [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15181396" target="_blank">10.5281/zenodo.15055795</a>
+   - **v1**: <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15181396" target="_blank">10.5281/zenodo.15055795</a>
 2. 지해인. (2024). **A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis [디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구]** [Data set]. OSF. <i class="ai ai-doi"></i> <a href="http://doi.org/10.17605/OSF.IO/964NC" target="_blank">10.17605/OSF.IO/964NC</a>
 
 
