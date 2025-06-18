@@ -117,6 +117,7 @@ title: Curriculum Vitae
 - **학생회원(Student Member)** ; 한국곤충학회(The Entomological Society of Korea) ; Jun. 2025 - Present
 - **학생회원(Student Member)** ; International Society for Contemporary Legend Research (ISCLR) ; Jun. 2025 - Present
 - **개인회원(Private Member)** ; 지식공유연대(정식 명칭: 새로운 학문 생산 체제와 ‘지식공유’를 위한 학술 단체와 연구자 연대)(Knowledge Sharing Alliance) ; Apr. 2025 - Present
+- **후원회원(Supporting Member)** ; 전기가오리(Philo-electro-ray) ; Oct. 2024 - Present
 - **학생회원(Student Member)** ; 한국디지털인문학협의회(Korean Association for Digital Humanities, KADH) ; 2024 - Present
 
 ## Teaching Experience
