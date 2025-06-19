@@ -8,6 +8,9 @@ title: Personal
 ## Faves
 좋아하는 것들을 끄적끄적.
 - 미식, 중국 차 문화
+
+<center><img class="intext-img" src="/assets/img/chinese_tea.jpg" oncontextmenu="return false"></center>
+
 - 수석(壽石)과 골동품
 
 ### Study
