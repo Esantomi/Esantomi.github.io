@@ -37,8 +37,9 @@ title: Curriculum Vitae
 | <u>B.A. <br> & <br> B.S.</u> | 1전공: **국어국문학** <br> **(Korean Language & Literature)**<br>2전공: **생명과학특성학** <br> **(Biological Sciences)** | 건국대학교 <br> (Konkuk University) | 2018 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2012 |
 
 ### Non-Degree Education
-- **사서삼경(四書三經) 과정**, 사단법인 유도회(儒道會) 한문연수원 ; Mar. 2024 - Present
-- **데이터 기반 인공지능 시스템 엔지니어 양성 과정**, 에티버스러닝(Etevers Learning) ; Mar. 2021 - Aug. 2021
+- **사서삼경(四書三經) 과정** ; 사단법인 유도회(儒道會) 한문연수원 ; Mar. 2024 - Present
+- **서교연 비평이론학교 S1 감각, 이미지, 정동** ; 서교인문사회연구실 ; May 2025 - Aug. 2025
+- **데이터 기반 인공지능 시스템 엔지니어 양성 과정** ; 에티버스러닝(Etevers Learning) ; Mar. 2021 - Aug. 2021
 
 
 ## Work Experience
