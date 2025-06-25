@@ -27,7 +27,8 @@ title: Personal
   - (Completed) SKKU_COS3062_2018_T1 **시경, 시를 알아야 사람노릇 할 수 있다**, 성균관대학교(Sungkyunkwan University) via K-MOOC ; Dec. 2018 - Feb. 2019. [Link](https://lms.kmooc.kr/course/view.php?id=6016)
 
 ## Pages
-- 각별히 좋아하는 페이지
+기억하는 것들을 끄적끄적.
+- 인상
   - 조선일보. (1995.11.01). <한국인, 오늘의 초상> CD롬 전문가 된 동양철학자. [Link](https://www.chosun.com/site/data/html_dir/1995/11/01/1995110170166.html)
     - 존경하는 사조(師祖), 김현 교수님에 관한 기록
 
