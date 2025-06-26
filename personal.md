@@ -20,6 +20,8 @@ title: Personal
 - 아마추어 분류학(Taxonomy), 고생물학
   - 패각 유무와 무관하게 연체동물(Mollusca) 전반을 좋아하고, 절지동물(Arthropod)도 좋아합니다. 취미로 '생물분류기사(동물)' 취득을 고려하고 있으며, 개오지(Cypraeidae) 패각과 화석 등을 수집하고 있습니다. 학부 시절 생명과학을 복수 전공하기도 하였습니다. 
 
+<center><img class="intext-img" src="/assets/img/cypraeidae.jpg" oncontextmenu="return false"></center>
+
 - 전공 외 공부
   - 전공 외 공부는 뭐든 좋아하는 편입니다.
     - (In class) **Buddhist Magic and Healing in Korea**, 동국대학교(Dongguk University) via K-MOOC ; Jan. 2025 - Dec. 2025. [Link](https://www.kmooc.kr/view/course/detail/15063?tm=20250506152341)
