@@ -5,6 +5,27 @@ title: Personal
 
 <div class="menu"><center><i class="fas fa-home"></i><a href="./"> home</a> | <i class="fas fa-sticky-note"></i><a href="./personal"> personal</a></center></div>
 
+## Amateurism
+### 박물학(Natural History)
+일단 아마추어 박물학자(amateur naturalist)를 지향하고 있고, 취미로 '생물분류기사(동물)' 취득을 고려하고 있습니다. 학부 시절 생명과학을 복수 전공하기도 하였습니다.
+- 동물분류학(Animal Taxonomy)
+  - 패각 유무와 무관하게 연체동물(mollusca) 전반을 좋아하고, 절지동물(arthropod)도 좋아합니다. 개오지(cypraeidae) 패각을 수집하고 있습니다.
+
+<center><img class="intext-img" src="/assets/img/cypraeidae.jpg" oncontextmenu="return false"></center>
+
+- 고생물학(paleontology)
+  - 화석을 수집하고 있고, 직접 탐사하고자 벼르고도 있습니다.
+
+### 그 외 공부
+- 한국 문화와 사상
+  - (In class) **Buddhist Magic and Healing in Korea**, 동국대학교(Dongguk University) via K-MOOC ; Jan. 2025 - Dec. 2025. [Link](https://www.kmooc.kr/view/course/detail/15063?tm=20250506152341)
+  - (Completed) SKKU_COS3063_2018_T1 **서경, 덕의 나라를 향한 진군가**, 성균관대학교(Sungkyunkwan University) via K-MOOC ; Dec. 2018 - Feb. 2019. [Link](https://lms.kmooc.kr/course/view.php?id=6021)
+  - (Completed) SKKU_COS3062_2018_T1 **시경, 시를 알아야 사람노릇 할 수 있다**, 성균관대학교(Sungkyunkwan University) via K-MOOC ; Dec. 2018 - Feb. 2019. [Link](https://lms.kmooc.kr/course/view.php?id=6016)
+- 코딩(coding)
+  - (Completed) **LLM Journey (Challenges Program)**, 오픈소스 컨트리뷰션 아카데미(Open Source Contribution Academy) ; July - Aug. 2023
+  - (Completed) **바닐라JS 2주 완성반**, 노마드 코더(Nomad Coders) ; Sept. 2019
+  - (Completed) **바닐라 JS로 크롬 앱 만들기**, 노마드 코더(Nomad Coders) ; Sept. 2019
+
 ## Faves
 좋아하는 것들을 끄적끄적.
 - 미식, 중국 차 문화
@@ -16,22 +37,6 @@ title: Personal
   - 완물적정(玩物適情)의 미학과 수석(壽石), 골동품, 그중에서도 고서(古書), 석물(石物), 불상(佛像)을 좋아합니다. 현실적인 요건으로 인해 수집욕을 거의 채우지 못하고 있으나, 가끔 정보가 전혀 없는 고서를 사들여 읽어 보기도 합니다.
 
 <center><img class="intext-img" src="/assets/img/oldbook.jpg" oncontextmenu="return false"></center>
-
-- 아마추어 분류학(Taxonomy), 고생물학
-  - 패각 유무와 무관하게 연체동물(Mollusca) 전반을 좋아하고, 절지동물(Arthropod)도 좋아합니다. 취미로 '생물분류기사(동물)' 취득을 고려하고 있으며, 개오지(Cypraeidae) 패각과 화석 등을 수집하고 있습니다. 학부 시절 생명과학을 복수 전공하기도 하였습니다. 
-
-<center><img class="intext-img" src="/assets/img/cypraeidae.jpg" oncontextmenu="return false"></center>
-
-- 전공 외 공부
-  - 전공 외 공부는 대체로 뭐든 좋아하는 편입니다.
-  - 한국 문화와 사상
-    - (In class) **Buddhist Magic and Healing in Korea**, 동국대학교(Dongguk University) via K-MOOC ; Jan. 2025 - Dec. 2025. [Link](https://www.kmooc.kr/view/course/detail/15063?tm=20250506152341)
-    - (Completed) SKKU_COS3063_2018_T1 **서경, 덕의 나라를 향한 진군가**, 성균관대학교(Sungkyunkwan University) via K-MOOC ; Dec. 2018 - Feb. 2019. [Link](https://lms.kmooc.kr/course/view.php?id=6021)
-    - (Completed) SKKU_COS3062_2018_T1 **시경, 시를 알아야 사람노릇 할 수 있다**, 성균관대학교(Sungkyunkwan University) via K-MOOC ; Dec. 2018 - Feb. 2019. [Link](https://lms.kmooc.kr/course/view.php?id=6016)
-  - 코딩(coding)
-    - (Completed) **LLM Journey (Challenges Program)**, 오픈소스 컨트리뷰션 아카데미(Open Source Contribution Academy) ; July - Aug. 2023
-    - (Completed) **바닐라JS 2주 완성반**, 노마드 코더(Nomad Coders) ; Sept. 2019
-    - (Completed) **바닐라 JS로 크롬 앱 만들기**, 노마드 코더(Nomad Coders) ; Sept. 2019
 
 ## Links
 연결하는 것들을 끄적끄적.
