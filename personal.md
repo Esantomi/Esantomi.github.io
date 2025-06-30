@@ -8,11 +8,12 @@ title: Personal
 ## Amateurism
 ### 자연사학(Natural History)
 시민 과학(citizen science)의 일환으로, 아마추어 자연사학자(amateur naturalist) — 과거, 자연사학은 '박물학(博物學)'으로 옮기기도 하였습니다. — 를 지향하고 있습니다. 학부 시절 생명과학(life science)을 복수 전공하였으며, 현재 취미로 '생물분류기사(동물)' 취득을 준비하고 있습니다. 
-- 동물분류학(Animal taxonomy)
+- 분류학(Taxonomy)
   - 패각 유무와 무관하게 연체동물(mollusca) 전반을 좋아하고, 절지동물(arthropod)도 좋아합니다. 개오지(cypraeidae) 패각을 수집하고 있습니다.
   - 참고 링크
     - [Natural History Museum, London (NHM)](https://data.nhm.ac.uk/)
-      - [Natural History Museum - Collections, data and services](https://www.nhm.ac.uk/our-science/services.html)
+      - [NHM London - Collections, data and services](https://www.nhm.ac.uk/our-science/services.html)
+      - [NHM London - Naturally Curious](https://naturallycurious.nhm.ac.uk/)
       - [Google Arts & Culture - The Natural History Museum](https://artsandculture.google.com/partner/natural-history-museum)
 
 <center><img class="intext-img" src="/assets/img/cypraeidae.jpg" oncontextmenu="return false"></center>
