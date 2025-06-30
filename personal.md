@@ -13,8 +13,8 @@ title: Personal
 
 <center><img class="intext-img" src="/assets/img/cypraeidae.jpg" oncontextmenu="return false"></center>
 
-- 고생물학(paleontology)
-  - 화석을 수집하고 있고, 직접 탐사하고자 벼르고도 있습니다.
+- 고생물학(Paleontology)
+  - 가끔 화석을 수집하고 있고, 태백, 영월, 포항, 진주 등의 지층을 직접 탐사하고자 벼르고도 있습니다.
 
 ### 그 외 공부
 - 한국 문화와 사상
