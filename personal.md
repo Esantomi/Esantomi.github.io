@@ -17,6 +17,7 @@ title: Personal
       - [NHM London - Collections, data and services](https://www.nhm.ac.uk/our-science/services.html)
       - [NHM London - Naturally Curious](https://naturallycurious.nhm.ac.uk/)
       - [Google Arts & Culture - The Natural History Museum](https://artsandculture.google.com/partner/natural-history-museum)
+    - [Linnean Society of London](https://www.linnean.org/)
 
 <center><img class="intext-img" src="/assets/img/cypraeidae.jpg" oncontextmenu="return false"></center>
 
