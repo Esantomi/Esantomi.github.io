@@ -12,8 +12,6 @@ title: Personal
 취향인 것들을 끄적끄적.
 
 ### 풍류(風流)
-느긋하게 만끽할 수 있는 것들을 좋아라 합니다. 다만 그럴 시간이 많지 않은 게 흠입니다.
-
 - **차 문화(tea culture)**
   - 다판을 구비해 가끔 여유로운 시간을 즐기기도 합니다. 특히 좋아하는 차는 철관음(鐵觀音)과 정산소종(正山小種)입니다.
 
@@ -43,8 +41,6 @@ title: Personal
   - 가끔 화석을 수집하고 있고, 태백, 영월, 포항, 진주 등의 지층을 직접 탐사하고자 벼르고도 있습니다.
 
 ### 자유학예(Liberal Arts & Sciences, LAS)
-기타 관심 있는 모든 것들.
-
 - **문화(Cultures)**
   - (In class) **Buddhist Magic and Healing in Korea**, 동국대학교(Dongguk University) via K-MOOC ; Jan. 2025 - Dec. 2025. [Link](https://www.kmooc.kr/view/course/detail/15063?tm=20250506152341)
   - (Completed) SKKU_COS3063_2018_T1 **서경, 덕의 나라를 향한 진군가**, 성균관대학교(Sungkyunkwan University) via K-MOOC ; Dec. 2018 - Feb. 2019. [Link](https://lms.kmooc.kr/course/view.php?id=6021)
@@ -60,6 +56,7 @@ title: Personal
 ### 기억
 - 조선일보. (1995.11.01). <한국인, 오늘의 초상> CD롬 전문가 된 동양철학자. [Link](https://www.chosun.com/site/data/html_dir/1995/11/01/1995110170166.html)
   - 존경하는 사조(師祖), 김현 교수님에 관한 기록
+
 ### 외침
 - <a href="https://amn.kr/52637" target="_blank">3280명 전국교수·연구자들, '윤석열 파면 촉구' 연명서 헌재 발송</a>
 - <a href="https://news.unn.net/news/articleView.html?idxno=572497" target="_blank">윤석열 탄핵을 촉구하는 한국문학 연구자 시국선언 : 적대와 혐오의 정치를 넘어, 다시 광장으로</a>
