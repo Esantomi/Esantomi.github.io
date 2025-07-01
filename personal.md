@@ -5,23 +5,6 @@ title: Personal
 
 <div class="menu"><center><i class="fas fa-home"></i><a href="./"> home</a> | <i class="fas fa-sticky-note"></i><a href="./personal"> personal</a></center></div>
 
-## Exhibitions
-추후 공개.
-
-## Faves
-취향인 것들을 끄적끄적.
-
-### 풍류(風流)
-- **차 문화(tea culture)**
-  - 다판을 구비해 가끔 여유로운 시간을 즐기기도 합니다. 특히 좋아하는 차는 철관음(鐵觀音)과 정산소종(正山小種)입니다.
-
-<center><img class="intext-img" src="/assets/img/chinese_tea.jpg" oncontextmenu="return false"></center>
-
-- **골동품(antiques)**
-  - 완물적정(玩物適情)의 미학과 수석(壽石), 골동품, 그중에서도 고서(古書), 석물(石物), 불상(佛像)을 좋아합니다. 현실적인 요건으로 인해 수집욕을 거의 채우지 못하고 있으나, 가끔 정보가 전혀 없는 고서를 사들여 읽어 보기도 합니다.
-
-<center><img class="intext-img" src="/assets/img/oldbook.jpg" oncontextmenu="return false"></center>
-
 ## Amateurism
 재밌던 것들을 끄적끄적.
 
@@ -49,6 +32,23 @@ title: Personal
   - (Completed) **LLM Journey (Challenges Program)**, 오픈소스 컨트리뷰션 아카데미(Open Source Contribution Academy) ; July - Aug. 2023
   - (Completed) **바닐라JS 2주 완성반**, 노마드 코더(Nomad Coders) ; Sept. 2019
   - (Completed) **바닐라 JS로 크롬 앱 만들기**, 노마드 코더(Nomad Coders) ; Sept. 2019
+
+## Exhibitions
+추후 공개.
+
+## Faves
+취향인 것들을 끄적끄적.
+
+### 풍류(風流)
+- **차 문화(tea culture)**
+  - 다판을 구비해 가끔 여유로운 시간을 즐기기도 합니다. 특히 좋아하는 차는 철관음(鐵觀音)과 정산소종(正山小種)입니다.
+
+<center><img class="intext-img" src="/assets/img/chinese_tea.jpg" oncontextmenu="return false"></center>
+
+- **골동품(antiques)**
+  - 완물적정(玩物適情)의 미학과 수석(壽石), 골동품, 그중에서도 고서(古書), 석물(石物), 불상(佛像)을 좋아합니다. 현실적인 요건으로 인해 수집욕을 거의 채우지 못하고 있으나, 가끔 정보가 전혀 없는 고서를 사들여 읽어 보기도 합니다.
+
+<center><img class="intext-img" src="/assets/img/oldbook.jpg" oncontextmenu="return false"></center>
 
 ## Links
 연결된 것들을 끄적끄적.
