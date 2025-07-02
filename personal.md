@@ -11,6 +11,9 @@ title: Personal
 ### Experience
 - 시민과학자(Citizen Scientist), 국립생태원 습지센터(National Institute of Ecology, Research Center for Wetland) ; July 2025 - Present
 
+### Exhibitions
+추후 공개.
+
 ### Interests
 #### 자연사학(Natural History)
 시민 과학(citizen science)의 일환으로, 아마추어 자연사학자(amateur naturalist) — 과거, 자연사학은 '박물학(博物學)'으로 옮기기도 하였습니다. — 를 지향하고 있습니다. 학부 시절 생명과학(life science)을 복수 전공하였으며, 현재 취미로 '생물분류기사(동물)' 취득을 준비하고 있습니다.
@@ -46,9 +49,6 @@ title: Personal
 - (Completed) **LLM Journey (Challenges Program)**, 오픈소스 컨트리뷰션 아카데미(Open Source Contribution Academy) ; July - Aug. 2023
 - (Completed) **바닐라JS 2주 완성반**, 노마드 코더(Nomad Coders) ; Sept. 2019
 - (Completed) **바닐라 JS로 크롬 앱 만들기**, 노마드 코더(Nomad Coders) ; Sept. 2019
-
-## Exhibitions
-추후 공개.
 
 ## Faves
 취향인 것들을 끄적끄적.
