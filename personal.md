@@ -37,15 +37,15 @@ title: Personal
   - 아카세가와 겐페이(赤瀬川原平). (2023). 초예술 토머슨 (서하나 역). 안그라픽스. (원서 출판: 1987, 『超芸術トマソン』)
   - 아카세가와 겐페이(赤瀬川原平), 후지모리 테루노부(藤森照信), 미나미 신보(南伸坊). (2023). 노상관찰학 입문 (서하나 역). 안그라픽스. (원서 출판: 1986, 『路上観察学入門』)
 
-### Certs
+## Certs
 취득한 것들을 끄적끄적.
 
-#### 문화(Cultures)
+### 문화(Cultures)
 - (In class) **Buddhist Magic and Healing in Korea**, 동국대학교(Dongguk University) via K-MOOC ; Jan. 2025 - Dec. 2025. [Link](https://www.kmooc.kr/view/course/detail/15063?tm=20250506152341)
 - (Completed) SKKU_COS3063_2018_T1 **서경, 덕의 나라를 향한 진군가**, 성균관대학교(Sungkyunkwan University) via K-MOOC ; Dec. 2018 - Feb. 2019. [Link](https://lms.kmooc.kr/course/view.php?id=6021)
 - (Completed) SKKU_COS3062_2018_T1 **시경, 시를 알아야 사람노릇 할 수 있다**, 성균관대학교(Sungkyunkwan University) via K-MOOC ; Dec. 2018 - Feb. 2019. [Link](https://lms.kmooc.kr/course/view.php?id=6016)
 
-#### 기술(Techs)
+### 기술(Techs)
 - (Completed) **LLM Journey (Challenges Program)**, 오픈소스 컨트리뷰션 아카데미(Open Source Contribution Academy) ; July - Aug. 2023
 - (Completed) **바닐라JS 2주 완성반**, 노마드 코더(Nomad Coders) ; Sept. 2019
 - (Completed) **바닐라 JS로 크롬 앱 만들기**, 노마드 코더(Nomad Coders) ; Sept. 2019
