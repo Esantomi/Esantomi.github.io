@@ -5,22 +5,6 @@ title: Personal
 
 <div class="menu"><center><i class="fas fa-home"></i><a href="./"> home</a> | <i class="fas fa-sticky-note"></i><a href="./personal"> personal</a></center></div>
 
-- [Amateurism](#amateurism)
-  * [Experience](#experience)
-  * [Exhibitions](#exhibitions)
-  * [Interests](#interests)
-    + [자연사학(Natural History)](#-----natural-history-)
-    + [노상관찰학(路上觀察學)](#------------)
-  * [Certs](#certs)
-    + [문화(Cultures)](#---cultures-)
-    + [기술(Techs)](#---techs-)
-- [Faves](#faves)
-  * [풍류(風流)](#------)
-- [Links](#links)
-  * [기억](#--)
-  * [외침](#--)
-- [Sales](#sales)
-
 ## Amateurism
 재밌는 것들을 끄적끄적.
 
