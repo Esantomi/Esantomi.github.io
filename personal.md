@@ -8,9 +8,13 @@ title: Personal
 ## Amateurism
 재밌던 것들을 끄적끄적.
 
-### 박물학(博物學)
-#### 자연사학(Natural History)
-시민 과학(citizen science)의 일환으로, 아마추어 자연사학자(amateur naturalist) — 과거, 자연사학은 '박물학(博物學)'으로 옮기기도 하였습니다. — 를 지향하고 있습니다. 학부 시절 생명과학(life science)을 복수 전공하였으며, 현재 취미로 '생물분류기사(동물)' 취득을 준비하고 있습니다. 
+### Experience
+- 시민과학자(Citizen Scientist), 국립생태원 습지센터(National Institute of Ecology, Research Center for Wetland) ; July 2025 - Present
+
+### Interests
+#### 박물학(博物學)
+** 자연사학(Natural History)**
+시민 과학(citizen science)의 일환으로, 아마추어 자연사학자(amateur naturalist) — 과거, 자연사학은 '박물학(博物學)'으로 옮기기도 하였습니다. — 를 지향하고 있습니다. 학부 시절 생명과학(life science)을 복수 전공하였으며, 현재 취미로 '생물분류기사(동물)' 취득을 준비하고 있습니다.
 - **분류학(Taxonomy)**
   - 패각 유무와 무관하게 연체동물(mollusca) 전반을 좋아하고, 절지동물(arthropod)도 좋아합니다. 개오지(cypraeidae) 패각을 수집하고 있습니다.
   - 참고 링크
@@ -31,15 +35,15 @@ title: Personal
   - 아카세가와 겐페이(赤瀬川原平). (2023). 초예술 토머슨 (서하나 역). 안그라픽스. (원서 출판: 1987, 『超芸術トマソン』)
   - 아카세가와 겐페이(赤瀬川原平), 후지모리 테루노부(藤森照信), 미나미 신보(南伸坊). (2023). 노상관찰학 입문 (서하나 역). 안그라픽스. (원서 출판: 1986, 『路上観察学入門』)
 
-## Certs
+### Certs
 취득한 것들을 끄적끄적.
 
-### 문화(Cultures)
+#### 문화(Cultures)
   - (In class) **Buddhist Magic and Healing in Korea**, 동국대학교(Dongguk University) via K-MOOC ; Jan. 2025 - Dec. 2025. [Link](https://www.kmooc.kr/view/course/detail/15063?tm=20250506152341)
   - (Completed) SKKU_COS3063_2018_T1 **서경, 덕의 나라를 향한 진군가**, 성균관대학교(Sungkyunkwan University) via K-MOOC ; Dec. 2018 - Feb. 2019. [Link](https://lms.kmooc.kr/course/view.php?id=6021)
   - (Completed) SKKU_COS3062_2018_T1 **시경, 시를 알아야 사람노릇 할 수 있다**, 성균관대학교(Sungkyunkwan University) via K-MOOC ; Dec. 2018 - Feb. 2019. [Link](https://lms.kmooc.kr/course/view.php?id=6016)
 
-### 기술(Techs)
+#### 기술(Techs)
   - (Completed) **LLM Journey (Challenges Program)**, 오픈소스 컨트리뷰션 아카데미(Open Source Contribution Academy) ; July - Aug. 2023
   - (Completed) **바닐라JS 2주 완성반**, 노마드 코더(Nomad Coders) ; Sept. 2019
   - (Completed) **바닐라 JS로 크롬 앱 만들기**, 노마드 코더(Nomad Coders) ; Sept. 2019
