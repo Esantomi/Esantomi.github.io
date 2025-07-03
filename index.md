@@ -39,6 +39,8 @@ title: Curriculum Vitae
 ### Non-Degree Education
 - **사서삼경(四書三經) 과정** ; 사단법인 유도회(儒道會) 한문연수원 ; Mar. 2024 - Present
 - **서교연 비평이론학교 S1 감각, 이미지, 정동** ; 서교인문사회연구실 ; May 2025 - Aug. 2025
+- **2024 디지털인문학(DH) 겨울학교**, 고려대학교(Korea University) ; Jan. 2024
+- **2023 디지털인문학(DH) 겨울학교**, 한국과학기술원(Korea Advanced Institute of Science and Technology, KAIST) ; Jan. 2023
 - **데이터 기반 인공지능 시스템 엔지니어 양성 과정** ; 에티버스러닝(Etevers Learning) ; Mar. 2021 - Aug. 2021
 
 
