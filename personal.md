@@ -47,12 +47,17 @@ title: Personal
 수료한 것들을 끄적끄적.
 
 ### 문화(Cultures)
+- (In Class) **Citizen science and global biodiversity**, The Open University (OU) ; July 2025 - Present. [Link](https://www.open.edu/openlearn/science-maths-technology/citizen-science-and-global-biodiversity/)
 - (In class) **Buddhist Magic and Healing in Korea**, 동국대학교(Dongguk University) via K-MOOC ; Jan. 2025 - Dec. 2025. [Link](https://www.kmooc.kr/view/course/detail/15063?tm=20250506152341)
 - (Completed) SKKU_COS3063_2018_T1 **서경, 덕의 나라를 향한 진군가**, 성균관대학교(Sungkyunkwan University) via K-MOOC ; Dec. 2018 - Feb. 2019. [Link](https://lms.kmooc.kr/course/view.php?id=6021)
 - (Completed) SKKU_COS3062_2018_T1 **시경, 시를 알아야 사람노릇 할 수 있다**, 성균관대학교(Sungkyunkwan University) via K-MOOC ; Dec. 2018 - Feb. 2019. [Link](https://lms.kmooc.kr/course/view.php?id=6016)
 
 ### 기술(Techs)
 - (Completed) **LLM Journey (Challenges Program)**, 오픈소스 컨트리뷰션 아카데미(Open Source Contribution Academy) ; July - Aug. 2023
+- (Completed) **Microsoft Azure Data Fundamentals**, Microsoft ; June 2023
+- (Completed) **Microsoft Azure AI Fundamentals**, Microsoft ; June 2023
+- (Completed) **Microsoft Azure Fundamentals**, Microsoft ; June 2023
+- (Completed) **무인동력비행장치 4종(무인멀티콥터)**, 한국교통안전공단 ; Sept. 2022
 - (Completed) **바닐라JS 2주 완성반**, 노마드 코더(Nomad Coders) ; Sept. 2019
 - (Completed) **바닐라 JS로 크롬 앱 만들기**, 노마드 코더(Nomad Coders) ; Sept. 2019
 
