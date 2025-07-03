@@ -44,7 +44,7 @@ title: Personal
   - 가끔 화석을 수집하고 있고, 태백, 영월, 포항, 진주 등의 지층을 직접 탐사하고자 벼르고도 있습니다.
 
 ## Certs
-취득한 것들을 끄적끄적.
+수료한 것들을 끄적끄적.
 
 ### 문화(Cultures)
 - (In class) **Buddhist Magic and Healing in Korea**, 동국대학교(Dongguk University) via K-MOOC ; Jan. 2025 - Dec. 2025. [Link](https://www.kmooc.kr/view/course/detail/15063?tm=20250506152341)
