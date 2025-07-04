@@ -55,11 +55,12 @@ title: Personal
 ### Completions
 - (In class) **Citizen science and global biodiversity**, The Open University(OU) ; July 2025 - Present. [Link](https://www.open.edu/openlearn/science-maths-technology/citizen-science-and-global-biodiversity/)
 - (In class) **Buddhist Magic and Healing in Korea(한국불교의 영험과 치유)**, K-MOOC(Kim Sujung, DePauw University) ; Jan. 2025 - Dec. 2025. [Link](https://www.kmooc.kr/view/course/detail/15063?tm=20250506152341)
+- (In class) **바이오 아트 : 캔버스 위의 미생물**, 국립과천과학관(Gwacheon National Science Museum)(이지영) ; July 2025
 - **LLM을 여행하는 프롬프트 엔지니어를 위한 안내서(Challenges Program)**, 오픈소스 컨트리뷰션 아카데미(Open Source Contribution Academy) ; July 2023 - Aug. 2023. [Link](https://www.oss.kr/ossca_23_projects/show/93ef05a0-c263-4715-98f9-d426b0091c71)
 - **바닐라 JS로 크롬 앱 만들기**, 노마드 코더(Nomad Coders) ; Sept. 2019
 - **바닐라JS 2주 완성반**, 노마드 코더(Nomad Coders) ; Sept. 2019
-- **서경, 덕의 나라를 향한 진군가**, K-MOOC(신정근, 성균관대학교) ; Dec. 2018 - Feb. 2019
-- **시경, 시를 알아야 사람노릇 할 수 있다**, K-MOOC(조민환, 성균관대학교) ; Dec. 2018 - Feb. 2019
+- **서경, 덕의 나라를 향한 진군가**, K-MOOC(신정근) ; Dec. 2018 - Feb. 2019
+- **시경, 시를 알아야 사람노릇 할 수 있다**, K-MOOC(조민환) ; Dec. 2018 - Feb. 2019
 
 ## Faves
 취향인 것들을 끄적끄적.
