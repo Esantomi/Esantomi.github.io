@@ -50,13 +50,16 @@ title: Personal
 - **Microsoft Azure Data Fundamentals**, Microsoft ; June 2023
 - **Microsoft Azure AI Fundamentals**, Microsoft ; June 2023
 - **Microsoft Azure Fundamentals**, Microsoft ; June 2023
-- **무인동력비행장치 4종(무인멀티콥터)**, 한국교통안전공단 ; Sept. 2022
+- **무인동력비행장치 4종(무인멀티콥터)**, 한국교통안전공단(Korea Transportation Safety Authority) ; Sept. 2022
+- **컴퓨터활용능력2급(Computer Specialist in Spreadsheet & Database Level-2)**, 대한상공회의소(Korea Chamber of Commerce and Industry) ; Oct. 2018
 
 ### Completions
 - (In class) **Citizen science and global biodiversity**, The Open University(OU) ; July 2025 - Present. [Link](https://www.open.edu/openlearn/science-maths-technology/citizen-science-and-global-biodiversity/)
 - (In class) **Buddhist Magic and Healing in Korea(한국불교의 영험과 치유)**, K-MOOC(Kim Sujung, DePauw University) ; Jan. 2025 - Dec. 2025. [Link](https://www.kmooc.kr/view/course/detail/15063?tm=20250506152341)
 - (In class) **바이오 아트 : 캔버스 위의 미생물**, 국립과천과학관(Gwacheon National Science Museum)(이지영) ; July 2025
 - **LLM을 여행하는 프롬프트 엔지니어를 위한 안내서(Challenges Program)**, 오픈소스 컨트리뷰션 아카데미(Open Source Contribution Academy) ; July 2023 - Aug. 2023. [Link](https://www.oss.kr/ossca_23_projects/show/93ef05a0-c263-4715-98f9-d426b0091c71)
+- **AI 온라인 실무 응용 교육과정**, 정보통신산업진흥원(National IT Industry Promotion Agency, NIPA) ; Oct. 2021 - Dec. 2021
+- **AI 온라인 실무 기본 교육과정**, 정보통신산업진흥원(National IT Industry Promotion Agency, NIPA) ; Aug. 2021 - Dec. 2021
 - **바닐라 JS로 크롬 앱 만들기**, 노마드 코더(Nomad Coders) ; Sept. 2019
 - **바닐라JS 2주 완성반**, 노마드 코더(Nomad Coders) ; Sept. 2019
 - **서경, 덕의 나라를 향한 진군가**, K-MOOC(신정근) ; Dec. 2018 - Feb. 2019
