@@ -23,8 +23,6 @@ title: Curriculum Vitae
 - 문화
   - **디지털 종교학(Digital Religious Studies)**: 기술의 종교-사회적 형성(Religious-Social Shaping of Technology; RSST)과 하이퍼리얼 종교(Hyper-real religion) 담론, 사이버신학(Cybertheology), 온라인 종교 공동체, 온라인 기반의 종교적 실천 등에 관심이 있습니다.
   - **과학기술사회학(Science and Technology Studies; STS)**: 기술과 사회·문화 간 관계성에 관심이 있습니다. 비-인간 행위자(Non-human agency)와 인간 행위자(Human agency) 간 관계 맺음을 흥미롭게 여겨, 행위자-연결망 이론(Actor–Network Theory; ANT)에 기반한 신유물론(Neo-materialism)적 사유도 조금씩 살펴보고 있습니다.
-- 예술
-  - **실험 인문학(Experimental Humanities; EH)**: 실험적·융합적 방법론을 통해 인간 경험과 사회 현상, 기술의 의미를 새롭게 탐구하는 데 흥미가 있습니다. 특히 Maker culture에 기반한 Critical making과 예술적 창작 및 공공 전시에 관심이 있어, 꾸준히 이것저것 꼼지락거리고 있습니다. 최근 흥미롭게 본 작업은 [De Roure, D., & Willcox, P. (2017, October)](https://ieeexplore.ieee.org/abstract/document/8109137)입니다.
 
 
 ## Education
