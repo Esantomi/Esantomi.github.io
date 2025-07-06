@@ -5,6 +5,8 @@ title: Personal
 
 <div class="menu"><center><i class="fas fa-home"></i><a href="./"> home</a> | <i class="fas fa-sticky-note"></i><a href="./personal"> personal</a></center></div>
 
+사적인 것들을 두서없이 끄적여 둔 페이지입니다.
+
 ## Amateurism
 재밌는 것들을 끄적끄적.
 
