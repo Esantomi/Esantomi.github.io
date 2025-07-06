@@ -23,6 +23,11 @@ title: Personal
   - 개빈 프레터피니(Gavin Pretor-Pinney). (2023). 구름관찰자를 위한 가이드 (김성훈 역). 김영사. (원서 출판: 2006, 『The Cloudspotter's Guide』)
   - 개빈 프레터피니(Gavin Pretor-Pinney). (2021). 날마다 구름 한 점 (김성훈 역). 김영사. (원서 출판: 2019, 『A Cloud A Day』)
 
+#### 시각예술(Visual Arts)
+- 알고리즘 아트(Algorithmic art)
+- 바이오 아트(BioArt)
+  - 그중에서도 미생물 아트(Microbial art)에 흥미가 있습니다.
+
 #### 시민과학(Citizen Science)
 시민 과학(citizen science)은 간단히, 과학 연구 활동에 대한 시민의 자발적 참여, 기여를 지칭하는 개념입니다. 
 - 유휴 컴퓨팅 자원과 그리드 컴퓨팅을 활용한 각종 연산 작업에 가끔 참여하고 있습니다. '997151668891746319798'과 '1003705225544214102602'가 친화수(amicable numbers)라는 것 등을 밝혀 내었습니다. 친화수는 한쪽의 진약수(proper divisor)를 모두 더하면 다른 수가 되는 숫자 쌍을 의미합니다.
