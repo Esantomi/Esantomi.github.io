@@ -33,7 +33,7 @@ title: Personal
 #### 시민과학(Citizen Science)
 시민 과학(citizen science)은 간단히, 과학 연구 활동에 대한 시민의 자발적 참여, 기여를 지칭하는 개념입니다. 
 - 유휴 컴퓨팅 자원과 그리드 컴퓨팅을 활용한 각종 연산 작업에 가끔 참여하고 있습니다.
-  - 길이 20의 소수 등차수열(Arithmetic Progression of primes of length 20)인 𝑎+𝑑⋅𝑛 for 𝑛=0 to 19 (𝑎=647258465050216783, 𝑑=237424941×23#)를 발견하였습니다. 이때 #은 소수 계승(primorial)이며, 23#은 23 이하의 모든 소수의 곱이 됩니다.
+  - 길이 20의 소수 등차수열(Arithmetic Progression of primes of length 20)인 '𝑎+𝑑⋅𝑛 for 𝑛=0 to 19 (𝑎=647258465050216783, 𝑑=237424941×23#)'를 발견하였습니다. 이때 #은 소수 계승(primorial)으로, 23#은 23 이하의 모든 소수의 곱이 됩니다.
   - '997151668891746319798'과 '1003705225544214102602'가 친화수(amicable numbers)라는 것 등을 밝혀내었습니다. 친화수는 한쪽의 진약수(proper divisor)를 모두 더하면 다른 수가 되는 숫자 쌍을 의미합니다.
   - 고등과학원 Open KIAS 센터에서 운영하는 [시민과함께과학](https://시민과함께과학.kr/) 등의 플랫폼을 활용해 천문 데이터 분류 연구에도 종종 참여합니다. 
 - Do-it-yourself biology (DIY biology, DIY bio)에도 관심이 있습니다.
