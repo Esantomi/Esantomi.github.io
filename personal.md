@@ -12,6 +12,7 @@ title: Personal
 
 ### Experience
 - 시민과학자(Citizen Scientist), 국립생태원 습지센터(National Institute of Ecology, Research Center for Wetland) ; July 2025 - Present
+- 단원(Member), 서울환경연합 지렁이 구조단 꿈틀단(Seoul Friends of the Earth Korea, Wriggle Squad: The Earthworm Rescue Team) ; July 2025 - Aug. 2025
 
 ### Exhibitions
 추후 공개.
