@@ -56,6 +56,11 @@ title: Personal
 - **고생물학(Paleontology)**
   - 가끔 화석을 수집하고 있고, 태백, 영월, 포항, 진주 등의 지층을 직접 탐사하고자 벼르고도 있습니다.
 
+## Memberships
+
+- **학생회원(Student Member)** ; 한국곤충학회(The Entomological Society of Korea) ; Jun. 2025 - Present
+ - **후원회원(Supporting Member)** ; 전기가오리(Philo-electro-ray) ; Oct. 2024 - Present
+
 ## Certs
 완수한 것들을 끄적끄적.
 
