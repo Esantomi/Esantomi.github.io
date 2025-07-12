@@ -18,45 +18,6 @@ title: Personal
 ### Exhibitions
 추후 공개.
 
-### Interests
-#### 노상관찰학(路上觀察學)
-도시를 '박물학(博物學)'하는 즐거움에 골자를 두고 있다는 점에서, 고현학(考現學)의 현대적 변용인 노상관찰학(路上觀察學)은 자연 환경의 박물학인 자연사학(自然史學)에 대비되는 '도시 환경의 박물학'이라 지칭할 만합니다. 아카세가와 겐페이의 글에 영감을 받아, 길에서 이것저것 관찰하는 것을 좋아합니다. 덧붙여 '구름감상협회(The Cloud Appreciation Society)' 같은 곳에서 하는 활동도 좋아합니다.
-- 참고 자료
-  - 아카세가와 겐페이(赤瀬川原平). (2023). 초예술 토머슨 (서하나 역). 안그라픽스. (원서 출판: 1987, 『超芸術トマソン』)
-  - 아카세가와 겐페이(赤瀬川原平), 후지모리 테루노부(藤森照信), 미나미 신보(南伸坊). (2023). 노상관찰학 입문 (서하나 역). 안그라픽스. (원서 출판: 1986, 『路上観察学入門』)
-  - 개빈 프레터피니(Gavin Pretor-Pinney). (2023). 구름관찰자를 위한 가이드 (김성훈 역). 김영사. (원서 출판: 2006, 『The Cloudspotter's Guide』)
-  - 개빈 프레터피니(Gavin Pretor-Pinney). (2021). 날마다 구름 한 점 (김성훈 역). 김영사. (원서 출판: 2019, 『A Cloud A Day』)
-
-#### 시각예술(Visual Arts)
-- 알고리즘 아트(Algorithmic art)
-- 바이오 아트(BioArt)
-  - 그중에서도 미생물 아트(Microbial art)에 흥미가 있습니다.
-
-#### 시민과학(Citizen Science)
-시민 과학(citizen science)은 간단히, 과학 연구 활동에 대한 시민의 자발적 참여, 기여를 지칭하는 개념입니다. 
-- 유휴 컴퓨팅 자원과 그리드 컴퓨팅을 활용한 각종 연산 작업에 가끔 참여하고 있습니다.
-  - 길이 20의 소수 등차수열(Arithmetic Progression of primes of length 20)인 '𝑎+𝑑⋅𝑛 for 𝑛=0 to 19 (𝑎=647258465050216783, 𝑑=237424941×23#)'를 발견하였습니다. 이때 #은 소수 계승(primorial)으로, 23#은 23 이하의 모든 소수의 곱이 됩니다.
-  - '997151668891746319798'과 '1003705225544214102602'가 친화수(amicable numbers)라는 것 등을 밝혀내었습니다. 친화수는 한쪽의 진약수(proper divisor)를 모두 더하면 다른 수가 되는 숫자 쌍을 의미합니다.
-  - 고등과학원 Open KIAS 센터에서 운영하는 [시민과함께과학](https://시민과함께과학.kr/) 등의 플랫폼을 활용해 천문 데이터 분류 연구에도 종종 참여합니다. 
-- Do-it-yourself biology (DIY biology, DIY bio)에도 관심이 있습니다.
-- 그 외에는 주로 생물 다양성과 생태 중심의 시민과학 활동에 참여하고 있습니다.
-
-#### 자연사학(Natural History)
-아마추어 자연사학자(amateur naturalist) — 과거, 자연사학은 '박물학(博物學)'으로 옮기기도 하였습니다. — 를 지향하고 있습니다. 학부 시절 생명과학(life science)을 복수 전공하였으며, 현재 취미로 '생물분류기사(동물)' 취득을 준비하고 있습니다.
-- **분류학(Taxonomy)**
-  - 패각 유무와 무관하게 연체동물(mollusca) 전반을 좋아하고, 절지동물(arthropod)도 좋아합니다. 개오지(cypraeidae) 패각을 수집하고 있습니다.
-  - 참고 링크
-    - [Linnean Society of London](https://www.linnean.org/)
-    - [Natural History Museum, London (NHM)](https://data.nhm.ac.uk/)
-      - [NHM London - Collections, data and services](https://www.nhm.ac.uk/our-science/services.html)
-      - [NHM London - Naturally Curious](https://naturallycurious.nhm.ac.uk/)
-      - [Google Arts & Culture - The Natural History Museum](https://artsandculture.google.com/partner/natural-history-museum)
-
-<center><img class="intext-img" src="/assets/img/cypraeidae.jpg" oncontextmenu="return false"></center>
-
-- **고생물학(Paleontology)**
-  - 가끔 화석을 수집하고 있고, 태백, 영월, 포항, 진주 등의 지층을 직접 탐사하고자 벼르고도 있습니다.
-
 ### Memberships
 
 - **회원(Member)** ; 한국실담범자협회(韓國悉曇梵字協會) ; Jun. 2025 - Present
@@ -86,6 +47,45 @@ title: Personal
 - **서경, 덕의 나라를 향한 진군가**, K-MOOC(신정근) ; Dec. 2018 - Feb. 2019
 - **시경, 시를 알아야 사람노릇 할 수 있다**, K-MOOC(조민환) ; Dec. 2018 - Feb. 2019
 
+
+## Interests
+### 노상관찰학(路上觀察學)
+도시를 '박물학(博物學)'하는 즐거움에 골자를 두고 있다는 점에서, 고현학(考現學)의 현대적 변용인 노상관찰학(路上觀察學)은 자연 환경의 박물학인 자연사학(自然史學)에 대비되는 '도시 환경의 박물학'이라 지칭할 만합니다. 아카세가와 겐페이의 글에 영감을 받아, 길에서 이것저것 관찰하는 것을 좋아합니다. 덧붙여 '구름감상협회(The Cloud Appreciation Society)' 같은 곳에서 하는 활동도 좋아합니다.
+- 참고 자료
+  - 아카세가와 겐페이(赤瀬川原平). (2023). 초예술 토머슨 (서하나 역). 안그라픽스. (원서 출판: 1987, 『超芸術トマソン』)
+  - 아카세가와 겐페이(赤瀬川原平), 후지모리 테루노부(藤森照信), 미나미 신보(南伸坊). (2023). 노상관찰학 입문 (서하나 역). 안그라픽스. (원서 출판: 1986, 『路上観察学入門』)
+  - 개빈 프레터피니(Gavin Pretor-Pinney). (2023). 구름관찰자를 위한 가이드 (김성훈 역). 김영사. (원서 출판: 2006, 『The Cloudspotter's Guide』)
+  - 개빈 프레터피니(Gavin Pretor-Pinney). (2021). 날마다 구름 한 점 (김성훈 역). 김영사. (원서 출판: 2019, 『A Cloud A Day』)
+
+### 시각예술(Visual Arts)
+- 알고리즘 아트(Algorithmic art)
+- 바이오 아트(BioArt)
+  - 그중에서도 미생물 아트(Microbial art)에 흥미가 있습니다.
+
+### 시민과학(Citizen Science)
+시민 과학(citizen science)은 간단히, 과학 연구 활동에 대한 시민의 자발적 참여, 기여를 지칭하는 개념입니다. 
+- 유휴 컴퓨팅 자원과 그리드 컴퓨팅을 활용한 각종 연산 작업에 가끔 참여하고 있습니다.
+  - 길이 20의 소수 등차수열(Arithmetic Progression of primes of length 20)인 '𝑎+𝑑⋅𝑛 for 𝑛=0 to 19 (𝑎=647258465050216783, 𝑑=237424941×23#)'를 발견하였습니다. 이때 #은 소수 계승(primorial)으로, 23#은 23 이하의 모든 소수의 곱이 됩니다.
+  - '997151668891746319798'과 '1003705225544214102602'가 친화수(amicable numbers)라는 것 등을 밝혀내었습니다. 친화수는 한쪽의 진약수(proper divisor)를 모두 더하면 다른 수가 되는 숫자 쌍을 의미합니다.
+  - 고등과학원 Open KIAS 센터에서 운영하는 [시민과함께과학](https://시민과함께과학.kr/) 등의 플랫폼을 활용해 천문 데이터 분류 연구에도 종종 참여합니다. 
+- Do-it-yourself biology (DIY biology, DIY bio)에도 관심이 있습니다.
+- 그 외에는 주로 생물 다양성과 생태 중심의 시민과학 활동에 참여하고 있습니다.
+
+### 자연사학(Natural History)
+아마추어 자연사학자(amateur naturalist) — 과거, 자연사학은 '박물학(博物學)'으로 옮기기도 하였습니다. — 를 지향하고 있습니다. 학부 시절 생명과학(life science)을 복수 전공하였으며, 현재 취미로 '생물분류기사(동물)' 취득을 준비하고 있습니다.
+- **분류학(Taxonomy)**
+  - 패각 유무와 무관하게 연체동물(mollusca) 전반을 좋아하고, 절지동물(arthropod)도 좋아합니다. 개오지(cypraeidae) 패각을 수집하고 있습니다.
+  - 참고 링크
+    - [Linnean Society of London](https://www.linnean.org/)
+    - [Natural History Museum, London (NHM)](https://data.nhm.ac.uk/)
+      - [NHM London - Collections, data and services](https://www.nhm.ac.uk/our-science/services.html)
+      - [NHM London - Naturally Curious](https://naturallycurious.nhm.ac.uk/)
+      - [Google Arts & Culture - The Natural History Museum](https://artsandculture.google.com/partner/natural-history-museum)
+
+<center><img class="intext-img" src="/assets/img/cypraeidae.jpg" oncontextmenu="return false"></center>
+
+- **고생물학(Paleontology)**
+  - 가끔 화석을 수집하고 있고, 태백, 영월, 포항, 진주 등의 지층을 직접 탐사하고자 벼르고도 있습니다.
 
 ## Faves
 취향인 것들을 끄적끄적.
