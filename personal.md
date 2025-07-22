@@ -5,7 +5,7 @@ title: Personal
 
 <div class="menu"><center><i class="fas fa-home"></i><a href="./"> home</a> | <i class="fas fa-sticky-note"></i><a href="./personal"> personal</a></center></div>
 
-사적인 것들을 두서없이 끄적여 둔 페이지입니다.
+사적인 것들을 두서없이 끄적여 둔 페이지입니다. 대체로 취미(덕질)에 대한 이야기로, 읽지 않으셔도 무방합니다.
 
 
 ## Amateurism
@@ -60,7 +60,9 @@ title: Personal
 ### 시각예술(Visual Arts)
 - 알고리즘 아트(Algorithmic art)
 - 바이오 아트(BioArt)
-  - 그중에서도 미생물 아트(Microbial art)에 흥미가 있습니다.
+  - 그중에서도 미생물 아트(Microbial art)에 흥미가 있습니다. 다음은 제 Agar art 작품입니다.
+
+<center><img class="intext-img" src="/assets/img/bio-art.jpg" oncontextmenu="return false"></center>
 
 ### 시민과학(Citizen Science)
 시민 과학(citizen science)은 간단히, 과학 연구 활동에 대한 시민의 자발적 참여, 기여를 지칭하는 개념입니다. 
