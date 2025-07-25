@@ -73,6 +73,8 @@ title: Personal
 - Do-it-yourself biology (DIY biology, DIY bio)에도 관심이 있습니다.
 - 그 외에는 주로 생물 다양성과 생태 중심의 시민과학 활동에 참여하고 있습니다.
 
+<center><img class="intext-img" src="/assets/img/citizen-science.jpg" oncontextmenu="return false"></center>
+
 ### 자연사학(Natural History)
 아마추어 자연사학자(amateur naturalist) — 과거, 자연사학은 '박물학(博物學)'으로 옮기기도 하였습니다. — 를 지향하고 있습니다. 학부 시절 생명과학(life science)을 복수 전공하였으며, 현재 취미로 '생물분류기사(동물)' 취득을 준비하고 있습니다.
 - **분류학(Taxonomy)**
