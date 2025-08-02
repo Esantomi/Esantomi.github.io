@@ -110,6 +110,7 @@ title: Personal
 연결된 것들을 끄적끄적.
 
 ### 기억
+- <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=ZlEuluWsS3g">제4회 대학원 학생성공스토리 특강 | 인터랙션사이언스학과 김병준 박사수료생</a>
 - 조선일보. (1995.11.01). <한국인, 오늘의 초상> CD롬 전문가 된 동양철학자. [Link](https://www.chosun.com/site/data/html_dir/1995/11/01/1995110170166.html)
   - 존경하는 사조(師祖), 김현 교수님에 관한 기록
 
