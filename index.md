@@ -72,9 +72,7 @@ title: Curriculum Vitae
 
 ### Datasets
 1. KPoEM (Korean Poetry Emotion Mapping) dataset
-   - **v3**: LIM, I., **Ji, H.**, Koo, S., Jung, S.-. yi ., YUN, J., & Kim, B. (2025). **KPoEM dataset for "Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling"** [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15572285" target="_blank">10.5281/zenodo.15572285</a>
-   - **v2**: LIM, I., **Ji, H.**, Koo, S., Jung, S.-. yi ., YUN, J., & Kim, B. (2025). **KPoEM dataset for "Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling"** [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15571991" target="_blank">10.5281/zenodo.15571991</a>
-   - **v1**: LIM, I., **Ji, H.**, Koo, S., & Kim, B. (2025). **KPoEM dataset for "Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling"** [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15181396" target="_blank">10.5281/zenodo.15055795</a>
+   - **v4**: LIM, I., **Ji, H.**, Koo, S., Jung, S.-. yi ., YUN, J., & Kim, B. (2025). KPoEM dataset for "Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling" [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15598092" target="_blank">10.5281/zenodo.15598092</a>
 2. 지해인. (2024). **디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구 [A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis]** [Data set]. OSF. <i class="ai ai-doi"></i> <a href="http://doi.org/10.17605/OSF.IO/964NC" target="_blank">10.17605/OSF.IO/964NC</a>
 
 
@@ -140,6 +138,7 @@ title: Curriculum Vitae
 ## Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
