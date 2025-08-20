@@ -52,7 +52,7 @@ title: Curriculum Vitae
 ## Publications
 
 ### Books
-1. 지해인, & 김바로. (2025). **문학 감정 읽는 AI**. 서울: 커뮤니케이션북스. ISBN: 9791143006370
+1. 지해인, & 김바로. (2025). **문학 감정 읽는 AI**. 서울: 커뮤니케이션북스. ISBN: 9791143006370 <br> <i class="fas fa-image"></i> <a href="https://i0.wp.com/www.kadh.org/wp-content/uploads/2025/08/image-12.png?w=817&ssl=1" target="_blank">Picture</a>
 
 ### Journal Articles
 1. 지해인. (2025). **딥러닝 기반의 문학 감각 요소 분석을 위한 예비적 고찰 [Preliminary Study on Deep Learning-Based Analysis of Sensory Elements in Literature]**. <i>인문학연구</i>, 39, 83-120. <i class="ai ai-doi"></i> <a href="https://doi.org/10.47293/ihumjj.2025.39.4" target="_blank">10.47293/ihumjj.2025.39.4</a>
@@ -94,7 +94,7 @@ title: Curriculum Vitae
 ## Talks/Presentations
 
 - Lee, J., & **Ji, H.** (2025.07.17) **A Quantitative Approach to Bodily Sensations: Modernist and Realist Authors in Colonial Korea**. The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2025 (DH2025), Universidade NOVA de Lisboa (NOVA FCSH), Lisbon, Portugal. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.16616347" target="_blank">10.5281/zenodo.16616347</a> <br> <i class="fas fa-list"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/pdf/ADHO_DH2025_program.pdf" target="_blank">Program</a>
-- 지해인. (2025.05.23). **딥러닝 기반의 문학 감각 요소 분석을 위한 예비적 고찰 [A Preliminary Study on the Analysis of Sensory Elements in Literature Based on Deep Learning]**. 제주대학교 인문과학연구소 전국학술대회: 인공지능(AI)과 인문학의 만남 - 그 실제와 응용, 제주대학교, 제주, 대한민국. <br> <i class="fas fa-list"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/pdf/InstHumanitJNU_AI-Humanities_program.pdf" target="_blank">Program</a> <i class="fas fa-image"></i> <a href="/assets/img/haein_talk.jpg" target="_blank">Image</a>
+- 지해인. (2025.05.23). **딥러닝 기반의 문학 감각 요소 분석을 위한 예비적 고찰 [A Preliminary Study on the Analysis of Sensory Elements in Literature Based on Deep Learning]**. 제주대학교 인문과학연구소 전국학술대회: 인공지능(AI)과 인문학의 만남 - 그 실제와 응용, 제주대학교, 제주, 대한민국. <br> <i class="fas fa-list"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/pdf/InstHumanitJNU_AI-Humanities_program.pdf" target="_blank">Program</a> <i class="fas fa-image"></i> <a href="/assets/img/haein_talk.jpg" target="_blank">Picture</a>
 - Lim, I., **Ji, H.**, & Kim, B. (2025.04.25). **Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI modeling**. Digital Humanities and Social Sciences Korea Conference, James Joo-Jin Kim Center for Korean Studies, University of Pennsylvania, Philadelphia, USA. <br> <i class="fas fa-list"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/DhSsKoConf.pdf" target="_blank">Program</a>
 - 임이로, **지해인**, & 김병준. (2025.02.13). **한국 근현대시 감정 라벨링 데이터셋 구축: 문학 텍스트의 컴퓨터 기반 감정 분류와 생성형 AI 활용을 위한 기초 연구 [Constructing an Emotion-Labeled Dataset of Modern Korean Poetry: A Foundational Study for Computational Emotion Classification and Generative AI Applications in Literary Texts]** [Poster presentation]. 제2회 한국현대문학자대회, 성균관대학교, 서울, 대한민국. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15055795" target="_blank">10.5281/zenodo.15055795</a> <br> <i class="fas fa-list"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2nd_korlitconf.png" target="_blank">Program</a>
 - 지해인. (2023.12.12). **이상 단편소설에 대한 디지털 인문학적 접근 - ‘깨달음’의 감정을 중심으로 [A Digital Humanities Approach to Yi Sang’s Short Stories: Focusing on the Emotion of ‘Realization’]**. 이상문학회(李箱文學會) 2023년도 하반기 정기학술대회: 이상(李箱) 문학의 다양성 모색, 이상의집, 서울, 대한민국. <br> <i class="fas fa-list"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2023_latterhalf_yisanglitconf.jpg" target="_blank">Program</a>
@@ -141,6 +141,7 @@ title: Curriculum Vitae
 ## Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
