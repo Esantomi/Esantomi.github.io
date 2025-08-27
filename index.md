@@ -80,6 +80,7 @@ title: Curriculum Vitae
 
 ## Projects
 
+- 한국학중앙연구원: **인문 데이터 설계 교육을 위한 한국 근현대 문학 TEI/XML 구축 방법론 연구** ; 보조연구원(연구책임자: 김병준) ; Sept. 2025 - Feb. 2026
 - 한국연구재단: **네트워크형 디지털 인문학 교육모델 개발(Development of a Networked Educational Model in Digital Humanities)** ; 외부참여연구원(연구책임자: 이재연) ; Apr. 2024 - Jun. 2025
 - 한국연구재단: **인간과 협업하는 딥러닝 기반 AI 소설 생성 융합 연구(A Convergence Study for Deep-Learning-Based AI Fiction Generation with Human in the Loop)** ; 보조연구원(연구책임자: 윤미선) ; Apr. 2024 - Jun. 2025 <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=GEhcIUJaooo" target="_blank">소설 쓰는 AI 로봇: 자유생성 이벤트 1 - 광화문, 서울, 6월 (2024)</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=4UJrf0RDb6o" target="_blank">Fiction Writing AI Robots: Spontaneous Generation Events Video June 2024</a>
 - 한국학중앙연구원: **고급 자연어 처리 및 대규모 언어 모델 기반 디지털 한국학 연구 및 교육 방법론 개발(Development of Advanced Natural Language Processing and Large Language Model-Based Digital Korean Studies and Education Methodology)** ; 보조연구원(연구책임자: 김병준) ; Mar. 2025 - Aug. 2025
@@ -142,6 +143,7 @@ title: Curriculum Vitae
 ## Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
