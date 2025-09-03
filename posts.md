@@ -8,7 +8,7 @@ title: Posts
 게시글 목록입니다.
 
 ## 취미
-- <a href="posts/taxonomy.md" target="_blank">생물분류기사(동물) 300종 계통 정리</a>
+- <a href="posts/taxonomy" target="_blank">생물분류기사(동물) 300종 계통 목록</a>
 - <a href="" target="_blank">시민과학</a>
 - <a href="" target="_blank">불교서예</a>
 
