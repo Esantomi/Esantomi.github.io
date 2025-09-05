@@ -96,6 +96,7 @@ title: Curriculum Vitae
 
 ## Talks/Presentations
 
+- **(forthcoming)** 임이로, **지해인**, & 김병준. (2025.10.18). **한국 근현대시의 감정 분석과 인공지능 시 창작 응용: KPoEM 데이터셋 구축과 활용**. 반교어문학회 제180차 정기학술대회, 성균관대학교, 서울, 대한민국.
 - **(Forthcoming)** 지해인. (2025.09.26). **문학 데이터 설계 기반의 분석 및 딥러닝 분류 모델 구현 시론 - 문학적 감각과 감정을 중심으로 - [Exploring the Design of Literary Data and Deep Learning Classification Models: A Preliminary Approach with a Focus on Literary Senses and Emotions]**. 단국대학교-한국교원대학교 공동학술대회, 한국교원대학교, 청주, 대한민국.
 - Lee, J., & **Ji, H.** (2025.07.17) **A Quantitative Approach to Bodily Sensations: Modernist and Realist Authors in Colonial Korea**. The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2025 (DH2025), Universidade NOVA de Lisboa (NOVA FCSH), Lisbon, Portugal. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.16616347" target="_blank">10.5281/zenodo.16616347</a> <br> <i class="fas fa-list"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/pdf/ADHO_DH2025_program.pdf" target="_blank">Program</a>
 - 지해인. (2025.05.23). **딥러닝 기반의 문학 감각 요소 분석을 위한 예비적 고찰 [A Preliminary Study on the Analysis of Sensory Elements in Literature Based on Deep Learning]**. 제주대학교 인문과학연구소 전국학술대회: 인공지능(AI)과 인문학의 만남 - 그 실제와 응용, 제주대학교, 제주, 대한민국. <br> <i class="fas fa-list"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/pdf/InstHumanitJNU_AI-Humanities_program.pdf" target="_blank">Program</a> <i class="fas fa-image"></i> <a href="/assets/img/haein_talk.jpg" target="_blank">Picture</a>
@@ -145,6 +146,7 @@ title: Curriculum Vitae
 ## Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
