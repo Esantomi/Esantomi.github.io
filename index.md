@@ -14,8 +14,6 @@ title: Curriculum Vitae
 
 현재 [한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the Academy of Korean Studies)](https://digitalhumanities.kr/) 연구원으로 재직 중입니다.
 
-<center><img class="intext-img" src="/assets/img/aks-dhlab-ci.png" oncontextmenu="return false" /></center>
-
 ### Research Interests
 기본적으로 컴퓨터 기술을 활용한 인문학 연구, 즉 **디지털 인문학(Digital Humanities, DH)** 전반에 관심이 있습니다.
 
@@ -161,6 +159,7 @@ title: Curriculum Vitae
 ## Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
