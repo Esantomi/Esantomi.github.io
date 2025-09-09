@@ -12,7 +12,7 @@ title: Curriculum Vitae
 
 한국전통문화대학교 강사로서, 학부 수준의 강의 경험이 있으며, 인문 데이터 설계, 구축, 분석 등을 주제로 강의 및 워크숍을 진행할 수 있는 역량을 갖추고 있습니다.
 
-<center><image class="intext-img" src="/assets/img/aks-dhlab-ci.png" oncontextmenu="return false"></center>
+<center><img class="intext-img" src="/assets/img/aks-dhlab-ci.png" oncontextmenu="return false" /></center>
 
 현재 한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the Academy of Korean Studies) 연구원으로 재직 중입니다.
 
@@ -161,6 +161,7 @@ title: Curriculum Vitae
 ## Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
