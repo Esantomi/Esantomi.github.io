@@ -55,7 +55,7 @@ title: Curriculum Vitae
 1. 지해인, & 김바로. (2025). **문학 감정 읽는 AI**. 서울: 커뮤니케이션북스. ISBN: 9791143006370 <br> <i class="fas fa-image"></i> <a href="https://i0.wp.com/www.kadh.org/wp-content/uploads/2025/08/image-12.png?w=817&ssl=1" target="_blank">Cover</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=uwjCB3-9kFE" target="_blank">Intro</a>
 
 ### Articles
-1. **(Work in Progress)** 지해인. (2025). **(가제) IT 구루와 디지털 신탁 - 디시인사이드 키워드 분석을 중심으로 -**.
+1. **(Work in Progress)** 지해인. (2025). **(가제) IT 구루와 온라인 시대의 종교 의례 - 디시인사이드 키워드 분석을 중심으로 -**.
 1. **(Work in Progress)** 지해인, & 김가연. (2025). **(가제) 요괴학으로 본 포켓몬스터의 가상 민족생물학적 분류에 관한 연구**.
 1. **(Work in Progress)** Lee, J. & **Ji, H.** (2025). **A Quantitative Approach to Bodily Sensations: Modernist and Realist Authors in Colonial Korea**.
 1. **(Work in Progress)** Park, H. & **Ji, H.** (2025). **Modeling and Characterizing Korean Spacing Errors via Information-theoretic Metrics**.
@@ -159,6 +159,7 @@ title: Curriculum Vitae
 ## Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
