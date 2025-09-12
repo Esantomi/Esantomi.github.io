@@ -19,8 +19,8 @@ title: Curriculum Vitae
 
 - **전산문학연구(Computational Literary Studies, CLS)**: 문학 텍스트에서 ‘감정’과 ‘감각’과 같은, 정량적으로 다루기 힘든 인간의 경험 요소를 기계적으로 포착하고, 그 문학적 함의를 다루는 연구로 석사 학위를 취득하였습니다. 지금은 감각-감정을 넘어 생활세계 전체를 구조화할 수 있도록 설계된 데이터셋을 바탕으로, 시대적 맥락까지 심도 있게 포괄하는 CLS 연구를 염두에 두고 정동 이론 등 제 분야를 공부하고 있습니다.
 - **계산심리언어학(Computational psycholinguistics)**: 언어의 심리적 단위에 대한 전산적 연구에 관심을 갖고, 대규모 텍스트에 기반한 연구를 현재 진행 중입니다. 종래의 형식주의적 접근을 넘어, 기능주의적 관점에서 언어를 조망하고자 하고 있습니다.
-- **문화분석학(Cultural analytics)**: 현대 및 역사적 문화를 탐구하기 위해 전산적 방법을 활용하는 것에 관심이 있습니다.
-  - **전산종교학(Computational Religious Studies)**: 현대적 종교 현상에 대한 전산적 접근에 관심이 있습니다.
+- **문화분석학(Cultural analytics)**: 현대 및 역사적 문화 탐구를 위해 전산적 방법을 활용하고자 합니다. 특히 텍스트를 통해 읽어 낼 수 있는 인간의 문화 사고에 관심이 있습니다.
+  - **전산종교학(Computational Religious Studies)**: 현대의 문화적 종교 현상에 대한 전산적 접근에 관심이 있습니다. 현재 IT 구루를 중심으로 한 유희적 신앙에 대한 글을 쓰고 있습니다.
   - **비판적 코드 연구(Critical Code Studies, CCS)**: 소스 코드(Source code)를 기능성의 측면에서만 접근하는 게 아닌 '사회-기술적 구성물', 나아가 '문화적 텍스트'로 간주하고 '가까이 읽기'(close reading)를 통해 문화비평적으로 독해하고자 하는 신생 연구 비판적 코드 연구(CSS)에 관심을 갖고 있습니다. 현재 관련하여 다음 논문으로 준비하고 있는 작업이 있습니다.
 
 
@@ -162,6 +162,7 @@ title: Curriculum Vitae
 ## Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
