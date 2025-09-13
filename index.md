@@ -85,6 +85,12 @@ title: Curriculum Vitae
 1. 지해인. (2024). **디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구 [A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis]** [Data set]. OSF. <i class="ai ai-doi"></i> <a href="http://doi.org/10.17605/OSF.IO/964NC" target="_blank">10.17605/OSF.IO/964NC</a>
 
 
+## Exhibitions
+
+### Group Exhibitions
+- (Forthcoming) *실담범자전시회(Siddhāṃ Script Exhibition)*, 미정, 서울, 대한민국, 2025.
+
+
 ## Projects
 
 - 한국학중앙연구원: **인문 데이터 설계 교육을 위한 한국 근현대 문학 TEI/XML 구축 방법론 연구(TEI/XML Construction Methodology for Korean Modern Literature in Humanities Data Design Education)** ; 보조연구원(연구책임자: 김병준) ; Sept. 2025 - Feb. 2026
@@ -162,6 +168,7 @@ title: Curriculum Vitae
 ## Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
