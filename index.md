@@ -84,16 +84,16 @@ title: Curriculum Vitae
 
 ## Projects
 
-- 한국학중앙연구원: **AI 스마트 도슨트 구현을 위한 다국어·다층적 문화유산 안내문 생성 플랫폼 구축 연구: 조선시대 불교회화를 중심으로** ; 보조연구원(연구책임자: 김바로) ; Sept. 2025 - Feb. 2026
-- 한국학중앙연구원: **인문 데이터 설계 교육을 위한 한국 근현대 문학 TEI/XML 구축 방법론 연구(TEI/XML Construction Methodology for Korean Modern Literature in Humanities Data Design Education)** ; 보조연구원(연구책임자: 김병준) ; Sept. 2025 - Feb. 2026
+- 한국학중앙연구원: (AKSR2025-RE) **AI 스마트 도슨트 구현을 위한 다국어·다층적 문화유산 안내문 생성 플랫폼 구축 연구: 조선시대 불교회화를 중심으로** ; 보조연구원(연구책임자: 김바로) ; Sept. 2025 - Feb. 2026
+- 한국학중앙연구원: (AKSR2025-RE10) **인문 데이터 설계 교육을 위한 한국 근현대 문학 TEI/XML 구축 방법론 연구(TEI/XML Construction Methodology for Korean Modern Literature in Humanities Data Design Education)** ; 보조연구원(연구책임자: 김병준) ; Sept. 2025 - Feb. 2026
 - 한국연구재단: **네트워크형 디지털 인문학 교육모델 개발(Development of a Networked Educational Model in Digital Humanities)** ; 외부참여연구원(연구책임자: 이재연) ; Apr. 2024 - Jun. 2025
 - 한국연구재단: **인간과 협업하는 딥러닝 기반 AI 소설 생성 융합 연구(A Convergence Study for Deep-Learning-Based AI Fiction Generation with Human in the Loop)** ; 보조연구원(연구책임자: 윤미선) ; Apr. 2024 - Jun. 2025 <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=GEhcIUJaooo" target="_blank">소설 쓰는 AI 로봇: 자유생성 이벤트 1 - 광화문, 서울, 6월 (2024)</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=4UJrf0RDb6o" target="_blank">Fiction Writing AI Robots: Spontaneous Generation Events Video June 2024</a>
-- 한국학중앙연구원: **고급 자연어 처리 및 대규모 언어 모델 기반 디지털 한국학 연구 및 교육 방법론 개발(Development of Advanced Natural Language Processing and Large Language Model-Based Digital Korean Studies and Education Methodology)** ; 보조연구원(연구책임자: 김병준) ; Mar. 2025 - Aug. 2025
-- 한국학중앙연구원: **고문헌 데이터 설계를 위한 선행 모델 분석 및 교육 콘텐츠 구축(Analysis of Prior Models and Construction of Educational Content for the Design of Historical Document Data)** ; 보조연구원(연구책임자: 김바로) ; Mar. 2024 - Aug. 2024
-- 한국학중앙연구원: **한국학 시맨틱 웹 구축을 위한 선행 온톨로지 모델의 탐색과 교육(Exploration and Education of Preceding Ontology Models for Building Semantic Web of Korean Studies)** ; 보조연구원(연구책임자: 김바로) ; Sept. 2023 - Feb. 2024
-- 한국학중앙연구원: **인문학도를 위한 데이터 분석 교육 콘텐츠 편찬 - 한국학 데이터를 중심으로(Compilation of Educational Contents for Data Analysis for Humanities Student – Based on Korean Studies Data)** ; 보조연구원(연구책임자: 김바로) ; Mar. 2023 - Aug. 2023
-- 한국학중앙연구원: **강릉 12향현(江陵 十二鄕賢) 멀티미디어콘텐츠 편찬 및 교육 동영상 제작(Gangneung 12 Hyanghyeon(江陵 十二鄕賢) Compilation of Multimedia Contents and Production of Educational Videos)** ; 보조연구원(연구책임자: 김바로) ; Sept. 2022 - Feb. 2023
-- 한국학중앙연구원: **조선시대 『홍문록(弘文錄)』과 집권세력의 네트워크(The Network of Hong Moon-rok(弘文錄) and the Ruling Forces in the Chosun Dynasty Era)** ; 보조연구원(연구책임자: 김바로) ; Jun. 2022 - Dec. 2022
+- 한국학중앙연구원: (AKSR2025-RE04) **고급 자연어 처리 및 대규모 언어 모델 기반 디지털 한국학 연구 및 교육 방법론 개발(Development of Advanced Natural Language Processing and Large Language Model-Based Digital Korean Studies and Education Methodology)** ; 보조연구원(연구책임자: 김병준) ; Mar. 2025 - Aug. 2025
+- 한국학중앙연구원: (AKSR2024-RE02) **고문헌 데이터 설계를 위한 선행 모델 분석 및 교육 콘텐츠 구축(Analysis of Prior Models and Construction of Educational Content for the Design of Historical Document Data)** ; 보조연구원(연구책임자: 김바로) ; Mar. 2024 - Aug. 2024
+- 한국학중앙연구원: (AKSR2023-RE07) **한국학 시맨틱 웹 구축을 위한 선행 온톨로지 모델의 탐색과 교육(Exploration and Education of Preceding Ontology Models for Building Semantic Web of Korean Studies)** ; 보조연구원(연구책임자: 김바로) ; Sept. 2023 - Feb. 2024
+- 한국학중앙연구원: (AKSR2023-RE01) **인문학도를 위한 데이터 분석 교육 콘텐츠 편찬 - 한국학 데이터를 중심으로(Compilation of Educational Contents for Data Analysis for Humanities Student – Based on Korean Studies Data)** ; 보조연구원(연구책임자: 김바로) ; Mar. 2023 - Aug. 2023
+- 한국학중앙연구원: (AKSR2022-RE08) **강릉 12향현(江陵 十二鄕賢) 멀티미디어콘텐츠 편찬 및 교육 동영상 제작(Gangneung 12 Hyanghyeon(江陵 十二鄕賢) Compilation of Multimedia Contents and Production of Educational Videos)** ; 보조연구원(연구책임자: 김바로) ; Sept. 2022 - Feb. 2023
+- 한국학중앙연구원: (AKSR2022-C14) **조선시대 『홍문록(弘文錄)』과 집권세력의 네트워크(The Network of Hong Moon-rok(弘文錄) and the Ruling Forces in the Chosun Dynasty Era)** ; 보조연구원(연구책임자: 김바로) ; Jun. 2022 - Dec. 2022
 - 문화재청, ㈜PCN: **2022 한양도성 타임머신 사업 빅데이터 아카이브 구축(2022 Hanyang Time Machine Project)** ; 보조연구원(연구책임자: 김현) ; Jun. 2022 - Dec. 2022
 - 국립국어원: **2022년 이야기 완성 평가 말뭉치 연구 분석 사업(2022 Research and Analysis of Story Cloze Task and Evaluation)** ; 보조연구원(연구책임자: 송상헌) ; May. 2022 - Dec. 2022
 
@@ -161,6 +161,7 @@ title: Curriculum Vitae
 ## Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
