@@ -100,7 +100,7 @@ title: Curriculum Vitae
 
 ## Talks/Presentations
 
-- **(Forthcoming)** 지해인. (2025.11.26). **특이점주의 서사의 신화학적 고찰: 디시인사이드 키워드 분석을 중심으로**. 연세대학교 연합신학대학원-연세대학교 신과대학-인문학&신학연구소 에라스무스 합동 컨퍼런스: 인류의 미래, 종교의 가능성; 연세대학교, 서울, 대한민국.
+- **(Forthcoming)** 지해인. (2025.11.26). **특이점주의 서사의 신화학적 고찰: 디시인사이드 키워드 분석을 중심으로 [A Mythological Study of the Narrative of Singularitarianism: Focusing on an Analysis of Keywords from Dcinside]**. 연세대학교 연합신학대학원-연세대학교 신과대학-인문학&신학연구소 에라스무스 합동 컨퍼런스: 인류의 미래, 종교의 가능성; 연세대학교, 서울, 대한민국.
 - **(Forthcoming)** 임이로, **지해인**, & 김병준. (2025.10.18). **한국 근현대시의 감정 분석과 인공지능 시 창작 응용: KPoEM 데이터셋 구축과 활용**. 반교어문학회 제180차 정기학술대회, 성균관대학교, 서울, 대한민국.
 - 지해인. (2025.09.26). **문학 데이터 설계 기반의 분석 및 딥러닝 분류 모델 구현 시론 - 문학적 감각과 감정을 중심으로 - [Exploring the Design of Literary Data and Deep Learning Classification Models: A Preliminary Approach with a Focus on Literary Senses and Emotions]**. 한국교원대학교 인문사회과학연구소-단국대학교 한문교육연구소 공동학술대회: 동아시아 문헌과 어휘 연구의 탐색 III, 한국교원대학교, 청주, 대한민국. <br> <i class="fas fa-list"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2025_east_asia_book_word.jpg" target="_blank">Program</a>
 - Lee, J., & **Ji, H.** (2025.07.17) **A Quantitative Approach to Bodily Sensations: Modernist and Realist Authors in Colonial Korea**. The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2025 (DH2025), Universidade NOVA de Lisboa (NOVA FCSH), Lisbon, Portugal. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.16616347" target="_blank">10.5281/zenodo.16616347</a> <br> <i class="fas fa-list"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/pdf/ADHO_DH2025_program.pdf" target="_blank">Program</a>
@@ -161,6 +161,7 @@ title: Curriculum Vitae
 ## Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
