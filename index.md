@@ -1,4 +1,4 @@
-=---
+---
 author: Haein Ji
 title: Curriculum Vitae
 ---
@@ -164,6 +164,7 @@ title: Curriculum Vitae
 ## Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
