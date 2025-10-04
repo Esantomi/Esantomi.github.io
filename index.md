@@ -8,7 +8,7 @@ title: Curriculum Vitae
 
 ## Bio
 
-안녕하세요. 저는 디지털 인문학(Digital Humanities, DH), 특히 전산 문학 연구(Computational Literary Studies, CLS)를 주 연구 분야로 삼고 있는 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**, Sino-Korean: **池海印**)입니다.
+안녕하세요. 저는 **디지털 인문학(Digital Humanities, DH)**을 주 연구 분야로 삼고 있는 연구자이자, **실담범자(悉曇梵字)**로 불교미술을 하는 작가 **지해인**(Revised Romanization of Korean: **Haein Ji**, Sino-Korean: **池海印**)입니다.
 
 **한국전통문화대학교 강사**로 학부 수준의 강의 경험이 있으며, 인문 데이터 설계·구축·분석 등을 주제로 강의 및 워크숍을 진행할 수 있는 역량을 갖추고 있습니다. 현재 다음 두 곳의 **연구원**으로 재직하고 있습니다. 
 
@@ -164,6 +164,7 @@ title: Curriculum Vitae
 ## Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
