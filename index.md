@@ -53,10 +53,10 @@ title: Curriculum Vitae
 1. 지해인, & 김바로. (2025). **문학 감정 읽는 AI**. 서울: 커뮤니케이션북스. ISBN: 9791143006370 <br> <i class="fas fa-image"></i> <a href="https://i0.wp.com/www.kadh.org/wp-content/uploads/2025/08/image-12.png?w=817&ssl=1" target="_blank">Cover</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=uwjCB3-9kFE" target="_blank">Intro</a>
 
 ### Articles
-<!-- 1. <i class="fa-solid fa-spinner"></i> 지해인, & 김가연. (2025). **요괴학으로 본 포켓몬스터의 가상 민족생물학적 분류에 관한 연구 [A Yōkai Studies Approach to the Virtual Ethnobiological Classification of Pokémon]**.-->
-1. <i class="fa-solid fa-spinner"></i> Park, H. & **Ji, H.** (2026). **Modeling and Characterizing Korean Spacing Errors via Information-theoretic Metrics**.
-1. <i class="fa-solid fa-spinner"></i> Lee, J. & **Ji, H.** (2025). **A Quantitative Approach to Bodily Sensations: Modernist and Realist Authors in Colonial Korea**.
-1. <i class="fa-solid fa-spinner"></i> 지해인. (2025). **특이점의 신화 Word2Vec으로 읽기: 디시인사이드 ‘특이점이 온다’ 마이너 갤러리를 중심으로 [Reading the Singularity Myth through Word2Vec: Focusing on the Dcinside 'Singularity is Near' Minor Gallery]**.
+<!-- 1. <i class="fa-solid fa-spinner fa-spin-pulse"></i> 지해인, & 김가연. (2025). **요괴학으로 본 포켓몬스터의 가상 민족생물학적 분류에 관한 연구 [A Yōkai Studies Approach to the Virtual Ethnobiological Classification of Pokémon]**.-->
+1. <i class="fa-solid fa-spinner fa-spin-pulse"></i> Park, H. & **Ji, H.** (2026). **Modeling and Characterizing Korean Spacing Errors via Information-theoretic Metrics**.
+1. <i class="fa-solid fa-spinner fa-spin-pulse"></i> Lee, J. & **Ji, H.** (2025). **A Quantitative Approach to Bodily Sensations: Modernist and Realist Authors in Colonial Korea**.
+1. <i class="fa-solid fa-spinner fa-spin-pulse"></i> 지해인. (2025). **특이점의 신화 Word2Vec으로 읽기: 디시인사이드 ‘특이점이 온다’ 마이너 갤러리를 중심으로 [Reading the Singularity Myth through Word2Vec: Focusing on the Dcinside 'Singularity is Near' Minor Gallery]**.
 1. LIM, I., **Ji, H.**, & Kim, B. (2025). **Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling**. *arXiv preprint*. <i class="ai ai-doi"></i> <a href="https://arxiv.org/abs/2509.03932" target="_blank">10.48550/arXiv.2509.03932</a>
 1. 지해인. (2025). **딥러닝 기반의 문학 감각 요소 분석을 위한 예비적 고찰 [Preliminary Study on Deep Learning-Based Analysis of Sensory Elements in Literature]**. <i>인문학연구</i>, 39, 83-120. <i class="ai ai-doi"></i> <a href="https://doi.org/10.47293/ihumjj.2025.39.4" target="_blank">10.47293/ihumjj.2025.39.4</a>
 1. 지해인. (2024). **이상 단편소설 기초·감각 데이터셋 [Yi Sang Short Story Basic·Sense Dataset]**. <i>디지털인문학</i>, 1(2), 49-67. <i class="ai ai-doi"></i> <a href="https://doi.org/10.23287/KJDH.2024.1.2.4" target="_blank">10.22936/sh.72..202410.021</a>
@@ -166,6 +166,7 @@ title: Curriculum Vitae
 ## Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
