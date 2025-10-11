@@ -29,7 +29,7 @@ title: Curriculum Vitae
 | <u>B.S.</u> | **컴퓨터과학** <br> **(Computer Science)**| 한국방송통신대학교 <br> (Korea National Open University) | 2023 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2019 |
 | <u>B.A. <br> & <br> B.S.</u> | 1전공: **국어국문학** <br> **(Korean Language & Literature)**<br>2전공: **생명과학특성학** <br> **(Biological Sciences)** | 건국대학교 <br> (Konkuk University) | 2018 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2012 |
 
-### Non-Degree Education
+### <i class="fa-solid fa-book-open"></i> Non-Degree Education
 - **사서삼경(四書三經) 과정**, 사단법인 유도회(儒道會) 한문연수원 ; Mar. 2024 - Present
 - **서교연 비평이론학교 S1 감각, 이미지, 정동**, 서교인문사회연구실 ; May 2025 - Aug. 2025
 - **2024 디지털인문학(DH) 겨울학교**, 고려대학교(Korea University) ; Jan. 2024
@@ -48,6 +48,8 @@ title: Curriculum Vitae
 
 
 ## <i class="fa-solid fa-pen-ruler"></i> Publications
+
+단행본, 학술논문, 학위논문, eBook, 데이터셋과 모델
 
 ### <i class="fa-solid fa-book"></i> Books
 1. 지해인, & 김바로. (2025). **문학 감정 읽는 AI**. 서울: 커뮤니케이션북스. ISBN: 9791143006370 <br> <i class="fas fa-image"></i> <a href="https://i0.wp.com/www.kadh.org/wp-content/uploads/2025/08/image-12.png?w=817&ssl=1" target="_blank">Cover</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=uwjCB3-9kFE" target="_blank">Intro</a>
@@ -166,6 +168,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
