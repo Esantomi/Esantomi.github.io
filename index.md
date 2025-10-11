@@ -155,7 +155,7 @@ title: Curriculum Vitae
 | <u>Data visualization</u>    | 네트워크 시각화(Gephi) & 지리 공간 데이터 시각화(Folium·Cesium) |
 | <u>VR contents creation</u>  | 드론(DJI Mavic 2 Pro·DJI Phantom 4 Pro), Stitching(PTGui) & VTour(Krpano) |
 
-### Certs
+### <i class="fa-solid fa-certificate"></i> Certs
 - **Microsoft Azure Data Fundamentals**, Microsoft ; June 2023
 - **Microsoft Azure AI Fundamentals**, Microsoft ; June 2023
 - **Microsoft Azure Fundamentals**, Microsoft ; June 2023
@@ -166,6 +166,7 @@ title: Curriculum Vitae
 ## Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
