@@ -12,7 +12,7 @@ title: Curriculum Vitae
 
 안녕하세요. 저는 **디지털 인문학(Digital Humanities, DH)** 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**, Sino-Korean: **池海印**)입니다.
 
-[한국학중앙연구원 디지털인문학연구소](https://digitalhumanities.kr/)(Center for Digital Humanities at the Academy of Korean Studies) **연구원**, [인문학&신학연구소 에라스무스](https://erasmus.imweb.me/8dgks3k7)(Erasmus Institute for Humanities and Theologies) **연구위원**, 한국전통문화대학교 **강사**로 지속적인 연구 및 강의 경력을 쌓고 있으며, 인문 데이터 설계·구축·분석 등을 주제로 한 강의 및 워크숍을 진행할 수 있습니다.
+[한국학중앙연구원 디지털인문학연구소](https://digitalhumanities.kr/)(Center for Digital Humanities at the Academy of Korean Studies) **연구원**, [인문학&신학연구소 에라스무스](https://erasmus.imweb.me/8dgks3k7)(Erasmus Institute for Humanities and Theologies) **연구위원**, 한국전통문화대학교 **강사**로 지속적인 연구 및 강의 경력을 쌓고 있으며, 인문 데이터 설계·구축·분석 등을 주제로 한 강의 및 워크숍을 진행할 수 있는 역량을 갖추고 있습니다.
 
 그 외, 나가르주나(Nāgārjuna, 龍樹)라는 이름(法名)으로 **실담범자(悉曇梵字) 기반의 불교예술** 활동을 하고 있는 작가이기도 합니다.
 
@@ -164,6 +164,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
