@@ -12,10 +12,7 @@ title: Curriculum Vitae
 
 <span class="hashtag-text">#Digital_Humanities</span> <span class="hashtag-text">#Language_and_Linguistics</span> <span class="hashtag-text">#Literature</span> <span class="hashtag-text">#Cultural_Studies</span> <span class="hashtag-text">#Religion</span>
 
-**한국전통문화대학교 강사**로 학부 수준의 강의 경험이 있으며, 인문 데이터 설계·구축·분석 등을 주제로 강의 및 워크숍을 진행할 수 있는 역량을 갖추고 있습니다. 현재 다음 두 곳에 **연구원**으로 소속되어 있습니다. 
-
-- [한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the Academy of Korean Studies)](https://digitalhumanities.kr/)
-- [인문학&신학연구소 에라스무스(Erasmus Institute for Humanities and Theologies)](https://erasmus.imweb.me/8dgks3k7)
+**한국전통문화대학교 강사**로 학부 수준의 강의 경험이 있으며, 인문 데이터 설계·구축·분석 등을 주제로 강의 및 워크숍을 진행할 수 있는 역량을 갖추고 있습니다. 현재 [한국학중앙연구원 디지털인문학연구소](https://digitalhumanities.kr/)(Center for Digital Humanities at the Academy of Korean Studies) **연구원**, [인문학&신학연구소 에라스무스](https://erasmus.imweb.me/8dgks3k7)(Erasmus Institute for Humanities and Theologies) **연구위원**으로 소속되어 있습니다. 
 
 그 외, 나가르주나(Nāgārjuna, 龍樹)라는 이름(法名)으로 **실담범자(悉曇梵字) 기반의 불교예술** 활동을 하고 있는 작가이기도 합니다.
 
@@ -108,7 +105,7 @@ title: Curriculum Vitae
 
 - **(Forthcoming)** 지해인. (2025.11.26). **특이점주의 서사의 신화학적 고찰: 디시인사이드 키워드 분석을 중심으로 [A Mythological Study of the Narrative of Singularitarianism: Focusing on an Analysis of Keywords from Dcinside]**. 연세대학교 연합신학대학원-연세대학교 신과대학-인문학&신학연구소 에라스무스 합동 컨퍼런스: 인류의 미래, 종교의 가능성; 연세대학교, 서울, 대한민국.
 - 임이로, **지해인**, & 김병준. (2025.10.18). **한국 근현대시의 감정 분석과 인공지능 시 창작 응용: KPoEM 데이터셋 구축과 활용**. 반교어문학회 제180차 정기학술대회, 성균관대학교, 서울, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/pdf/bangyo_6th_program.pdf" target="_blank">Program</a>
-- 지해인. (2025.09.26). **문학 데이터 설계 기반의 분석 및 딥러닝 분류 모델 구현 시론 - 문학적 감각과 감정을 중심으로 - [Exploring the Design of Literary Data and Deep Learning Classification Models: A Preliminary Approach with a Focus on Literary Senses and Emotions]**. 한국교원대학교 인문사회과학연구소-단국대학교 한문교육연구소 공동학술대회: 동아시아 문헌과 어휘 연구의 신탐색 III, 한국교원대학교, 청주, 대한민국. <br> <i class="fas fa-list"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2025_east_asia_book_word.jpg" target="_blank">Program</a>
+- 지해인. (2025.09.26). **문학 데이터 설계 기반의 분석 및 딥러닝 분류 모델 구현 시론 - 문학적 감각과 감정을 중심으로 - [Exploring the Design of Literary Data and Deep Learning Classification Models: A Preliminary Approach with a Focus on Literary Senses and Emotions]**. 한국교원대학교 인문사회과학연구소-단국대학교 한문교육연구소 공동학술대회: 동아시아 문헌과 어휘 연구의 신탐색 III, 한국교원대학교, 청주, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2025_east_asia_book_word.jpg" target="_blank">Program</a>
 - Lee, J., & **Ji, H.** (2025.07.17) **A Quantitative Approach to Bodily Sensations: Modernist and Realist Authors in Colonial Korea**. The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2025 (DH2025), Universidade NOVA de Lisboa (NOVA FCSH), Lisbon, Portugal. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.16616347" target="_blank">10.5281/zenodo.16616347</a> <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/pdf/ADHO_DH2025_program.pdf" target="_blank">Program</a>
 - 지해인. (2025.05.23). **딥러닝 기반의 문학 감각 요소 분석을 위한 예비적 고찰 [A Preliminary Study on the Analysis of Sensory Elements in Literature Based on Deep Learning]**. 제주대학교 인문과학연구소 전국학술대회: 인공지능(AI)과 인문학의 만남 - 그 실제와 응용, 제주대학교, 제주, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/pdf/InstHumanitJNU_AI-Humanities_program.pdf" target="_blank">Program</a> <i class="fas fa-image"></i> <a href="/assets/img/haein_talk.jpg" target="_blank">Picture</a>
 - Lim, I., **Ji, H.**, & Kim, B. (2025.04.25). **Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI modeling**. Digital Humanities and Social Sciences Korea Conference, James Joo-Jin Kim Center for Korean Studies, University of Pennsylvania, Philadelphia, USA. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/DhSsKoConf.pdf" target="_blank">Program</a>
@@ -167,6 +164,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
