@@ -6,18 +6,18 @@ title: Curriculum Vitae
 <div class="menu"><center><i class="fas fa-home"></i><a href="./"> home</a> | <i class="fas fa-sticky-note"></i><a href="./posts"> posts</a></center></div>
 
 
-## <i class="fa-solid fa-circle-user"></i> Bio
-
-안녕하세요. 저는 **디지털 인문학(Digital Humanities, DH)**을 주 연구 분야로 삼고 있는 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**, Sino-Korean: **池海印**)입니다.
+## Bio
 
 <span class="hashtag-text">#Digital_Humanities</span> <span class="hashtag-text">#Language_and_Linguistics</span> <span class="hashtag-text">#Literature</span> <span class="hashtag-text">#Cultural_Studies</span> <span class="hashtag-text">#Religion</span>
 
-**한국전통문화대학교 강사**로 학부 수준의 강의 경험이 있으며, 인문 데이터 설계·구축·분석 등을 주제로 강의 및 워크숍을 진행할 수 있는 역량을 갖추고 있습니다. 현재 [한국학중앙연구원 디지털인문학연구소](https://digitalhumanities.kr/)(Center for Digital Humanities at the Academy of Korean Studies) **연구원**, [인문학&신학연구소 에라스무스](https://erasmus.imweb.me/8dgks3k7)(Erasmus Institute for Humanities and Theologies) **연구위원**으로 소속되어 있습니다. 
+안녕하세요. 저는 **디지털 인문학(Digital Humanities, DH)** 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**, Sino-Korean: **池海印**)입니다.
+
+[한국학중앙연구원 디지털인문학연구소](https://digitalhumanities.kr/)(Center for Digital Humanities at the Academy of Korean Studies) **연구원**, [인문학&신학연구소 에라스무스](https://erasmus.imweb.me/8dgks3k7)(Erasmus Institute for Humanities and Theologies) **연구위원**, 한국전통문화대학교 **강사**로 지속적인 연구 및 강의 경력을 쌓고 있으며, 인문 데이터 설계·구축·분석 등을 주제로 한 강의 및 워크숍을 진행할 수 있습니다.
 
 그 외, 나가르주나(Nāgārjuna, 龍樹)라는 이름(法名)으로 **실담범자(悉曇梵字) 기반의 불교예술** 활동을 하고 있는 작가이기도 합니다.
 
 
-## <i class="fa-solid fa-graduation-cap"></i> Education
+## Education
 
 | Degree | Major | University | Year |
 | :------ | :-------------- | :---------- | :----: |
@@ -26,7 +26,7 @@ title: Curriculum Vitae
 | <u>B.S.</u> | **컴퓨터과학** <br> **(Computer Science)**| 한국방송통신대학교 <br> (Korea National Open University) | 2023 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2019 |
 | <u>B.A. <br> & <br> B.S.</u> | 1전공: **국어국문학** <br> **(Korean Language & Literature)**<br>2전공: **생명과학특성학** <br> **(Biological Sciences)** | 건국대학교 <br> (Konkuk University) | 2018 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2012 |
 
-### <i class="fa-solid fa-book-open"></i> Non-Degree Education
+### Non-Degree Education
 - **사서삼경(四書三經) 과정**, 사단법인 유도회(儒道會) 한문연수원 ; Mar. 2024 - Present
 - **서교연 비평이론학교 S1 감각, 이미지, 정동**, 서교인문사회연구실 ; May 2025 - Aug. 2025
 - **2024 디지털인문학(DH) 겨울학교**, 고려대학교(Korea University) ; Jan. 2024
@@ -34,7 +34,7 @@ title: Curriculum Vitae
 - **데이터 기반 인공지능 시스템 엔지니어 양성 과정**, 에티버스러닝(Etevers Learning) ; Mar. 2021 - Aug. 2021
 
 
-## <i class="fa-solid fa-briefcase"></i> Work Experience
+## Work Experience
 
 - **연구위원(Researcher)**, 인문학&신학연구소 에라스무스(Erasmus Institute for Humanities and Theologies) ; May 2025 - Present
 - **편집간사(Editorial Assistant)**, 한국디지털인문학협의회(Korean Association for Digital Humanities, KADH) ; Nov. 2024 - Present
@@ -44,14 +44,14 @@ title: Curriculum Vitae
 - **정비병(Mechanic)**, 대한민국 육군(Republic of Korea Army) ; Jan. 2014 - Oct. 2015
 
 
-## <i class="fa-solid fa-pen-ruler"></i> Publications
+## Publications
 
 단행본, 학술논문, 학위논문, eBook, 데이터셋과 모델
 
-### <i class="fa-solid fa-book"></i> Books
+### Books
 1. 지해인, & 김바로. (2025). **문학 감정 읽는 AI**. 서울: 커뮤니케이션북스. ISBN: 9791143006370 <br> <i class="fas fa-image"></i> <a href="https://i0.wp.com/www.kadh.org/wp-content/uploads/2025/08/image-12.png?w=817&ssl=1" target="_blank">Cover</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=uwjCB3-9kFE" target="_blank">Intro</a>
 
-### <i class="fa-solid fa-file-lines"></i> Articles
+### Articles
 <!-- 1. <i class="fa-solid fa-spinner fa-spin-pulse"></i> 지해인, & 김가연. (2025). **요괴학으로 본 포켓몬스터의 가상 민족생물학적 분류에 관한 연구 [A Yōkai Studies Approach to the Virtual Ethnobiological Classification of Pokémon]**.-->
 1. <i class="fa-solid fa-spinner fa-spin-pulse"></i> Park, H. & **Ji, H.** (2026). **Modeling and Characterizing Korean Spacing Errors via Information-theoretic Metrics**.
 1. <i class="fa-solid fa-spinner fa-spin-pulse"></i> Lee, J. & **Ji, H.** (2025). **A Quantitative Approach to Bodily Sensations: Modernist and Realist Authors in Colonial Korea**.
@@ -61,31 +61,31 @@ title: Curriculum Vitae
 1. 지해인. (2024). **이상 단편소설 기초·감각 데이터셋 [Yi Sang Short Story Basic·Sense Dataset]**. <i>디지털인문학</i>, 1(2), 49-67. <i class="ai ai-doi"></i> <a href="https://doi.org/10.23287/KJDH.2024.1.2.4" target="_blank">10.22936/sh.72..202410.021</a>
 1. 지해인. (2024). **디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구 [A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis]**. <i>상허학보</i>, 72, 753-827. <i class="ai ai-doi"></i> <a href="https://doi.org/10.22936/sh.72..202410.021" target="_blank">10.22936/sh.72..202410.021</a>
 
-### <i class="fa-solid fa-book-bookmark"></i> Theses
+### Theses
 1. 지해인. (2024). **디지털 감각∙감정 분석을 통한 이상 문학의 에피파니 연구 [A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis]** [석사학위논문, 韓國學中央硏究院 韓國學大學院]. <a href="https://www.riss.kr/link?id=T17070127" target="_blank">T17070127</a>
 1. 지해인. (2018). **식물 SNARE와 그 기능 [Plant SNAREs and their Functions]** [학사학위논문, 건국대학교].
 1. 지해인. (2018). **문장종결법으로서의 한국어 경계법 지위 검토 [Reconsidering the Status of the Korean Apprehensive Mood as a Sentence-Final Particle]** [학사학위논문, 건국대학교].
 
-### <i class="fa-solid fa-tablet-screen-button"></i> eBooks
+### eBooks
 1. 김병준, 조경민, **지해인**, 임이로, & 구슬. (2025). **고급 자연어 처리 활용 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/17854" target="_blank">book/17854</a> <br> <i class="fab fa-youtube"></i> <a href="https://youtube.com/playlist?list=PLGbGeqRyCIoe9UFC_CLglqjacLccf8L6H" target="_blank">[DH 교육] 고급 자연어 처리 활용</a>
 1. 김바로, 정송이, 이재열, 신은선, **지해인**, 김서윤, 조하영, & 임이로. (2024). **XML(TEI) with 인문학 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/14569" target="_blank">book/14569</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocFlHZO4MEuehx6noQCp5Vy" target="_blank">[DH 교육] XML(TEI) with 인문학</a>
 1. 김바로, 전가람, 신은선, 이재열, 정송이, **지해인**, 이주희, 김서윤, 조하영, 잔싱롱, 정경진, & 채자문. (2023). **선행 온톨로지 모델 탐색 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/8452" target="_blank">book/8452</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIoevFRxa0Ng9VrKYsk8GTqOK" target="_blank">[DH 교육] 선행 온톨로지 모델 리뷰</a>
 1. 김바로, 전가람, 이효림, **지해인**, 이주희, 구현회, & 윤종훈. (2023). **인문 데이터 분석 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/8451" target="_blank">book/8451</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocCaLeOESc7G_VMBCyuY0ca" target="_blank">[DH 교육] 인문 데이터 분석</a>
 1. 김바로, 전가람, **지해인**, 이주희, 구현회, 윤종훈, & 한태빈. (2022). **시각적 인문학(Visual Humanities) - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/8450" target="_blank">book/8450</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">[DH 교육] 시각적 인문학</a>
 
-### <i class="fa-solid fa-database"></i> Datasets and Models
+### Datasets and Models
 1. **KPoEM (Korean Poetry Emotion Mapping)**
    - **KPoEM dataset v4**: LIM, I., **Ji, H.**, Koo, S., Jung, S.-. yi ., YUN, J., & Kim, B. (2025). KPoEM dataset [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15598092" target="_blank">10.5281/zenodo.15598092</a> <i class="ai ai-doi"></i> <a href="https://doi.org/10.57967/hf/6303" target="_blank">10.57967/hf/6303</a>
    - **KPoEM model**: Hugging Face. <i class="ai ai-doi"></i> <a href="https://doi.org/10.57967/hf/6301" target="_blank">10.57967/hf/6301</a>
 1. 지해인. (2024). **디지털 감각·감정 분석을 통한 이상 문학의 에피파니 연구 [A Study on the Epiphanies in Yi Sang’s Literature Using Digital Sense and Emotion Analysis]** [Data set]. OSF. <i class="ai ai-doi"></i> <a href="http://doi.org/10.17605/OSF.IO/964NC" target="_blank">10.17605/OSF.IO/964NC</a>
 
 
-## <i class="fa-solid fa-panorama"></i> Exhibitions
+## Exhibitions
 
 - **실담범자전시회(Siddhāṃ Script Exhibition)**, 국회의사당, 서울, 대한민국 ; Nov. 18-20, 2025
 
 
-## <i class="fa-solid fa-magnifying-glass-chart"></i> Projects
+## Projects
 
 - 한국학중앙연구원: (AKSR2025-RE08) **AI 스마트 도슨트 구현을 위한 다국어·다층적 문화유산 안내문 생성 플랫폼 구축 연구: 조선시대 불교회화를 중심으로(Developing an AI Smart Docent: A Multilingual, Multi-layered Platform for Generating Cultural Heritage Guides: A Case Study of Korean Buddhist Paintings of the Joseon Dynasty)** ; 보조연구원(연구책임자: 김바로) ; Sept. 2025 - Feb. 2026
 - 한국학중앙연구원: (AKSR2025-RE10) **인문 데이터 설계 교육을 위한 한국 근현대 문학 TEI/XML 구축 방법론 연구(TEI/XML Construction Methodology for Korean Modern Literature in Humanities Data Design Education)** ; 보조연구원(연구책임자: 김병준) ; Sept. 2025 - Feb. 2026
@@ -101,7 +101,7 @@ title: Curriculum Vitae
 - 국립국어원: **2022년 이야기 완성 평가 말뭉치 연구 분석 사업(2022 Research and Analysis of Story Cloze Task and Evaluation)** ; 보조연구원(연구책임자: 송상헌) ; May. 2022 - Dec. 2022
 
 
-## <i class="fa-solid fa-person-chalkboard"></i> Talks/Presentations
+## Talks/Presentations
 
 - **(Forthcoming)** 지해인. (2025.11.26). **특이점주의 서사의 신화학적 고찰: 디시인사이드 키워드 분석을 중심으로 [A Mythological Study of the Narrative of Singularitarianism: Focusing on an Analysis of Keywords from Dcinside]**. 연세대학교 연합신학대학원-연세대학교 신과대학-인문학&신학연구소 에라스무스 합동 컨퍼런스: 인류의 미래, 종교의 가능성; 연세대학교, 서울, 대한민국.
 - 임이로, **지해인**, & 김병준. (2025.10.18). **한국 근현대시의 감정 분석과 인공지능 시 창작 응용: KPoEM 데이터셋 구축과 활용**. 반교어문학회 제180차 정기학술대회, 성균관대학교, 서울, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/pdf/bangyo_6th_program.pdf" target="_blank">Program</a>
@@ -114,14 +114,14 @@ title: Curriculum Vitae
 - 지해인. (2023.01.13). **KOTE를 통해 본 이상 텍스트 속 ‘깨달음’과 그 수용 양상 [The Emotion of ‘Realization’ and Its Reception in Yi Sang’s Texts through KOTE]** [Case presentation]. 2023 디지털인문학 겨울학교 심포지엄: 디지털인문학 - 포스트 AI 시대를 위한 융합전략, 서울, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2023_dhwntrsch.jpg" target="_blank">Program</a>
 
 
-## <i class="fa-solid fa-award"></i> Awards and Honors
+## Awards and Honors
 
 - **등록금면제장학금(Tuition Fee Exemption Scholarship)**, Ph.D./1-2, 한국학중앙연구원(The Academy of Korean Studies)
 - **연구장학금(Research Scholarship)**, M.A./3-4, 한국학중앙연구원(The Academy of Korean Studies)
 - **등록금면제장학금(Tuition Fee Exemption Scholarship)**, M.A./1-2, 한국학중앙연구원(The Academy of Korean Studies)
 
 
-## <i class="fa-solid fa-id-card"></i> Memberships
+## Memberships
 
 - **회원(Member)** ; 한국실담범자협회(韓國悉曇梵字協會) ; Jun. 2025 - Present
 - **학생회원(Student Member)** ; 한국곤충학회(The Entomological Society of Korea) ; Jun. 2025 - Present
@@ -132,7 +132,7 @@ title: Curriculum Vitae
 - **학생회원(Student Member)** ; 한국디지털인문학협의회(Korean Association for Digital Humanities, KADH) ; 2024 - Present
 
 
-## <i class="fa-solid fa-chalkboard-user"></i> Teaching Experience
+## Teaching Experience
 
 - LE1173 **빅데이터와분석(Big Data and Analysis)**, 강사(Instructor), 한국전통문화대학교(Korea National University of Heritage) ; Sept. - Dec. 2025
 - SLA23501 **디지털 인문학 입문(Introduction to Digital Humanities)**, 특별강사(Special Instructor), 울산과학기술원(Ulsan National Institute of Science and Technology, UNIST) ; Mar. - Jun. 2025
@@ -142,7 +142,7 @@ title: Curriculum Vitae
 - **문서에서 발견하는 옛 사람들 이야기(Stories of Ancient People Discovered through Documents)**, 교육조교(TA), 경기꿈의대학(Gyeonggi Dream School) ; Apr. - Jun. 2022
 
 
-## <i class="fa-solid fa-screwdriver-wrench"></i> Skills
+## Skills
 
 | Knowledge area               | Skills                                                       |
 | ---------------------------- | ------------------------------------------------------------ |
@@ -153,7 +153,7 @@ title: Curriculum Vitae
 | <u>Data visualization</u>    | 네트워크 시각화(Gephi) & 지리 공간 데이터 시각화(Folium·Cesium) |
 | <u>VR contents creation</u>  | 드론(DJI Mavic 2 Pro·DJI Phantom 4 Pro), Stitching(PTGui) & VTour(Krpano) |
 
-### <i class="fa-solid fa-certificate"></i> Certs
+### Certs
 - **Microsoft Azure Data Fundamentals**, Microsoft ; June 2023
 - **Microsoft Azure AI Fundamentals**, Microsoft ; June 2023
 - **Microsoft Azure Fundamentals**, Microsoft ; June 2023
@@ -164,6 +164,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
