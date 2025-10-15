@@ -123,9 +123,10 @@ title: Curriculum Vitae
 
 ## Memberships
 
+- **일반회원(Member)** ; 한국종교학회(Korean Association for Religious Studies) ; Oct. 2025 - Present
 - **회원(Member)** ; 한국실담범자협회(韓國悉曇梵字協會) ; Jun. 2025 - Present
 - **학생회원(Student Member)** ; 한국곤충학회(The Entomological Society of Korea) ; Jun. 2025 - Present
-- **일반회원(Lay Member)** ; 한국성소수자연구회(Korean Association for LGBTQIA Studies) ; Jun. 2025 - Present
+- **일반회원(Member)** ; 한국성소수자연구회(Korean Association for LGBTQIA Studies) ; Jun. 2025 - Present
 - **학생회원(Student Member)** ; International Society for Contemporary Legend Research (ISCLR) ; Jun. 2025 - Present
 - **개인회원(Private Member)** ; 지식공유연대(정식 명칭: 새로운 학문 생산 체제와 ‘지식공유’를 위한 학술 단체와 연구자 연대)(Knowledge Sharing Alliance) ; Apr. 2025 - Present
 - **후원회원(Supporting Member)** ; 전기가오리(Philo-electro-ray) ; Oct. 2024 - Present
@@ -164,6 +165,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
