@@ -49,7 +49,8 @@ title: Curriculum Vitae
 단행본, 학술논문, 학위논문, eBook, 데이터셋과 모델
 
 ### Books
-1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progess]** 김바로, 김희진, 오동석, 김성은, & **지해인**. (2025). **디지털인문학의 길라잡이**.
+1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progess]** 지해인. (2026). **관음영과: 조선의 불교 점술**
+1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progess]** 김바로, 김희진, 오동석, 김성은, & **지해인**. (2026). **디지털인문학의 길라잡이**.
 1. 지해인, & 김바로. (2025). **문학 감정 읽는 AI**. 서울: 커뮤니케이션북스. ISBN: 9791143006370 <br> <i class="fas fa-image"></i> <a href="https://i0.wp.com/www.kadh.org/wp-content/uploads/2025/08/image-12.png?w=817&ssl=1" target="_blank">Cover</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=uwjCB3-9kFE" target="_blank">Intro</a>
 
 ### Articles
@@ -166,6 +167,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
