@@ -49,7 +49,7 @@ title: Curriculum Vitae
 단행본, 학술논문, 학위논문, eBook, 데이터셋과 모델
 
 ### Books
-1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progess]** 지해인. (2026). **관음영과: 조선의 불교 점술**.
+1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progess]** 지해인. (2026). **관음영과(觀音靈課): 조선의 불교 점술**.
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progess]** 김바로, 김희진, 오동석, 김성은, & **지해인**. (2026). **디지털인문학의 길라잡이**.
 1. 지해인, & 김바로. (2025). **문학 감정 읽는 AI**. 서울: 커뮤니케이션북스. ISBN: 9791143006370 <br> <i class="fas fa-image"></i> <a href="https://i0.wp.com/www.kadh.org/wp-content/uploads/2025/08/image-12.png?w=817&ssl=1" target="_blank">Cover</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=uwjCB3-9kFE" target="_blank">Intro</a>
 
@@ -105,7 +105,7 @@ title: Curriculum Vitae
 
 ## Talks/Presentations
 
-- **(Forthcoming)** 지해인. (2025.11.26). **특이점주의 서사의 신화학적 고찰: 디시인사이드 키워드 분석을 중심으로 [A Mythological Study of the Narrative of Singularitarianism: Focusing on an Analysis of Keywords from Dcinside]**. 연세대학교 연합신학대학원-연세대학교 신과대학-인문학&신학연구소 에라스무스 합동 컨퍼런스: 인류의 미래, 종교의 가능성; 연세대학교, 서울, 대한민국.
+- **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Forthcoming]** 지해인. (2025.11.26). **특이점주의 서사의 신화학적 고찰: 디시인사이드 키워드 분석을 중심으로 [A Mythological Study of the Narrative of Singularitarianism: Focusing on an Analysis of Keywords from Dcinside]**. 연세대학교 연합신학대학원-연세대학교 신과대학-인문학&신학연구소 에라스무스 합동 컨퍼런스: 인류의 미래, 종교의 가능성; 연세대학교, 서울, 대한민국.
 - 임이로, **지해인**, & 김병준. (2025.10.18). **한국 근현대시의 감정 분석과 인공지능 시 창작 응용: KPoEM 데이터셋 구축과 활용 [Emotion Analysis of Modern and Contemporary Korean Poetry and its Application to AI Poetry Generation: Construction and Utilization of the KPoEM Dataset]**. 반교어문학회 제180차 정기학술대회, 성균관대학교, 서울, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/pdf/bangyo_6th_program.pdf" target="_blank">Program</a>
 - 지해인. (2025.09.26). **문학 데이터 설계 기반의 분석 및 딥러닝 분류 모델 구현 시론 - 문학적 감각과 감정을 중심으로 - [Exploring the Design of Literary Data and Deep Learning Classification Models: A Preliminary Approach with a Focus on Literary Senses and Emotions]**. 한국교원대학교 인문사회과학연구소-단국대학교 한문교육연구소 공동학술대회: 동아시아 문헌과 어휘 연구의 신탐색 III, 한국교원대학교, 청주, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/img/2025_east_asia_book_word.jpg" target="_blank">Program</a>
 - Lee, J., & **Ji, H.** (2025.07.17) **A Quantitative Approach to Bodily Sensations: Modernist and Realist Authors in Colonial Korea**. The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2025 (DH2025), Universidade NOVA de Lisboa (NOVA FCSH), Lisbon, Portugal. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.16616347" target="_blank">10.5281/zenodo.16616347</a> <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/pdf/ADHO_DH2025_program.pdf" target="_blank">Program</a>
@@ -167,6 +167,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
