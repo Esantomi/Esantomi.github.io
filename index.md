@@ -85,7 +85,7 @@ title: Curriculum Vitae
 
 ## Exhibitions
 
-- **실담범자의 향기展**, 국회의사당 국회의원회관 2층, 서울, 대한민국 ; Nov. 18-20, 2025 <br> <i class="fas fa-bell"></i> <a href="/assets/img/personal/fragrance_of_siddham.png" target="_blank">Invitation</a> <i class="fas fa-image"></i> <a href="/assets/img/poster/fragrance_of_siddham_poster.jpg" target="_blank">Poster</a>
+- **실담범자의 향기展**, 국회의사당 국회의원회관 2층, 서울, 대한민국 ; Nov. 18-20, 2025 <br> <i class="fas fa-bell"></i> <a href="/assets/img/personal/fragrance_of_siddham.png" target="_blank">Invitation</a> <i class="fas fa-image"></i> <a href="/assets/poster/fragrance_of_siddham_poster.jpg" target="_blank">Poster</a>
 
 
 ## Projects
