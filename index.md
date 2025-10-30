@@ -85,7 +85,7 @@ title: Curriculum Vitae
 
 ## Exhibitions
 
-- **실담범자의 향기展**, 국회의사당 국회의원회관, 서울, 대한민국 ; Nov. 18-20, 2025 <br> <i class="fas fa-bell"></i> <a href="/assets/img/personal/fragrance_of_siddham.jpg" target="_blank">Invitation</a>
+- **실담범자의 향기展**, 국회의사당 국회의원회관 2층, 서울, 대한민국 ; Nov. 18-20, 2025 <br> <i class="fas fa-bell"></i> <a href="/assets/img/personal/fragrance_of_siddham.jpg" target="_blank">Invitation</a>
 
 
 ## Projects
@@ -168,6 +168,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
