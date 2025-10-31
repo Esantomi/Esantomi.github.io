@@ -7,12 +7,9 @@ title: Posts
 
 게시글 목록입니다.
 
-## Faves
-### Hobby
+## Fun
 - <a href="posts/taxonomy" target="_blank">생물분류기사(동물) 300종 계통 목록</a>
-
-### Arts
-- <a href="" target="_blank">불교서예</a>
+- <a href="posts/electronic_circuit" target="_blank">전자회로 정리</a>
 
 ## Links
 ### Info
