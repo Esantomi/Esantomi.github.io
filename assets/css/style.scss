@@ -1,0 +1,104 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=LXGW+WenKai+Mono+TC&display=swap');
+
+* {
+  font-family: "Gowun Dodum", "LXGW WenKai Mono TC", serif;
+}
+
+h1 {
+  font-size: 34px;
+}
+
+h2 {
+  margin-bottom: 1em;
+}
+
+h2:first-of-type {
+  margin-top: 1em;
+}
+
+h2:not(:first-of-type) {
+  margin-top: 2em;
+}
+
+strong {
+  color:#222;
+  font-weight:700;
+}
+
+ul { 
+  padding-left: 1.2em; 
+}
+
+details {
+  margin-bottom: 0.2em; // details 위젯 자체의 아래 여백
+}
+
+details:last-of-type {
+ margin-bottom: 1em;
+}
+
+summary {
+  margin-bottom: 0.5em; // 제목과 내용 사이의 여백
+}
+
+.profile-img {
+  border-radius: 50%;
+  margin-bottom: 1em;
+}
+
+.intext-img {
+  width: 75%;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 1em;
+  display: block;
+}
+
+.hashtag-text {
+  color: #3f729b;
+  font-style: italic;
+}
+
+.hashtag-text:hover {
+  text-decoration: underline;
+}
+
+.hanja-name {
+  font-size: 0.7em;
+  color: #777;
+  font-weight: normal;
+  // letter-spacing: 0.02em;
+}
+
+.menu {
+  font-size: 1.1em;
+  margin-bottom: 1em;
+}
+
+footer {
+  text-align: center;
+}
+
+@media screen and (max-width: 960px) {
+header {
+  padding: 0;
+  width: 270px;
+  margin: 0 auto;
+ }
+}
+
+@media screen and (max-height: 755px) {
+footer {
+  float: right;
+  position: relative;
+  width: 500px;
+ }
+}
+
+
+
+
