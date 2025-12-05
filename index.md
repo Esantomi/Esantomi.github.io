@@ -161,6 +161,7 @@ title: Curriculum Vitae
 | <u>VR contents creation</u>  | 드론(DJI Mavic 2 Pro·DJI Phantom 4 Pro), Stitching(PTGui) & VTour(Krpano) |
 
 ### Certs
+- **생물분류기사(동물)(Engineer Biology Classification - animal)**, 한국산업인력공단(Human Resources Development Service of Korea) ; Dec. 2025
 - **Microsoft Azure Data Fundamentals**, Microsoft ; June 2023
 - **Microsoft Azure AI Fundamentals**, Microsoft ; June 2023
 - **Microsoft Azure Fundamentals**, Microsoft ; June 2023
@@ -171,6 +172,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
