@@ -56,7 +56,7 @@ title: Curriculum Vitae
 
 ### Articles
 <!-- 1. <i class="fa-solid fa-spinner fa-spin-pulse"></i> 지해인, & 김가연. (2025). **요괴학으로 본 포켓몬스터의 가상 민족생물학적 분류에 관한 연구 [A Yōkai Studies Approach to the Virtual Ethnobiological Classification of Pokémon]**.-->
-1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progess]** 지해인 (2026). **관찬·사찬사서 계열 삼성신화(三姓神話) 이본에 나타난 제주 유학의 신화관**.
+1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progess]** 지해인 (2026). **18세기 제주 유학의 ｢영주지｣계 삼성 신화(三姓神話) 위차·국가 인식과 해석 투쟁**.
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progess]** Park, H. & **Ji, H.** (2026). **Modeling and Characterizing Korean Spacing Errors via Information-theoretic Metrics**.
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progess]** Park, S., Kim, G., **Ji, H.**, Lee, H., Lee, B., Jeong, C., & Kim, B. (2026). **A TEI/XML Dataset of Modern Korean Novels (가제)**
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work In Progess]** Lee, J., **Ji, H.**, & Jung, H. (2026). **Implementation of a Literary Sensory Classification Model Based on Modern Korean Novels**.
@@ -174,6 +174,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
