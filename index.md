@@ -56,10 +56,10 @@ title: Curriculum Vitae
 
 ### Articles
 <!-- 1. <i class="fa-solid fa-spinner fa-spin-pulse"></i> 지해인, & 김가연. (2025). **요괴학으로 본 포켓몬스터의 가상 민족생물학적 분류에 관한 연구 [A Yōkai Studies Approach to the Virtual Ethnobiological Classification of Pokémon]**.-->
-1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progess]** 지해인 (2026). **18세기 제주 유학의 ｢영주지｣계 삼성 신화(三姓神話) 위차·국가 인식과 해석 투쟁**.
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progess]** Park, H. & **Ji, H.** (2026). **Modeling and Characterizing Korean Spacing Errors via Information-theoretic Metrics**.
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progess]** Park, S., Kim, G., **Ji, H.**, Lee, H., Lee, B., Jeong, C., & Kim, B. (2026). **A TEI/XML Dataset of Modern Korean Novels (가제)**
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work In Progess]** Lee, J., **Ji, H.**, & Jung, H. (2026). **Implementation of a Literary Sensory Classification Model Based on Modern Korean Novels**.
+1. ![KCI Badge](https://img.shields.io/badge/KCI-0355A3?style=flat&logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwEHBgkIBwEKCgkLDRYPDQwMDRsUFRAWIBEiIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGislHyU3Nys3Nzc3Nys3NzcrNzcrNzc3Nzc3NzcrNys3Kzc3Nys3NzcrKys3Nys3Kzc3KzcrN//AABEIABAAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAFBwT/xAAjEAABAwMDBQEAAAAAAAAAAAABAgMRBAYhABJRBRMWQXEy/8QAFQEBAQAAAAAAAAAAAAAAAAAABQT/xAAXEQEAAwAAAAAAAAAAAAAAAAABAAIR/9oADAMBAAIRAxEAPwB1FZfvWX1RYwcY7ThBMwVBGI5zGpx1XxdKiFXm2457CU41rt+4rmonVNVF+hNP2nYCwTtWW4AEZEmJ+aFqqm2ag7/EUtrP62nBPOlK1xkKqz//2Q==&logoColor=white) **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Under Review]** 지해인 (2026). **18세기 제주 유학의 국가 인식과 삼성(三姓) 위차의 해석 투쟁**.
 1. ![KCI Badge](https://img.shields.io/badge/KCI-0355A3?style=flat&logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwEHBgkIBwEKCgkLDRYPDQwMDRsUFRAWIBEiIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGislHyU3Nys3Nzc3Nys3NzcrNzcrNzc3Nzc3NzcrNys3Kzc3Nys3NzcrKys3Nys3Kzc3KzcrN//AABEIABAAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAFBwT/xAAjEAABAwMDBQEAAAAAAAAAAAABAgMRBAYhABJRBRMWQXEy/8QAFQEBAQAAAAAAAAAAAAAAAAAABQT/xAAXEQEAAwAAAAAAAAAAAAAAAAABAAIR/9oADAMBAAIRAxEAPwB1FZfvWX1RYwcY7ThBMwVBGI5zGpx1XxdKiFXm2457CU41rt+4rmonVNVF+hNP2nYCwTtWW4AEZEmJ+aFqqm2ag7/EUtrP62nBPOlK1xkKqz//2Q==&logoColor=white) **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Minor Revision]** 지해인. (2026). **특이점의 신화 Word2Vec으로 읽기: 디시인사이드 ‘특이점이 온다’ 마이너 갤러리를 중심으로 [Reading the Singularity Myth through Word2Vec: Focusing on the Dcinside 'Singularity is Near' Minor Gallery]**.
 1. ![Scopus Badge](https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white) **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Under Review]** LIM, I., **Ji, H.**, & Kim, B. (2026). **(가제) KPoEM: A Human-Labeled Dataset for Decoding Emotion and Encoding Generative Poetics in Korean Modern Poetry**.
 1. ![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?style=flat&logo=arXiv&logoColor=white) LIM, I., **Ji, H.**, & Kim, B. (2025). **Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling**. *arXiv preprint*. <i class="ai ai-doi"></i> <a href="https://arxiv.org/abs/2509.03932" target="_blank">10.48550/arXiv.2509.03932</a>
@@ -175,6 +175,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
