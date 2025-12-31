@@ -110,6 +110,7 @@ title: Curriculum Vitae
 
 ## Talks/Presentations
 
+- 지해인. (2025.12.31). **디지털 인문학과 분석: 문학 텍스트 감정과 인공지능 신앙**. 콜로키움 No.20, 인문학&신학연구소 에라스무스, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/2025_erasmus_DH_seminar.jpg" target="_blank">Program</a>
 - 지해인. (2025.11.26). **특이점주의 서사의 신화학적 고찰: 디시인사이드 키워드 분석을 중심으로 [A Mythological Study of the Narrative of Singularitarianism: Focusing on an Analysis of Keywords from Dcinside]**. 제3회 에라스무스 컨퍼런스-제1회 연세신학대학원 학술컨퍼런스: 인류의 미래, 종교의 가능성; 연세대학교, 서울, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/3rd_erasmus_conf.jpg" target="_blank">Program1</a> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/3rd_erasmus_conf1.pdf" target="_blank">Program2</a>
 - **[토론: 지해인]** Benoit Berthelier. (2025.10.30). **북한 문학에 나타난 재일동포 형상의 계량적 분석**. 2025국제공동연구 심포지엄: 재일코리안의 집은 어디인가 -정동적 사회성과 거주성의 역사를 중심으로-, 동아대학교 젠더·어펙트연구소, 부산, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/home_of_korean_in_japan_poster.jpg" target="_blank">Program</a>
 - 임이로, **지해인**, & 김병준. (2025.10.18). **한국 근현대시의 감정 분석과 인공지능 시 창작 응용: KPoEM 데이터셋 구축과 활용 [Emotion Analysis of Modern and Contemporary Korean Poetry and its Application to AI Poetry Generation: Construction and Utilization of the KPoEM Dataset]**. 반교어문학회 제180차 정기학술대회, 성균관대학교, 서울, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/bangyo_6th_program.pdf" target="_blank">Program</a>
@@ -176,6 +177,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
