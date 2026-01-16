@@ -147,6 +147,7 @@ title: Curriculum Vitae
 ## Teaching Experience
 - **트랙 2 - 분석 트랙(Track 2 - Analysis track)**, 수업조교(TA), 2026 디지털인문학 겨울학교(2026 Digital Humanities Winter School) ; Feb. 04-05, 2026
 - **[HUM-X] 융합역량강화프로그램 ≪AI전환시대의 문학연구: 워크샵≫**, 강사, 이화여자대학교(Ewha Womans University) ; Jan. 30, 2026 <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/ewha_workshop_ai_lit.pdf" target="_blank">Program</a>
+- **AI 기반 감성분석 워크숍**, 강사, 한국학중앙연구원(The Academy of Korean Studies) ; Jan. 21-23, 2026 <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/AI기반_감성분석_워크숍.jpg" target="_blank">Program</a>
 - LE1173 **빅데이터와분석(Big Data and Analysis)**, 강사(Instructor), 한국전통문화대학교(Korea National University of Heritage) ; Sept. - Dec. 2025
 - SLA23501 **디지털 인문학 입문(Introduction to Digital Humanities)**, 특별강사(Special Instructor), 울산과학기술원(Ulsan National Institute of Science and Technology, UNIST) ; Mar. - Jun. 2025
 - **해커톤 세션(Hackathon session)**, 수업조교(TA), 2025 디지털인문학 겨울학교(2025 Digital Humanities Winter School) ; Jan. 20-24, 2025
@@ -179,21 +180,3 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
