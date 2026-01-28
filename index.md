@@ -127,8 +127,8 @@ title: Curriculum Vitae
 
 ## Awards and Honors
 
-- **강의평가 우수교원(Excellence in Teaching Award)**, 한국전통문화대학교(Korea National University of Heritage) ; 2025
 - **2026년도 한국학대학원 해외교류 프로그램(AKS International Exchange Program)**, 한국학중앙연구원(The Academy of Korean Studies) ; Mar. 2026 - Aug. 2026
+- **강의평가 우수교원(Excellence in Teaching Award)**, 한국전통문화대학교(Korea National University of Heritage) ; 2025
 - **등록금면제장학금(Tuition Fee Exemption Scholarship)**, 한국학중앙연구원(The Academy of Korean Studies) ; Ph.D./1-2
 - **연구장학금(Research Scholarship)**, 한국학중앙연구원(The Academy of Korean Studies) ; M.A./3-4
 - **등록금면제장학금(Tuition Fee Exemption Scholarship)**, 한국학중앙연구원(The Academy of Korean Studies) ; M.A./1-2
@@ -182,5 +182,3 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
-
-
