@@ -76,6 +76,7 @@ title: Curriculum Vitae
 1. 지해인. (2018). **문장종결법으로서의 한국어 경계법 지위 검토 [Reconsidering the Status of the Korean Apprehensive Mood as a Sentence-Final Particle]** [학사학위논문, 건국대학교].
 
 ### eBooks
+1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Forthcoming]** 김병준, **지해인**, 김가연, 박선영, 이하경, 이병주, & 정채연. (2026). **AI를 활용한 한국 근대소설 TEI 태깅 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/19071" target="_blank">book/19071</a>
 1. 김병준, 조경민, **지해인**, 임이로, & 구슬. (2025). **고급 자연어 처리 활용 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/17854" target="_blank">book/17854</a> <br> <i class="fab fa-youtube"></i> <a href="https://youtube.com/playlist?list=PLGbGeqRyCIoe9UFC_CLglqjacLccf8L6H" target="_blank">[DH 교육] 고급 자연어 처리 활용</a>
 1. 김바로, 정송이, 이재열, 신은선, **지해인**, 김서윤, 조하영, & 임이로. (2024). **XML(TEI) with 인문학 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/14569" target="_blank">book/14569</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocFlHZO4MEuehx6noQCp5Vy" target="_blank">[DH 교육] XML(TEI) with 인문학</a>
 1. 김바로, 전가람, 신은선, 이재열, 정송이, **지해인**, 이주희, 김서윤, 조하영, 잔싱롱, 정경진, & 채자문. (2023). **선행 온톨로지 모델 탐색 - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/8452" target="_blank">book/8452</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIoevFRxa0Ng9VrKYsk8GTqOK" target="_blank">[DH 교육] 선행 온톨로지 모델 리뷰</a>
