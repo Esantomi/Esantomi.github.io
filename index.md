@@ -84,6 +84,8 @@ title: Curriculum Vitae
 1. 김바로, 전가람, **지해인**, 이주희, 구현회, 윤종훈, & 한태빈. (2022). **시각적 인문학(Visual Humanities) - 디지털인문학 시리즈**. 위키독스. <a href="https://wikidocs.net/book/8450" target="_blank">book/8450</a> <br> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLGbGeqRyCIocRIHfc33WCC7yLvcoNgvEq" target="_blank">[DH 교육] 시각적 인문학</a>
 
 ### Datasets and Models
+1. **ModKorLit-TEI**
+   - **v1**: Park, S., Gayeon, K., **Ji, H.**, Lee, H., Lee, B., Jeong, C., Lee, J.-. yeol ., Jo, G., Lim, I., Ismayilov, O., & Kim, B. (2026). ModKorLit-TEI [Data set]. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.18679322" target="_blank">10.5281/zenodo.18679322</a>
 1. **KPoEM (Korean Poetry Emotion Mapping)**
    - **KPoEM dataset v4**: LIM, I., **Ji, H.**, Koo, S., Jung, S.-. yi ., YUN, J., & Kim, B. (2025). KPoEM dataset [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15598092" target="_blank">10.5281/zenodo.15598092</a> <i class="ai ai-doi"></i> <a href="https://doi.org/10.57967/hf/6303" target="_blank">10.57967/hf/6303</a>
    - **KPoEM model**: Hugging Face. <i class="ai ai-doi"></i> <a href="https://doi.org/10.57967/hf/6301" target="_blank">10.57967/hf/6301</a>
@@ -183,6 +185,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
