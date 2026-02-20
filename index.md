@@ -29,6 +29,7 @@ title: Curriculum Vitae
 
 ### Non-Degree Education
 - **사서삼경(四書三經) 과정**, 사단법인 유도회(儒道會) 한문연수원 ; Mar. 2024 - Present
+- **2026 디지털인문학(DH) 겨울학교**, 부산대학교(Pusan National University) ; Feb. 2026
 - **서교연 비평이론학교 S1 감각, 이미지, 정동**, 서교인문사회연구실 ; May 2025 - Aug. 2025
 - **2024 디지털인문학(DH) 겨울학교**, 고려대학교(Korea University) ; Jan. 2024
 - **2023 디지털인문학(DH) 겨울학교**, 한국과학기술원(Korea Advanced Institute of Science and Technology, KAIST) ; Jan. 2023
@@ -185,6 +186,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
