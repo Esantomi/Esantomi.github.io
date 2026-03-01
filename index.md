@@ -117,7 +117,7 @@ title: Curriculum Vitae
 
 ## Talks/Presentations
 
-- Ji, H. (2026) **Reading the Singularity Myth Through Word2Vec: Focusing on the 'The Singularity is Near' Minor Gallery on Dcinside**. The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2026 (DH2026), Daejeon Convention Center, Daejeon, Republic of Korea.
+- Ji, H. (2026.07) **Reading the Singularity Myth Through Word2Vec: Focusing on the 'The Singularity is Near' Minor Gallery on Dcinside**. The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2026 (DH2026), Daejeon Convention Center, Daejeon, Republic of Korea.
 - 지해인. (2025.12.31). **디지털 인문학과 분석: 문학 텍스트 감정과 인공지능 신앙 [Digital Humanities and Analytics: Literary Emotions and AI Faith]**. 콜로키움 No.20, 인문학&신학연구소 에라스무스, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/2025_erasmus_DH_seminar.jpg" target="_blank">Program</a>
 - 지해인. (2025.11.26). **특이점주의 서사의 신화학적 고찰: 디시인사이드 키워드 분석을 중심으로 [A Mythological Study of the Narrative of Singularitarianism: Focusing on an Analysis of Keywords from Dcinside]**. 제3회 에라스무스 컨퍼런스-제1회 연세신학대학원 학술컨퍼런스: 인류의 미래, 종교의 가능성; 연세대학교, 서울, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/3rd_erasmus_conf.jpg" target="_blank">Program1</a> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/3rd_erasmus_conf1.pdf" target="_blank">Program2</a>
 - **[토론: 지해인]** Benoit Berthelier. (2025.10.30). **북한 문학에 나타난 재일동포 형상의 계량적 분석**. 2025국제공동연구 심포지엄: 재일코리안의 집은 어디인가 -정동적 사회성과 거주성의 역사를 중심으로-, 동아대학교 젠더·어펙트연구소, 부산, 대한민국. <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/home_of_korean_in_japan_poster.jpg" target="_blank">Program</a>
@@ -153,7 +153,7 @@ title: Curriculum Vitae
 
 
 ## Teaching Experience
-- **Building a Korean Literature TEI/XML Database: From Data Acquisition to AI-Enhanced Reading**, 강사(Instructor), The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2026 (DH2026) ; Jul. 27-31, 2026
+- **Building a Korean Literature TEI/XML Database: From Data Acquisition to AI-Enhanced Reading**, 촉진자(Facilitator), The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2026 (DH2026) ; Jul. 27-31, 2026
 - **[트랙 2] 분석 트랙 ≪인공지능을 활용한 인문 텍스트 분석과 실습 - 전처리부터 시각화까지≫**, 수업조교(TA), 2026 디지털인문학 겨울학교(2026 Digital Humanities Winter School) ; Feb. 04-05, 2026
 - **[HUM-X] 융합역량강화프로그램 ≪AI전환시대의 문학연구: 워크샵≫**, 강사(Instructor), 이화여자대학교(Ewha Womans University) ; Jan. 30, 2026 <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/ewha_workshop_ai_lit.pdf" target="_blank">Program</a>
 - **AI 기반 감성분석 워크숍**, 강사, 한국학중앙연구원(The Academy of Korean Studies) ; Jan. 21-23, 2026 <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/AI기반_감성분석_워크숍.jpg" target="_blank">Program</a>
@@ -189,6 +189,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
