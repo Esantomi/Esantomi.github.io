@@ -60,8 +60,8 @@ title: Curriculum Vitae
 ### Articles
 <!-- 1. <i class="fa-solid fa-spinner fa-spin-pulse"></i> 지해인, & 김가연. (2025). **요괴학으로 본 포켓몬스터의 가상 민족생물학적 분류에 관한 연구 [A Yōkai Studies Approach to the Virtual Ethnobiological Classification of Pokémon]**.-->
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** Park, H. & **Ji, H.** (2026). **Modeling and Characterizing Korean Spacing Errors via Information-theoretic Metrics**.
-1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** Park, S., Kim, G., **Ji, H.**, Lee, H., Lee, B., Jeong, C., & Kim, B. (2026). **A TEI/XML Dataset of Modern Korean Novels (가제)**
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work In Progress]** Lee, J., **Ji, H.**, & Jung, H. (2026). **Implementation of a Literary Sensory Classification Model Based on Modern Korean Novels**.
+1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** Park, S., Kim, G., **Ji, H.**, Lee, H., Lee, B., Jeong, C., & Kim, B. (2026). **KNoTE: A TEI Encoded XML Dataset of Modern Korean Novels**
 1. ![Scopus Badge](https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white) **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Under Review]** LIM, I., **Ji, H.**, & Kim, B. (2026). **KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based Poetry Generation in Korean Modern Poetry**.
     * ![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?style=flat&logo=arXiv&logoColor=white) LIM, I., **Ji, H.**, & Kim, B. (2026). **KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based Poetry Generation in Korean Modern Poetry**. *arXiv preprint*. <i class="ai ai-doi"></i> <a href="https://arxiv.org/abs/2509.03932v2" target="_blank">10.48550/arXiv.2509.03932</a>
     * ![arXiv Badge](https://img.shields.io/badge/arXiv-B31B1B?style=flat&logo=arXiv&logoColor=white) LIM, I., **Ji, H.**, & Kim, B. (2025). **Decoding the Poetic Language of Emotion in Korean Modern Poetry: Insights from a Human-Labeled Dataset and AI Modeling**. *arXiv preprint*. <i class="ai ai-doi"></i> <a href="https://arxiv.org/abs/2509.03932v1" target="_blank">10.48550/arXiv.2509.03932</a>
@@ -189,6 +189,7 @@ title: Curriculum Vitae
 ## <i class="fa-solid fa-circle-nodes"></i> Semantic Network
 
 <iframe src="https://Esantomi.github.io/semantic-network" scrolling="no" frameborder="0" width="100%" height="500" style="padding: 0; margin: 0;">Haein's Semantic network graph</iframe>
+
 
 
 
