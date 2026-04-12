@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | absolute_url }}">
+    <link rel="shortcut icon" type="image/x-png" href="{{ "/assets/img/logo_transparent.png"  | absolute_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css" /> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.2/css/academicons.min.css">
+    <!-- <script src="https://kit.fontawesome.com/5e02bc74a0.js" crossorigin="anonymous"></script> -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        {% if site.profile_picture %}
+          <img class="profile-img" src="{{site.profile_picture | absolute_url}}" alt="Profile picture" oncontextmenu="return false" />
+        {% endif %}
+
+        <center><h1>지해인<span class="hanja-name">池海印</span></h1></center>
+
+        <p>Researcher & Instructor <br>
+          The Academy of Korean Studies (AKS) <br>
+          Seongnam, Republic of Korea <br></p>
+        
+        <p class="view"><a href="https://orcid.org/0000-0001-6864-6789" target="_blank" title="Click here to go to my orcid profile"> <i class="ai ai-orcid"></i> ORCID </a> |
+          <a href="https://scholar.google.co.kr/citations?user=egl2Sp8AAAAJ" target="_blank" title="Click here to go to my google scholar profile"> <i class="ai ai-google-scholar"></i> Google Scholar </a> <br>
+        <a href="https://osf.io/fgujz/" target="_blank" title="Click here to go to my osf profile"> <i class="ai ai-osf"></i> OSF </a> | 
+          <a href="https://github.com/Esantomi" target="_blank" title="Click here to go to my github profile"> <i class="fab fa-github"></i> GitHub </a> |
+        <a href='https://zenodo.org/search?q=metadata.creators.person_or_org.name:"Ji, Haein"' target="_blank" title="Click here to go to my zenodo profile"> <i class="ai ai-zenodo"></i> Zenodo </a> <br>
+        <!-- <a href="https://t.me/" title="Click here to message me on Telegram"> <i class="fas fa-paper-plane"></i> @ </a> </p> 
+        <a href="https://x.com/0x9oi" target="_blank" title="Click here to go to my twitter profile"> <i class="fab fa-twitter"></i> 𝕏 </a> -->
+        <a href="https://bsky.app/profile/haeinji.bsky.social" target="_blank" title="Click here to go to my bluesky profile"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="1em" height="1em" style="vertical-align: -0.125em; fill: currentColor;"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M111.8 62.2C170.2 105.9 233 194.7 256 242.4c23-47.6 85.8-136.4 144.2-180.2c42.1-31.6 110.3-56 110.3 21.8c0 15.5-8.9 130.5-14.1 149.2C478.2 298 412 314.6 353.1 304.5c102.9 17.5 129.1 75.5 72.5 133.5c-107.4 110.2-154.3-27.6-166.3-62.9l0 0c-1.7-4.9-2.6-7.8-3.3-7.8s-1.6 3-3.3 7.8l0 0c-12 35.3-59 173.1-166.3 62.9c-56.5-58-30.4-116 72.5-133.5C100 314.6 33.8 298 15.7 233.1C10.4 214.4 1.5 99.4 1.5 83.9c0-77.8 68.2-53.4 110.3-21.8z"/></svg> Bluesky </a> | 
+          <a href="mailto:cihayin@gmail.com?SUBJECT=이력서%20회신" title="Click here to mail me"> <i class="fas fa-envelope"></i> cihayin [at] gmail.com </a> </p>
+        <p class="view"><a href="https://drive.google.com/file/d/12MMw__fZrtk8CidIk14O09Z8nhXjn407" target="_blank"> <i class="ai ai-cv"></i> 한국어 CV </a> | 
+          <a href="https://drive.google.com/file/d/1vLHScqfaBGmjqmNjSIlyVR30yBTTqdz-" target="_blank"> <i class="ai ai-cv"></i> English CV </a> </p>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p><small>Please feel free to get in touch.</small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
