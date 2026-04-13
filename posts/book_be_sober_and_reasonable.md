@@ -9,6 +9,8 @@ title: Enthusiasm and Enlightenment in Europe, 1650-1850
 
 - [Be Sober and Reasonable](#be-sober-and-reasonable)
   - [1. The Theological Critique of Enthusiasm](#1-the-theological-critique-of-enthusiasm)
+  - [2. Melancholy and Enthusiasm: The Sources of the Medical Critique of Enthusiasm](#2-melancholy-and-enthusiasm-the-sources-of-the-medical-critique-of-enthusiasm)
+    - [로버트 버튼: 의학 전통에서 종교적 논쟁으로](#로버트-버튼-의학-전통에서-종교적-논쟁으로)
 
 ### 1. The Theological Critique of Enthusiasm
 - 열광주의 비판의 배경
@@ -25,9 +27,9 @@ title: Enthusiasm and Enlightenment in Europe, 1650-1850
       - 불링거의 사례: 디트리히 슈나이더(Dietrich Schneider) 사례 (1535년), 토마스 쉬커(Thomas Schücker) 사례 (1526년). 둘 다 알몸으로 질주함
         - 불링거 왈, 하나님의 말씀을 버리고 자신의 상상이나 악마의 환상에 귀를 기울일 때 이런 불순한 일이 발생하며, 이를 성령의 탓으로 돌리는 것은 신성모독임
 - 열광주의의 정의와 특징
-  1. 신학적 태도(**종말론적 기대**): 열광주의자들은 공통적으로 '주의 날(Day of the Lord)'이 임박했다고 주장
-  2. 권위의 근거(**직접적인 계시 주장**): 직접적인 신적 영감(Direct divine inspiration)을 받았다고 주장하며, 성경의 권위보다 앞세움
-  3. 외적 행동(**신체적 황홀경과 경련**): 불링거는 이러한 모습이 마치 '간질(falling sickness)' 환자의 증상과 유사하다고 묘사
+  1. 신학적 태도 (**종말론적 기대**): 열광주의자들은 공통적으로 '주의 날(Day of the Lord)'이 임박했다고 주장
+  2. 권위의 근거 (**직접적인 계시 주장**): 직접적인 신적 영감(Direct divine inspiration)을 받았다고 주장하며, 성경의 권위보다 앞세움
+  3. 외적 행동 (**신체적 황홀경과 경련**): 불링거는 이러한 모습이 마치 '간질(falling sickness)' 환자의 증상과 유사하다고 묘사
 - 17세기 네덜란드 신학자들의 비판
   - 1640년대 중반, 영국 혁명이 급진화되면서 열광주의에 대한 신학적 논쟁은 더욱 정교해짐
   - **프리드리히 스판하임(Friedrich Spanheim)**: 열광주의자를 '마귀적, 우울질적, 혹은 자발적인 환상에 의해 자신과 타인을 속여, 이를 신적 계시라고 주장하는 광신자'로 정의함
@@ -44,11 +46,44 @@ title: Enthusiasm and Enlightenment in Europe, 1650-1850
     - 신학자들은 재세례파 열광주의자들이 뮌스터에서 일으킨 참혹한 사건을 열광주의 교리가 초래할 수 있는 가장 끔찍한 종교적, 도덕적 결과의 전형으로 제시함
 - 열광주의에 대한 세 가지 설명
   1. **마귀론적 설명(Demonological Account)**: 가장 보편적인 설명으로, 루터는 츠비카우 예언자들의 배후에 마귀가 있다고 보았음
-  2. **의학적 설명(Medical Account)**: 그들이 주장하는 영감이나 예언은 사실 **우울질(melancholy)**이라는 질병의 신체적 증상일 뿐이라고 분석함
-  3. **정치적/고의적 기만(Voluntary Illusions)**: 불순한 목적을 달성하기 위해 의도적으로 신적 영감을 받은 척 연기하는 **사기꾼(Cheats)**으로 묘사함
+  2. **의학적 설명(Medical Account)**: 그들이 주장하는 영감이나 예언은 사실 우울질(melancholy)이라는 질병의 신체적 증상일 뿐이라고 분석함
+  3. **정치적/고의적 기만(Voluntary Illusions)**: 불순한 목적을 달성하기 위해 의도적으로 신적 영감을 받은 척 연기하는 사기꾼(Cheats)으로 묘사함
 - 중보(Mediation)의 방어
   - 열광주의에 대한 신학적 비판의 핵심은 결국 **하나님과 인간 사이의 중보 체계를 수호하는 것**
     - 성경(Scripture): 직접 계시에 맞서 기록된 말씀의 유일한 권위를 방어함
     - 사역자(Ministry): 개인의 주관적 영감에 맞서 훈련받은 목회자의 직무를 방어함
     - 그리스도론(Christology): 영적 우월주의에 맞서 육체로 오신 예수 그리스도의 구속적 중보를 강조함
       - 열광주의는 이러한 중보의 상징들을 건너뛰어 하나님께 직접 도달하려 했기에, 개신교 정통주의 신학자들에게는 신앙 체계 전체를 뒤흔드는 가장 위험한 적으로 간주됨
+
+### 2. Melancholy and Enthusiasm: The Sources of the Medical Critique of Enthusiasm
+- 열광주의의 의학화(Medicalization)
+  - 열광주의자들과의 논쟁은 점차 신학이나 철학을 넘어 의학적 근거 위에서 전개됨
+    - 멜랑콜리(Melancholy)로의 '의학적 소외' 과정은 미셸 푸코가 설명한 '비정상인의 사회적 배제'와 맥을 같이하며, 사회·문화적 질서의 이데올로기적 기반이 변화하고 있었음을 보여 줌
+    - 열광주의를 생리적, 심리적으로 분석하는 방식은 이후 18세기 이신론자들이 기독교적 영감 전체를 비판하는 도구로 쓰이게 됨
+- 고대 철학 및 의학 전통에서의 연관성
+  - 플라톤의 **광기(Furor/mania)** 개념: 플라톤은 『파이드로스(Phaedrus)』에서 광기(mania)를 신성한 광기와 병적인 광기로 구분함
+  - 아리스토텔레스의 **『문제들(Problemata Physica)』**XXX, I: 멜랑콜리-예언 간 연결. 천재성과 흑담즙 체질(atrabilious temperament)의 관계, 흑담즙이 과잉되면 황홀경에 빠지거나 영감을 얻게 된다는 생리학적 설명 등 자연주의적 설명을 제공함
+  - 카파도키아의 아레타이오스(Aretaeus of Cappadocia), 에페소스의 루포스(Rufus of Ephesus) 등 역시 황홀경을 질병의 증상으로 봄
+- 중세 의학과 멜랑콜리의 기독교화
+  - 중세에는 고대의 의학적 지식이 기독교적 가치관과 결합하면서, 멜랑콜리의 원인과 증상을 종교적인 틀 안에서 해석하기 시작함
+  - 콘스탄티누스 아프리카누스(Constantinus Africanus), 베르나르 드 고르동(Bernard de Gordon) 등
+- 르네상스와 멜랑콜리의 긍정적 재조명
+  - 멜랑콜리를 천재성이나 신성한 영감과 다시 연결하려는 시도가 나타남
+  - **마르실리오 피치노(Marsilio Ficino)**: 플라톤의 '신성한 광기'를 아리스토텔레스적 '멜랑콜리'와 동일시함
+  - **파두아 학파(Aristotelian School of Padua)**: 폼포나치(Pietro Pomponazzi)는 예언과 영감을 천체의 영향으로 설명하면서도 멜랑콜리를 물질적으로 설명함
+- 16세기 개신교권
+  - 멜랑콜리에 대한 의학적 전통과 신학적 논쟁이 나란히 공존하는 양상
+  - **하인리히 불링거(Heinrich Bullinger)**: 열광주의자들의 '멜랑콜리적 환상'을 경계해야 한다고 언급
+  - 
+#### 로버트 버튼: 의학 전통에서 종교적 논쟁으로
+- **로버트 버튼(Robert Burton)**
+  - **『Anatomy of Melancholy』**의 제3부에서 '종교적 멜랑콜리'라는 독자적인 범주를 설정해 상세히 다룸
+- **종교적 멜랑콜리(Religious melancholy)**
+  - 종교와 신성한 대상에 끊임없이 집착하여 발생하는 멜랑콜리. 
+  - 과잉되면 열성, 미신, 단식, 열광주의로, 결핍되면 종교적 절망, 신성모독, 회의주의, 무신론 등으로 이어짐
+    - 르네상스 인문주의자들이 가졌던 멜랑콜리에 대한 긍정적 시각을 거부함
+- 열광주의에 대한 버튼의 설명
+  - **악마학(Demonology)**과 **자연주의(Naturalism)**를 결합하여 설명함
+  - 열광주의자, 급진적 청교도, 가톨릭 수도사 모두를 **'악마의 영향을 받은 멜랑콜리 환자'**로 분류함
+  - 생리적·환경적 요인에 집중하며, 도리어 초자연적인 설명이 부차적이게 됨
+- 이후, 메릭 카조본(Meric Casaubon)과 헨리 모어(Henry More)가 이러한 의학적 비판을 계승하고 발전시킴
