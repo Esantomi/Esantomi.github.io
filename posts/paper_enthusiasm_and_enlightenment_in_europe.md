@@ -7,6 +7,10 @@ title: Enthusiasm and Enlightenment in Europe, 1650-1850
 
 ## Enthusiasm and Enlightenment in Europe, 1650-1850
 
+- []()
+- []()
+- []()
+
 ### Enthusiasm: The Antiself of Enlightenment
 
 Pocock, J. G. A. (1997). Enthusiasm: The Antiself of Enlightenment. Huntington Library Quarterly, 60(1/2), 7–28. https://doi.org/10.2307/3817830
@@ -75,12 +79,40 @@ Goldstein, J. (1997). Enthusiasm or imagination? Eighteenth-century smear words 
 - 사전 비교
   - 영국의 《옥스퍼드 영어 사전(Oxford English Dictionary, OED)》와 프랑스의 《그랑 로베르(Grand Robert de la langue franraise)》, 《프랑스어 보물 사전(Tresor de la langue franraise)》을 비교 분석함
     - 프랑스 사전의 특징: 열광의 예술적/미학적 측면을 강조하며 하위 항목을 할당함
-    - 영국 사전의 특징: '가공의 영감(fancied inspiration)' 또는 '**신성한 소통에 대한 허위적 믿음**'이라는 비하적 의미를 핵심 정의로 포함함
+    - 영국 사전의 특징: '가공의 영감(fancied inspiration)' 또는 **'신성한 소통에 대한 허위적 믿음'**이라는 비하적 의미를 핵심 정의로 포함함
       - 원인: 영국은 개신교 분파주의자들의 급진적 활동을 경험했으나, 프랑스는 이를 대부분 물리쳤기 때문에 '열광'이 종교적 적대감으로 포화되지 않았음
 - **생-메다르 경련 사건(convulsionaries of SaintMedard)**
   - 얀세니즘 부제 드 파리의 묘소에서 신자들이 집단 경련과 기적을 주장하며 발생한 사건
   - 필리프 에케(Philippe Hecquet)의 분석
-    - 경련을 '상상에 의한 히스테리'로 규정함
+    - convulsionnaire의 경련을 '상상에 의한 히스테리'로 규정함
     - '열광'이 아닌 **"과열된 상상이 빚어낸 발명품"**이라고 비난함
       - 종교 논평가들 역시 이 현상을 비난할 때 '열광'이라는 단어를 특권화하기보다 **'상상'**이나 '망상'이라는 용어를 주로 사용함
 - 즉, 18세기 프랑스에서 '열광'은 주로 미학적·예술적 적합성을 다루는 문제로 국한되었음
+
+### The Philosopher and the Schwärmer: On the Career of a German Epithet from Luther to Kant
+
+La Vopa, A. J. (1997). The Philosopher and the" Schwärmer": On the Career of a German Epithet from Luther to Kant. The Huntington Library Quarterly, 85-115.
+
+- 루터교 개혁기부터 18세기 말 칸트 시대에 이르기까지 '슈베르머라이(Schwärmerei)'라는 용어가 독일 지성사에서 수행한 역할과 변천사를 분석함
+
+#### 슈베르머(Schwärmer)와 열광
+- **슈베르머(Schwärmer)**
+  - 1790년대 크리스티안 가르베(Christian Garve)는 "하급 광기"이자 "허구를 실제 지식으로 오해하는 자기기만"으로 규정함 (자가당착적인 망상 상태)
+    - 가르베와 빌란트(Christoph Martin Wieland)는 긍정적인 창조적 영감인 **'엔투지아스무스(Enthusiasmus)'**를 부정적인 **'슈베르머라이(Schwärmerei)'**와 분리하여 언어적 정밀성을 확보하려함
+    - **철학자-의사(Philosopher-Physician)**: 계몽주의 철학자들은 자신을 사회적 건강을 진단하고 예방하는 의사로 설정하고, 슈베르머라이를 "영혼의 질병"으로 간주하여 임상적 시선으로 접근
+- 슈베르머라이의 기원
+  - 1520년대 **마르틴 루터**가 성령의 내적인 목소리를 강조하며, 기존 질서에 저항한 토마스 뮌처(Thomas Münzer)와 같은 급진파들을 비난하기 위해 이 단어를 사용
+    - 루터에게 슈베르머의 핵심은 '마음의 심연'에서 솟구치는 감정적 주관주의에 있음
+    - '슈베르머'는 벌떼의 윙윙거림(swarming)이나 무질서한 새 떼의 움직임과 같은 농경 생활의 이미지에서 유래함 (집단적 광란과 전염의 이미지를 강력하게 환기)
+    - 18세기에 이르면, 과도한 담즙이나 정신적 과충전 같은 심리-생리학적 진단으로 대체됨
+- **철학적 슈베르머라이(philosophical Schwärmerei)**
+  - 빌란트가 철학과 슈베르머라이를 천적으로 본 것과 달리, 헤르더(Johann Gottfried Herder)는 그 둘이 "동일한 본성(einerlei Natur)"을 가졌기에 서로 증오하는 **"영혼의 형제자매(Geistesgeschwistern)"**라고 생각함
+    - 철학의 차가운 추상 자체도 또 다른 형태의 슈베르머라이가 될 수 있다고 비판함
+    - 헤르더와 하만(J. G. Hamann)은 근대 철학의 엄격한 "체계"를 유대교적 율법주의와 동일시하며, 이것이 인간의 자생적 감정과 자유를 억압하는 "살아있는 모세"와 같다고 봄
+- **정치적 슈베르머라이(political Schwärmerei)**
+  - 보수적 비판자들은 프랑스 혁명을 "철학적 슈베르머라이"가 대중의 광기와 결합한 사례로 규정함
+    - 혁명을 '슈베르머라이의 전염'으로 묘사함으로써, 혁명이 가진 정당한 사회적 요구를 은폐하고 이를 병리적인 현상으로 치부함
+- 칸트의 관점
+  - 슈베르머라이를 "이성이 스스로를 감시하는 데 실패한 징표"로 보고, 이성의 한계를 명확히 규정하는 비판 철학을 해독제로 제시함
+    - **이성신앙(Vernunftglaube)**: 칸트는 맹목적 신앙과 차가운 추상 사이에서 '이성신앙'이라는 개념을 통해 도덕적 확신의 주관적 공간을 확보하려함
+    - 칸트는 혁명 행위 자체는 반대했으나, 이를 지켜보는 관중들의 '엔투지아스무스(열광)'는 인간의 도덕적 개선 가능성을 보여주는 긍정적인 징표로 해석함
