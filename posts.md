@@ -16,7 +16,7 @@ title: Posts
 ## Fun
 노는 게 제일 좋습니다. 다음은 제가 즐긴 기록입니다.
 
-- [2026-04] <a href="posts/paper_enthusiasm_the_antiself_of_enlightenment" target="_blank">J.G.A. Pocock의 ｢Enthusiasm: The Antiself of Enlightenment｣ 노트</a>
+- [2026-04] <a href="posts/paper_enthusiasm_and_enlightenment_in_europe" target="_blank">J.G.A. Pocock의 ｢Enthusiasm: The Antiself of Enlightenment｣을 포함한 논문집 『Enthusiasm and Enlightenment in Europe, 1650-1850』 노트</a>
 - [2026-04] <a href="posts/mooc_ethology" target="_blank">'동물의 행동' 강의 노트</a>
 - [2025-07] <a href="posts/bio-art" target="_blank">바이오 아트: 대장균에도 불성(佛性)이 있는가?</a>
 

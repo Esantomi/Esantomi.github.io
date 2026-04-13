@@ -1,17 +1,19 @@
 ---
 author: Haein Ji
-title: Enthusiasm - The Antiself of Enlightenment
+title: Enthusiasm and Enlightenment in Europe, 1650-1850
 ---
 
 <div class="menu"><center><i class="fas fa-home"></i><a href="../../"> home</a> | <i class="fas fa-sticky-note"></i><a href="../posts"> posts</a></center></div>
 
-## Enthusiasm: The Antiself of Enlightenment
+## Enthusiasm and Enlightenment in Europe, 1650-1850
+
+### Enthusiasm: The Antiself of Enlightenment
 
 Pocock, J. G. A. (1997). Enthusiasm: The Antiself of Enlightenment. Huntington Library Quarterly, 60(1/2), 7–28. https://doi.org/10.2307/3817830
 
 - 본고에서 Pocock은 초기에는 인간 정신의 한계를 인정하려는 프로그램이었던 계몽주의가 어떻게 **혁명적 승리주의(revolutionary triumphalism)로 변모**했는지를 탐구하고, 계몽주의가 **지적 광신주의(intellectual fanaticism)**가 발생할 가능성을 인식하고 있었음을 논증함
 
-### 계몽주의와 열광
+#### 계몽주의와 열광
 - **계몽주의(Enlightenment)**
   - **lumière**, **Aufklärung**, 혹은 “**이 계몽된 시대(This enlightened age)**”
   - 계몽주의의 다원화
@@ -51,3 +53,34 @@ Pocock, J. G. A. (1997). Enthusiasm: The Antiself of Enlightenment. Huntington L
 - **데이비드 흄(David Hume)**
   - 「미신과 열광에 관하여(Of Superstition and Enthusiasm)」
     - 전자를 인간 정신의 공포에 의해 생성된 것으로, 후자를 과도한 희망에 의해 생성된 것으로 정의
+
+### Enthusiasm or Imagination? Eighteenth-Century Smear Words in Comparative National Context
+
+Goldstein, J. (1997). Enthusiasm or imagination? Eighteenth-century smear words in comparative national context. Huntington Library Quarterly, 60(1/2), 29-49.
+
+#### 상상과 열광
+- 비속어의 기능: 특정 문화에서 부정적으로 사용되는 '비속어(smear words)'는 그 문화가 가장 소중히 여기는 가치와 변증법적 관계를 맺고 있으며, 유지하고자 하는 자아에서 축출해야 할 '타자'를 상징함
+  - 18세기 유럽 계몽주의의 핵심 가치는 **합리성(rationality)**이었으며, 이는 중립적인 판단력, 현세적 유용성, 과학적 추론, 그리고 격정(passions)의 차단을 의미함
+    - 당시 '열광(enthusiasm)'은 오늘날의 긍정적인 의미와 달리, 합리성에 반하는 모든 것을 환기하는 강력한 비난의 용어(opprobrium)로 기능함
+- 연구 질문: 18세기 프랑스에서 '열광'이 영국과 독일에서와 동일한 어휘적 지위를 누렸는가? 프랑스의 '계몽된' 사람들이 동료들의 계몽되지 못한 태도와 행동을 비하하고 싶을 때 가장 먼저 떠올린 선택된 비속어가 '열광'이었는가?
+  - 저자의 관점에는 '**상상(imagination)**'이 그러했음
+    - 프랑스에서 열광과 상상은 밀접하게 연결되어 하나가 다른 하나를 자극하거나 대체하는 구조를 가짐
+- **장-루이 드 카위자크(Jean-Louis de Cahusac)**
+  - 《백과전서(Encyclopedie)》 기사에서 열광을 일시적인 정신적 사건으로, 상상을 지속적인 정신적 구조로 암시
+    - "imagination [is] commonly believed to be the unique source of enthusiasm."
+- **볼테르(Voltaire)**
+  - 《철학사전(Dictionnaire philosophique)》에서 열광을 '광기, 격분, 분노', 심지어 '질병'으로 묘사함
+  - 이성이 열광과 상상 모두를 정화할 수 있다고 믿음
+    - 위대한 시인에게 필요한 '합리적인 열광'이라는 측면에서 이성과의 한시적 협력을 긍정함
+- 사전 비교
+  - 영국의 《옥스퍼드 영어 사전(Oxford English Dictionary, OED)》와 프랑스의 《그랑 로베르(Grand Robert de la langue franraise)》, 《프랑스어 보물 사전(Tresor de la langue franraise)》을 비교 분석함
+    - 프랑스 사전의 특징: 열광의 예술적/미학적 측면을 강조하며 하위 항목을 할당함
+    - 영국 사전의 특징: '가공의 영감(fancied inspiration)' 또는 '**신성한 소통에 대한 허위적 믿음**'이라는 비하적 의미를 핵심 정의로 포함함
+      - 원인: 영국은 개신교 분파주의자들의 급진적 활동을 경험했으나, 프랑스는 이를 대부분 물리쳤기 때문에 '열광'이 종교적 적대감으로 포화되지 않았음
+- **생-메다르 경련 사건(convulsionaries of SaintMedard)**
+  - 얀세니즘 부제 드 파리의 묘소에서 신자들이 집단 경련과 기적을 주장하며 발생한 사건
+  - 필리프 에케(Philippe Hecquet)의 분석
+    - 경련을 '상상에 의한 히스테리'로 규정함
+    - '열광'이 아닌 **"과열된 상상이 빚어낸 발명품"**이라고 비난함
+      - 종교 논평가들 역시 이 현상을 비난할 때 '열광'이라는 단어를 특권화하기보다 **'상상'**이나 '망상'이라는 용어를 주로 사용함
+- 즉, 18세기 프랑스에서 '열광'은 주로 미학적·예술적 적합성을 다루는 문제로 국한되었음
