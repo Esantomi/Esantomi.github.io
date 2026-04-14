@@ -11,6 +11,11 @@ title: Enthusiasm and Enlightenment in Europe, 1650-1850
   - [1. The Theological Critique of Enthusiasm](#1-the-theological-critique-of-enthusiasm)
   - [2. Melancholy and Enthusiasm: The Sources of the Medical Critique of Enthusiasm](#2-melancholy-and-enthusiasm-the-sources-of-the-medical-critique-of-enthusiasm)
     - [로버트 버튼: 의학 전통에서 종교적 논쟁으로](#로버트-버튼-의학-전통에서-종교적-논쟁으로)
+  - [3. Strange, But Natural Effects: The Medical Critique of Enthusiasm in the Works of Meric Casaubon and Henry More](#3-strange-but-natural-effects-the-medical-critique-of-enthusiasm-in-the-works-of-meric-casaubon-and-henry-more)
+    - [메릭 카조봉(Méric Casaubon)](#메릭-카조봉méric-casaubon)
+    - [헨리 모어(Henry More)](#헨리-모어henry-more)
+
+Heyd, M. (1995). *Be sober and reasonable: the critique of enthusiasm in the seventeenth and early eighteenth centuries* (Vol. 63). Brill.
 
 ### 1. The Theological Critique of Enthusiasm
 - 열광주의 비판의 배경
@@ -87,3 +92,45 @@ title: Enthusiasm and Enlightenment in Europe, 1650-1850
     - 열광주의자, 급진적 청교도, 가톨릭 수도사 모두를 **'악마의 영향을 받은 멜랑콜리 환자'**로 분류함
       - 생리적·환경적 요인에 집중하며, 도리어 초자연적인 설명이 부차적이게 됨
 - 이후, 메릭 카조본(Meric Casaubon)과 헨리 모어(Henry More)가 이러한 의학적 비판을 계승하고 발전시킴
+
+### 3. Strange, But Natural Effects: The Medical Critique of Enthusiasm in the Works of Meric Casaubon and Henry More
+#### 메릭 카조봉(Méric Casaubon)
+- 배경
+  - Christ Church, Oxford에서 공부하며 로버트 버턴(Robert Burton)과 교류했을 가능성이 있음
+  - 르네상스 인문주의와 17세기 후반 신고전주의를 잇는 과도기적 인물
+  - 《열광주의에 관한 논고(Treatise Concerning Enthusiasme)》(1655)는 조너선 스위프트(Jonathan Swift)로 이어지는 성공회 비판가들에게 큰 영향을 끼침
+- 열광주의의 구분
+  - **초자연적 열광주의(Supernatural Enthusiasm)**: 신성한 영감이나 악마의 빙의에 의해 실제로 발생하는 초자연적 현상(방언, 예언 등)
+  - **자연적 열광주의(Natural Enthusiasm)**: 영혼이나 뇌의 '자연적 열성(natural fervency)'이 지나쳐 초자연적인 것으로 오해받는 상태
+    - 의학적·자연주의적 관점
+      - 열광주의의 모든 증상이 '멜랑콜리(Melancholy)'의 증상으로 설명될 수 있다고 봄
+      - 종교적 열광이 성령의 현시가 아니라, 의학적으로 치료되어야 할 질병이라는 점을 강조함으로써 열광주의의 신비성을 제거하려 함
+- 가톨릭 영성에 대한 비판적 동기
+  - 가톨릭의 영성 서적인 《예수의 카트린 수녀의 생애(The Life of Sister Catherine of Jesus)》에 나온 수녀의 신비 체험은 멜랑콜리적 증상일 뿐이라며 불만을 표함
+- 열광주의의 유형별 분석
+  - **예언적 열광주의(Divinatorie Enthusiasme)**: 자연적 예언을 인정하며, 이를 Species & Emanations라는 물질적 기제로 설명했지만, 우울증적 기질의 사람(atrabilious person)이 보이는 특징으로 단정함
+  - **관조적·철학적 열광주의(Contemplative and Philosophicall Enthusiasme)**: 플라톤주의나 신비 신학을 따르는 관조적 철학자들도 열광주의자로 분류했는데, 구체적으로 과도한 관조가 이성을 마비시키고 결국 광기로 몰아넣을 수 있다고 경고했음 (르네 데카르트(René Descartes) 역시 감각과 단절된 채 진리를 찾으려고 했으므로, 이에 해당된다고 비판함)
+  - **엑스터시와 황홀경(Ecstasies and Raptures)**: 상상력이 감정을 자극하여 Voluntary Ecstacy를 일으키는 것이 가능하다고 보며, 자연적 현상에 수반되는 것으로 봄
+- 열광주의 비판의 사회적·정치적 목적
+  - **공공의 평화 유지**: 열광주의에 대한 오해가 공공의 평화를 방해해 왔다고 봄 (팬티 벗고 질주하는 등의 광신적 행동)
+  - **반(反) 가톨릭 및 반(反) 청교도 정서**: 가톨릭의 고행주의나 청교도의 즉흥 기도(extemporaneous prayers)가 실제로는 '멜랑콜리적 질환'의 발현임을 폭로함으로써, 그들의 종교적 권위를 약화시키려 함
+  - 인도적 차원의 제안: 처벌(심문)하기보다는 의사의 진료를 받는 것이 더 인도적임
+
+#### 헨리 모어(Henry More)
+- **《열광주의의 승리(Enthusiasmus Triumphatus)》**: 당시 팽배했던 퀘이커(Quakers)와 같은 종교적 분파와 신비주의자 토머스 본(Thomas Vaughan)에 대한 반격으로 1656년 출간됨
+  - 모어는 기독교를 위협하는 두 적을 '열광주의'와 '무신론'으로 봄
+- 열광주의의 생리적 기제
+  - **동물 정기(Animal Spirits)**: 열광주의의 거처를 **'상상력(Imagination)'**으로 보고, 동물 정기라는 신체 내 물질의 운동이 상상력에 개입한다는 관점을 내세움
+  - **퀘이커의 떨림**: 퀘이커 교도들의 신체적 떨림은 거룩한 두려움이 아니라, 흑담즙에서 발생한 거친 증기가 경동맥(Arteriae Carotides)을 막아 생기는 간질적 증상으로 해석
+  - 방언과 예언: '우연한 일치'나 '세속적인 신중함(ordinary prudence)'의 결과로 보았으며, 멜랑콜리가 초자연적 능력을 부여한다는 르네상스적 믿음을 부정함
+- 참된 열광주의와 거짓된 열광주의의 구분
+  - 플라톤이나 플로티노스의 고결한 열광주의를 **'영혼의 승리(triumph of the Soul)'**라 부르며 옹호
+  - 플라톤주의자로서, **'보증된 열광주의(warrantable Enthusiasme)'**의 기준을 제시함
+    1. **도덕적 보편성**: 그 영성이 특정 집단에만 국한되지 않고 보편적인 선과 겸손을 지향하는가?
+    2. **성경과의 일치**: 신과 직접 소통한다며 그리스도의 중재를 무시하지 않는가?
+    3. **보편적 신중함(Prudence)**: 그 주장이 이성적 토대 위에 있는가?
+- **아스트랄 영(Astral Spirit)**
+  - 신체와 영혼을 잇는 매개체로 **'아스트랄 영'**이라는 개념을 도입
+    - 이 부분이 정화되지 못하고 불순물(멜랑콜리)로 가득 찰 때, 제멋대로인 상상력이 지배하는 '열광주의적 꿈'에 빠지게 된다고 봄
+- 도덕적 책임론
+  - 모어는 개인의 도덕적 과실이 멜랑콜리를 악화시켜 결국 광신으로 이어진다고 주장하며, 의학적 비판을 도덕적 비판과 결합함
