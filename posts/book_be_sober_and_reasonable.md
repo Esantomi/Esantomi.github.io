@@ -1,6 +1,6 @@
 ---
 author: Haein Ji
-title: Enthusiasm and Enlightenment in Europe, 1650-1850
+title: Be Sober and Reasonable
 ---
 
 <div class="menu"><center><i class="fas fa-home"></i><a href="../../"> home</a> | <i class="fas fa-sticky-note"></i><a href="../posts"> posts</a></center></div>
@@ -16,6 +16,7 @@ title: Enthusiasm and Enlightenment in Europe, 1650-1850
     - [헨리 모어(Henry More)](#헨리-모어henry-more)
   - [4. Descartes and the Cartesian Philosophy: A Manifestation of Enthusiasm?](#4-descartes-and-the-cartesian-philosophy-a-manifestation-of-enthusiasm)
   - [5. The New Experimental Philosophy: A Manifestation of "Enthusiasm" or an Antidote to it?](#5-the-new-experimental-philosophy-a-manifestation-of-enthusiasm-or-an-antidote-to-it)
+  - [6. Scripture and Reason: The New Theological Discourse on the Eve of the Enlightenment](#6-scripture-and-reason-the-new-theological-discourse-on-the-eve-of-the-enlightenment)
 
 Heyd, M. (1995). *Be sober and reasonable: the critique of enthusiasm in the seventeenth and early eighteenth centuries* (Vol. 63). Brill.
 
@@ -205,3 +206,47 @@ Heyd, M. (1995). *Be sober and reasonable: the critique of enthusiasm in the sev
   - 이 논쟁은 단순히 과학 방법론에 대한 다툼이 아니라, **왕정복고기(Restoration) 영국 사회의 지적·정치적 기초를 무엇으로 삼을 것인가에 대한 투쟁**이었음
     - **공적 지식과 사적 정신**: 스프랫은 열광주의를 '사적이고 개인주의적인 정신'의 산물로 규정하는 한편, 실험 철학은 여러 과학자의 협력을 필요로 하고 공개적으로 검증 가능한 **'공적(Public)이고 보편적으로 타당한 사업'**임을 강조함
     - **새로운 기초를 제공하는 혁신**: 비평가들은 실험 과학이 기존의 권위(대학, 의사협회, 스콜라주의)를 약화시키는 전복적인 것이라 보았으나, 실험 철학자들은 기존의 사회적, 종교적 질서를 유지하기 위한 '새로운 기초'를 제공하는 의미에서의 혁신이라고 주장함
+
+### 6. Scripture and Reason: The New Theological Discourse on the Eve of the Enlightenment
+- 질문: 열광주의에 대한 비판이 계몽주의 전야에 얼마나 세속화되었으며, 열광주의의 도전 자체가 당시 사회·정치 질서의 이데올로기적 기반을 세속화하는 데 어떤 역할을 했는가?
+  - 17세기 중반(영국 공화정기 등)에 정점에 달했던 열광주의는 1680년대 후반 프랑스 세벤(Cévennes)의 '소예언자들(petits prophètes)' 운동과 1702~1704년 카미사르(Camisard) 반란을 통해 재등장함
+  - 퀘이커(Quakers), 네덜란드 콜레기안트(Collegiants), 경건주의자(Pietists), 라바디(Jean Labadie)와 부리뇽(Antoinette Bourignon)의 추종자들이 이 시기 열광주의 비판의 주된 대상이었음
+- 신학적 논쟁의 성격 변화: '교리'에서 '인가(Authorization)'로
+  - 1660년 이후의 신학적 비판은 이전 시대와 확연히 다른 특징을 보임
+    - 교리 자체에 대한 논쟁이 드물어지는데, 예를 들어 세벤 예언자들의 교리는 오히려 정통 칼뱅주의에 충실했음
+    - 비판의 초점은 그들이 전하는 '내용'이 아니라, 평신도로서 **'직접적인 신성한 영감(Direct Divine Inspiration)'**을 받았다고 주장하는 그 권한(Claim)의 정당성 여부
+- 열광주의와 무신론·이신론의 기묘한 결합
+  - 당시 신학자들은 열광주의를 무신론(Atheism) 및 이신론(Deism)과 연결된 위험 요소로 파악함
+    - **헨리 모어(Henry More)**: 저서 『열광주의의 승리(Enthusiasmus Triumphatus)』에서 무신론과 열광주의가 겉으로는 반대처럼 보이지만, 실제로는 **'멜랑콜리(Melancholy)'**라는 공통된 기질적 토대를 공유한다고 주장함
+    - **반성직주의(Anti-clericalism)**: 열광주의자와 이신론자(예: 매튜 틴달)는 모두 성직자의 권위를 부정하고 평신도와 성직자의 경계를 허물려 한다는 점에서 교회에 동일한 위협이 됨
+    - **성서 권위의 부정**: 비판자들에 따르면, 두 집단 모두 성서를 종교적 문제의 배타적 권위로 인정하지 않고 **'사적 판단(Private Judgment)'**을 전통의 대체물로 세우려 함
+- 사회·정치적 질서에 대한 위협
+  - **평등주의(Levelling Principle)**: 열광주의자들의 '하나님이 모든 육체에 영을 부어 주신다'는 주장은 성직자의 필요성을 부정할 뿐만 아니라, 부유층과 기존 권력 구조에 대항하는 '평등주의적' 위협으로 간주됨
+  - **잉글랜드 내전의 기억**: 비판자들은 **'레벨러(Levellers)'**라는 용어를 사용하여 열광주의가 초래할 '미친 혼란(Mad confusions)'과 사회적 전복의 위험을 경고했는데, **로버트 사우스(Robert South)** 같은 인물은 열광주의자들이 영(Spirit)의 이름으로 왕을 결박하고 사회 질서를 파괴하려 한다고 비판함
+- '영 분별'의 기준 변화
+  - **요한1서 4:1**: "사랑하는 여러분은 자기가 성령을 받았노라고 말하는 사람들을 다 믿지 말고 그들이 성령이라고 주장하는 것이 과연 하느님께로부터 온 것인지 아닌지를 시험해 보십시오. 많은 거짓 예언자가 세상에 나타났기 때문입니다."
+    - **전통적 해석(16세기-17세기 초)**: 루터와 칼뱅 등 종교개혁자들은 '영'을 '교리'와 동일시하여, 그들이 가르치는 **내용(Doctrinal content)**이 성서적 정통성과 일치하는가가 거짓 예언자를 구분하는 기준이었음
+    - **새로운 해석(17세기 말-18세기 초)**: 세벤의 예언자들이나 프랑스 예언자들은 교리적으로는 정통 칼뱅주의를 따랐기 때문에, 교리만으로는 그들을 비판할 수 없었으며, 따라서 그들이 신성한 영감을 받았다고 주장하는 방식(The claim to inspiration) 그 자체의 신빙성으로 비판의 초점이 옮겨 감
+      - "그 영감이 정말 하나님으로부터 온 것인가, 아니면 본인의 환상(Fancy)이나 기만인가?"
+- 기적(Miracles)과 증거의 과학화
+  - **기적 중지론(Cessation of Miracles)**: 정통 개신교 신학자들은 사도 시대 이후 기적은 그쳤다는 원칙을 고수하며, 당대의 열광주의자들이 행한다는 기적이나 예언을 부정함
+  - **과학적 검증의 도입**: 새로운 실험 과학의 영향으로 기적에 대한 '공적 증거'와 '검증 가능성'이 중시됨 (e.g. 1708년 에임스 박사(Dr. Emes)의 부활 예언이 실패하자, 비판자들은 이를 열광주의의 허구성을 증명하는 결정적 사례로 조롱함)
+  - **자연주의적 설명**: 신학자들은 초자연적 기적으로 보이는 현상들에 대해 원인을 알 수 없더라도 **자연적 원인(Natural causes)**이 있을 것이라고 설명하기 시작함
+- 신앙의 판단자로서의 이성의 부상
+  - 이 시기, **'이성'**이 성서와 나란히 '영 분별'의 최고 기준으로 등극함
+    - 신학자들은 이성과 성서가 서로 충돌하는 것이 아니라, 열광주의에 맞서 사회·종교 질서를 수호하는 두 개의 기둥이라고 봄
+    - **존 로크(John Locke)의 영향**: 로크는 『인간 지성론』에서 "무엇이 신의 계시인지는 이성이 판단해야 한다"고 명시하며, 이성을 '모든 것의 최종적인 판단자이자 안내자'로 설정함
+    - **이성의 공공성(Public Criterion)**: 열광주의의 주관적이고 사적인 확신에 맞서기 위해, 모든 사람에게 공통된 **'공적 표준으로서의 이성'**이 강조됨
+- 개인적 판단 권리의 확립
+  - 누가 영을 시험할 권한이 있는가에 대한 논의도 변화함
+    - 과거에는 교회의 공적 심사가 중요했으나, 이제는 모든 그리스도인이 스스로 영을 시험할 **'양도할 수 없는 고유한 판단 권리'**를 가진다는 주장이 힘을 얻음
+- '진정한 예언'의 심리적·지성적 모델
+  - 존 스미스(John Smith)의 합리적 예언론
+  - 에드워드 스틸링플릿(Edward Stillingfleet)의 전통적 접근
+- 성령의 작용에 대한 '지성주의적' 해석
+  - 17세기 말 개신교 신학자들은 성령의 일반적인 작용을 매우 인지적이고 심리학적인 용어로 설명하기 시작함
+    - 성령이 인간을 회심시키는 과정을 더 이상 추상적이거나 신비로운 방식으로만 보지 않고, 인간의 인지 체계와 심리 구조 안에서 일어나는 변화로 설명함
+    - 사무엘 투레틴(Samuel Turrettin)
+- 신학적 담론의 변모
+  - 전통적인 성서 권위에 개인적 이성을 추가하고, 새로운 실험 과학의 증거 방법론을 도입함
+  - 이러한 변화는 결과적으로 종교적 비판의 근거를 신비의 영역에서 합리적·자연적 영역으로 옮겼으며, 이는 18세기 계몽주의로 나아가는 중요한 지적 토대가 됨
