@@ -14,6 +14,7 @@ title: Enthusiasm and Enlightenment in Europe, 1650-1850
   - [3. Strange, But Natural Effects: The Medical Critique of Enthusiasm in the Works of Meric Casaubon and Henry More](#3-strange-but-natural-effects-the-medical-critique-of-enthusiasm-in-the-works-of-meric-casaubon-and-henry-more)
     - [메릭 카조봉(Méric Casaubon)](#메릭-카조봉méric-casaubon)
     - [헨리 모어(Henry More)](#헨리-모어henry-more)
+  - [4. Descartes and the Cartesian Philosophy: A Manifestation of Enthusiasm?](#4-descartes-and-the-cartesian-philosophy-a-manifestation-of-enthusiasm)
 
 Heyd, M. (1995). *Be sober and reasonable: the critique of enthusiasm in the seventeenth and early eighteenth centuries* (Vol. 63). Brill.
 
@@ -114,7 +115,7 @@ Heyd, M. (1995). *Be sober and reasonable: the critique of enthusiasm in the sev
 - 열광주의 비판의 사회적·정치적 목적
   - **공공의 평화 유지**: 열광주의에 대한 오해가 공공의 평화를 방해해 왔다고 봄 (팬티 벗고 질주하는 등의 광신적 행동)
   - **반(反) 가톨릭 및 반(反) 청교도 정서**: 가톨릭의 고행주의나 청교도의 즉흥 기도(extemporaneous prayers)가 실제로는 '멜랑콜리적 질환'의 발현임을 폭로함으로써, 그들의 종교적 권위를 약화시키려 함
-  - 인도적 차원의 제안: 처벌(심문)하기보다는 의사의 진료를 받는 것이 더 인도적임
+  - **인도적 차원의 제안**: 처벌(심문)하기보다는 의사의 진료를 받는 것이 더 인도적임
 
 #### 헨리 모어(Henry More)
 - **《열광주의의 승리(Enthusiasmus Triumphatus)》**: 당시 팽배했던 퀘이커(Quakers)와 같은 종교적 분파와 신비주의자 토머스 본(Thomas Vaughan)에 대한 반격으로 1656년 출간됨
@@ -134,3 +135,37 @@ Heyd, M. (1995). *Be sober and reasonable: the critique of enthusiasm in the sev
     - 이 부분이 정화되지 못하고 불순물(멜랑콜리)로 가득 찰 때, 제멋대로인 상상력이 지배하는 '열광주의적 꿈'에 빠지게 된다고 봄
 - 도덕적 책임론
   - 모어는 개인의 도덕적 과실이 멜랑콜리를 악화시켜 결국 광신으로 이어진다고 주장하며, 의학적 비판을 도덕적 비판과 결합함
+
+### 4. Descartes and the Cartesian Philosophy: A Manifestation of Enthusiasm?
+- 데카르트의 열광주의자 의혹
+  - 데카르트가 로지크루시안(Rosicrucian, 장미십자회)과 연결되어 있다는 소문
+  - **우트레흐트 논쟁(Debates held in Utrecht)**: 우트레흐트 대학교의 신학자 **히스베르트 푸치우스(Gisbert Voetius)**와 그의 제자 **마르틴 쇼크(Martin Schoock)**가 주도함
+    - 푸치우스는 데카르트가 물리학을 수학화하려는 시도(즉, 양과 형상에 물리적 효율성을 부여하는 것)가 **마법(Magic)**과 **피타고라스적 자연관**(the magical and Pythagorean view of nature)의 냄새를 풍긴다고 비판함
+    - 쇼크는 1643년 저술한 **『새로운 데카르트 철학의 경이로운 방법(Admiranda Methodus Novae Philosophiae Renati Descartes)』**에서 데카르트의 방법론이 회의주의, 열광주의, 무신론, 그리고 광기로 이어진다고 명시적으로 공격함
+      - 쇼크는 데카르트가 기하학과 대수학으로 모든 지식의 열쇠를 찾으려는 모습이, 수학을 통해 성경의 신비를 풀려 했던 신비주의자 **요한 파울하버(Johann Faulhaber)**와 유사하다고 봄 (실제로 데카르트는 파울하버와 젊은 시절 교류함)
+- 데카르트의 인식론에 대한 '주관주의'적 독해
+  - **감각의 거부와 고립**
+    - 비판자들은 데카르트가 감각을 불신하고 오직 정신 내부의 '관념'에만 의존하라고 가르치는 점을 지적함
+    - 쇼크와 푸치우스는 감각이야말로 지식의 공공성과 현실성을 보장하는 필수 요소라고 믿었기에, 이를 거부하는 데카르트의 방식이 개인의 **주관적인 망상(Fancy)**을 진리로 착각하게 만든다고 주장
+  - "나는 생각한다(Ergo sum)"에 대한 조롱
+    - 메릭 카조봉(Meric Casaubon)은 데카르트가 '에르고 숨(Ergo sum)'을 깨닫기 위해 기존의 모든 지식과 감각을 포기해야 한다고 주장하는 것을 비판하며, 이를 스페인의 알룸브라도스(Alumbrados)나 영국의 퀘이커(Quakers) 같은 열광주의 집단의 엑스타시(황홀경)와 다를 바 없다고 보았음
+    - 비판자들은 데카르트가 추론 과정 없이 신의 존재를 직관적으로 깨닫는 방식이 전통적인 신비주의자들의 '내면의 빛'이나 '하나님과의 대화'와 본질적으로 같다고 공격함
+  - 존 서전트(John Sergeant)의 비판
+- 데카르트의 꿈과 병리적 해석
+  - 바이예(Baillet)가 데카르트의 전기를 출판하며 1619년 11월 10일 밤에 데카르트가 꿨던 **세 가지 꿈(Olympica)**의 내용을 공개하자, 비판자들은 이를 데카르트가 열광주의자라는 결정적 증거로 활용함
+    - **신성한 영감의 주장**: 데카르트 스스로 꿈속에서 '놀라운 과학의 토대'를 발견했으며 이것이 하늘에서 온 것이라고 믿었다는 기록은, 그를 직접적인 신성 계시를 주장하는 전형적인 열광주의자로 낙인찍게 함
+    - **멜랑콜리(우울증)와 정신질환**: 위에트 주교(Bishop Huet)는 데카르트의 꿈이 신의 계시가 아니라 멜랑콜리(Melancholy)나 담배, 맥주 등의 연기에 의한 생리적 현상일 뿐이라고 일축함
+    - 조나단 스위프트의 풍자: 『통 이야기(A Tale of a Tub)』에서 스위프트는 데카르트를 정신이 나간 혁신가로 묘사하며, 그가 자신의 주관적인 '환상'을 세상의 이성으로 군림시키려 한다고 비판함
+- 사회적 비판: 공동체와 전통에 대한 위협
+  - **개인주의와 권위주의의 결합**: 데카르트의 방법론은 과거의 모든 권위를 부정하고 개인의 '자연의 빛'에만 의존하는데, 비판자들은 데카르트가 전통을 거부하면서도 동시에 자신의 결론이 절대적으로 확실하다고 주장하는 태도에서, 스스로를 신탁처럼 떠받드는 열광주의자들의 전형적인 독단과 오만을 봄
+  - **대학교와 도서관의 무용론**: 메릭 카조봉은 데카르트의 설계가 성공할 경우, 모든 책과 학습이 쓸모없어지고 대학교와 도서관이 사라질 것이라고 경고함
+  - **은둔과 비밀주의**: 피에르 쁘띠(Pierre Petit)는 고립된 장소에서 명상하는 모습이 종파의 교주와 같다고 조롱함
+- **니콜라-조제프 프와송(Nicolas-Joseph Poisson)**의 변론
+  - 데카르트의 합리주의가 오히려 열광주의에 대한 가장 강력한 해독제라고 반박함
+    - 합리주의: 프와송은 로지크루시안(장미십자회)을 오히려 경험주의자들로 규정하며, 데카르트가 이성적인 추론을 중시하는 반면, 열광주의자들은 환상과 경험에만 의존한다고 주장하며 양자를 엄격히 구분함
+    - 은밀한 성질(Occult Qualities)의 거부: 데카르트는 신비주의적 개념을 철저히 배격했다는 점을 강조함
+    - 종교적 순응: 데카르트는 자신의 저작을 항상 교회의 판단에 맡기는 등 매우 경건하고 합리적인 태도를 유지했다고 변호
+- 결론과 함의
+  - 데카르트에게 '열광주의'라는 라벨을 붙인 사람들에게 이성이란 **'전통적인 학습과 공동체의 상식'**에 기반한 것이었음
+  - 오늘날 데카르트는 근대 합리주의의 승리자로 기억되지만, 그가 살았던 시대의 보수적 지식인들에게 그는 **'자신의 환상을 이성으로 착각한 위험한 신비주의자'**에 불과했음
+  - 프와송은 영국의 왕립학회(Royal Society)와 같은 실험 과학 집단이야말로 로지크루시안과 비슷한 '경험주의적 열광주의'에 가깝다고 의심하며, 데카르트의 연역적 합리주의가 훨씬 더 건전한 방식임을 역설함
