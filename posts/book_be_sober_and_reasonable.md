@@ -17,6 +17,7 @@ title: Be Sober and Reasonable
   - [4. Descartes and the Cartesian Philosophy: A Manifestation of Enthusiasm?](#4-descartes-and-the-cartesian-philosophy-a-manifestation-of-enthusiasm)
   - [5. The New Experimental Philosophy: A Manifestation of "Enthusiasm" or an Antidote to it?](#5-the-new-experimental-philosophy-a-manifestation-of-enthusiasm-or-an-antidote-to-it)
   - [6. Scripture and Reason: The New Theological Discourse on the Eve of the Enlightenment](#6-scripture-and-reason-the-new-theological-discourse-on-the-eve-of-the-enlightenment)
+  - [7. The New Medical Discourse and the Theological Critique of Enthusiasm](#7-the-new-medical-discourse-and-the-theological-critique-of-enthusiasm)
 
 Heyd, M. (1995). *Be sober and reasonable: the critique of enthusiasm in the seventeenth and early eighteenth centuries* (Vol. 63). Brill.
 
@@ -250,3 +251,38 @@ Heyd, M. (1995). *Be sober and reasonable: the critique of enthusiasm in the sev
 - 신학적 담론의 변모
   - 전통적인 성서 권위에 개인적 이성을 추가하고, 새로운 실험 과학의 증거 방법론을 도입함
   - 이러한 변화는 결과적으로 종교적 비판의 근거를 신비의 영역에서 합리적·자연적 영역으로 옮겼으며, 이는 18세기 계몽주의로 나아가는 중요한 지적 토대가 됨
+
+### 7. The New Medical Discourse and the Theological Critique of Enthusiasm
+- 질문: 17세기 후반에서 18세기 초반, 열광주의(Enthusiasm)에 대한 비판이 전통적인 신학적 관점에서 새로운 의학적 담론으로 어떻게 변화했는가?
+  - 열광주의 비판의 '의학화'와 '세속화'
+    - **의학화(Medicalization)**: 열광주의를 신학적 오류가 아닌 신체적 질병으로 규정하기 시작함
+    - **세속화(Secularization)**: 18세기 초에 이르러 일부 성직자들은 이 문제를 신학자가 아닌 의사의 영역으로 넘기려는 경향을 보임
+- 갈레노스 체액설의 쇠퇴와 기계론적 철학의 등장
+  - 17세기 중반까지는 멜랑콜리(우울증)를 설명할 때 **갈레노스(Galenus)의 4체액설(Humor theory)**이 지배적이었음
+  - 버튼(Burton), 카조봉(Casaubon), 헨리 모어(Henry More) 같은 비판자들도 이에 바탕함
+  - **'이아트로화학자(iatro-chemists)'**들의 공격으로 체액설이 흔들리기 시작함
+  - 흑담즙(black bile)의 존재가 의심받게 되자, 멜랑콜리는 원인론적 정의에서 증상론적 정의로 변함
+    - 데카르트(René Descartes)와 같은 기계론적 철학자들은 체액설을 거의 무시하거나 거부하며, 신체를 하나의 기계로 보는 관점을 제시함
+- **동물 정기(Animal Spirits)**
+  - 체액설이 쇠퇴하면서 멜랑콜리와 열광주의를 설명하는 가장 중요한 개념
+  - 17세기 의학자들은 동물 정기의 오작동을 멜랑콜리의 능동적인 원인으로 보기 시작함
+    - 데카르트는 동물 정기를 혈액에서 유래한 작고 민첩한 물질적 입자(corpuscles)로 봄
+    - 옥스퍼드 교수 토마스 윌리스(Thomas Willis)는 화학적 해석과 기계론적 해석을 결합함
+- 성직자들의 의학적 논거 수용과 활용
+  - 17세기 후반 성직자들은 열광주의를 비판할 때 당대의 최신 의학 이론을 적극적으로 도입함
+    - **헨리 와튼(Henry Wharton)**: 가톨릭 교회를 비판하며 열광주의자들을 '멜랑콜리 환자'로 규정함 ("Irregular motions of the blood, turbulent animal spirits and vapours arising from the stomach"을 멜랑콜리의 원인으로 지목함)
+- 열광주의의 심리-신체적 순환 구조
+  - 비판자들은 상상력과 신체 기능 사이의 **'상호적 혹은 순환적 관계'**에 주목함
+    - 열광주의자가 특정 대상에 지나치게 몰입하거나 명상을 하면 혈액 속에 거대한 발효가 일어나고, 이것이 뇌로 증기를 전달하여 상상력을 더욱 강렬하고 혼란스럽게 만든다고 봄
+- 집단적 전염과 '방사물(Effluvia)' 이론
+  - **입자적 해석**: 퀘이커교도였던 조지 키스(George Keith)는 입자 철학을 인용하여, 한 사람의 영감이 **'미세한 입자들의 방사(Effluvia)'**를 통해 다른 사람에게 전달된다고 주장하며, 동물 정기가 신체 내부의 매개체일 뿐만 아니라 사람들 사이의 대인적 매개체 역할도 한다고 봄
+- 사회적·정치적 함의: 전문가의 영역 분리
+  - 영혼의 구원은 성직자가, 신체의 치료는 의사가 담당한다는 명확한 구분이 생김
+    - 로버트 사우스(Robert South)는 열광주의의 최선의 치료법은 예언이나 약속이 아닌 의사의 하제(설사약) 복용이나 방혈(피를 뽑는 것)이라고 강조함
+    - 성직자들이 자신의 신학적 훈련 범위를 벗어난 세속적 학문(의학)에 의존하고 권위를 위임한 것은 계몽주의 전야의 종교적 감수성의 세속화를 보여 줌
+- 열광주의자들과 이신론자들의 입장
+  - **열광주의자들의 수용**: 리처드 벌클리(Richard Bulkeley) 경과 같은 지지자들은 예언의 생리적 측면을 부정하지 않고, 신성한 영이 신체적 수단(멜랑콜리나 경련)을 사용하여 목적을 달성한다고 믿음
+  - **파시오 드 뒤리에(Fatio de Duillier)**: 뉴턴의 친구이자 과학자였던 뒤리에는 예언을 '물질이 특정 단계까지 고양되어 미래를 예측하는 능력을 갖게 되는 것'으로 설명하며, 물질주의적 계통과 영적 영감을 결합하려 함
+  - **이신론자(Deists)의 위협**: 샤프츠버리(Shaftesbury)와 같은 이신론자들은 성직자들이 사용한 의학적 논거를 역으로 이용해, 현대의 영감과 성경 속 예언 사이의 구분을 무너뜨림으로써, 성경적 계시 자체의 정당성을 약화시키려 함
+- 17세기 후반의 열광주의 비판은 체액설에서 기계론적 입자 철학으로의 의학적 패러다임 변화를 반영함
+  - 성직자들은 동물 정기와 상상력의 상호작용이라는 의학적 모델을 통해 열광주의를 질병으로 규정함으로써 종교적 열광을 통제하려 했음
