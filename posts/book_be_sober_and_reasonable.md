@@ -18,6 +18,7 @@ title: Be Sober and Reasonable
   - [5. The New Experimental Philosophy: A Manifestation of "Enthusiasm" or an Antidote to it?](#5-the-new-experimental-philosophy-a-manifestation-of-enthusiasm-or-an-antidote-to-it)
   - [6. Scripture and Reason: The New Theological Discourse on the Eve of the Enlightenment](#6-scripture-and-reason-the-new-theological-discourse-on-the-eve-of-the-enlightenment)
   - [7. The New Medical Discourse and the Theological Critique of Enthusiasm](#7-the-new-medical-discourse-and-the-theological-critique-of-enthusiasm)
+  - [8. Shaftesbury and the Limits of Toleration Concerning Enthusiasm](#8-shaftesbury-and-the-limits-of-toleration-concerning-enthusiasm)
 
 Heyd, M. (1995). *Be sober and reasonable: the critique of enthusiasm in the seventeenth and early eighteenth centuries* (Vol. 63). Brill.
 
@@ -41,7 +42,7 @@ Heyd, M. (1995). *Be sober and reasonable: the critique of enthusiasm in the sev
   3. 외적 행동 (**신체적 황홀경과 경련**): 불링거는 이러한 모습이 마치 '간질(falling sickness)' 환자의 증상과 유사하다고 묘사
 - 17세기 네덜란드 신학자들의 비판
   - 1640년대 중반, 영국 혁명이 급진화되면서 열광주의에 대한 신학적 논쟁은 더욱 정교해짐
-  - **프리드리히 스판하임(Friedrich Spanheim)**: 열광주의자를 '마귀적, 우울질적, 혹은 자발적인 환상에 의해 자신과 타인을 속여, 이를 신적 계시라고 주장하는 광신자'로 정의함
+  - **프리드리히 스판하임(Friedrich Spanheim)**: 열광주의자를 '악마적, 우울질적, 혹은 자발적인 환상에 의해 자신과 타인을 속여, 이를 신적 계시라고 주장하는 광신자'로 정의함
   - **요하네스 호른베이크(Johannes Hoornbeek)**: 모든 신자에게 나타나는 성령의 일반적 역사로서 신적 열광(Ordinary Divine)과 달리, 거짓 열광(Negative/Diabolic)은 악마적 기원을 가짐
 - 열광주의 비판의 핵심: **무슨 권한으로 말하는가**
   - 신학자들은 "사랑하는 여러분은 자기가 성령을 받았노라고 말하는 사람들을 다 믿지 말고 그들이 성령이라고 주장하는 것이 과연 하느님께로부터 온 것인지 아닌지를 시험해 보십시오. 많은 거짓 예언자가 세상에 나타났기 때문입니다."(요한1서 4:1)를 구호로 삼음
@@ -54,7 +55,7 @@ Heyd, M. (1995). *Be sober and reasonable: the critique of enthusiasm in the sev
     - 재세례파가 독일의 도시 뮌스터에서 신정정치를 세우려던 시도
     - 신학자들은 재세례파 열광주의자들이 뮌스터에서 일으킨 참혹한 사건을 열광주의 교리가 초래할 수 있는 가장 끔찍한 종교적, 도덕적 결과의 전형으로 제시함
 - 열광주의에 대한 세 가지 설명
-  1. **마귀론적 설명(Demonological Account)**: 가장 보편적인 설명으로, 루터는 츠비카우 예언자들의 배후에 마귀가 있다고 보았음
+  1. **악마론적 설명(Demonological Account)**: 가장 보편적인 설명으로, 루터는 츠비카우 예언자들의 배후에 악마가 있다고 보았음
   2. **의학적 설명(Medical Account)**: 그들이 주장하는 영감이나 예언은 사실 우울질(melancholy)이라는 질병의 신체적 증상일 뿐이라고 분석함
   3. **정치적/고의적 기만(Voluntary Illusions)**: 불순한 목적을 달성하기 위해 의도적으로 신적 영감을 받은 척 연기하는 사기꾼(Cheats)으로 묘사함
 - 중보(Mediation)의 방어
@@ -278,7 +279,7 @@ Heyd, M. (1995). *Be sober and reasonable: the critique of enthusiasm in the sev
   - **입자적 해석**: 퀘이커교도였던 조지 키스(George Keith)는 입자 철학을 인용하여, 한 사람의 영감이 **'미세한 입자들의 방사(Effluvia)'**를 통해 다른 사람에게 전달된다고 주장하며, 동물 정기가 신체 내부의 매개체일 뿐만 아니라 사람들 사이의 대인적 매개체 역할도 한다고 봄
 - 사회적·정치적 함의: 전문가의 영역 분리
   - 영혼의 구원은 성직자가, 신체의 치료는 의사가 담당한다는 명확한 구분이 생김
-    - 로버트 사우스(Robert South)는 열광주의의 최선의 치료법은 예언이나 약속이 아닌 의사의 하제(설사약) 복용이나 방혈(피를 뽑는 것)이라고 강조함
+    - **로버트 사우스(Robert South)**: 열광주의의 최선의 치료법은 예언이나 약속이 아닌 의사의 하제(설사약) 복용이나 방혈(피를 뽑는 것)이라고 강조함
     - 성직자들이 자신의 신학적 훈련 범위를 벗어난 세속적 학문(의학)에 의존하고 권위를 위임한 것은 계몽주의 전야의 종교적 감수성의 세속화를 보여 줌
 - 열광주의자들과 이신론자들의 입장
   - **열광주의자들의 수용**: 리처드 벌클리(Richard Bulkeley) 경과 같은 지지자들은 예언의 생리적 측면을 부정하지 않고, 신성한 영이 신체적 수단(멜랑콜리나 경련)을 사용하여 목적을 달성한다고 믿음
@@ -286,3 +287,43 @@ Heyd, M. (1995). *Be sober and reasonable: the critique of enthusiasm in the sev
   - **이신론자(Deists)의 위협**: 샤프츠버리(Shaftesbury)와 같은 이신론자들은 성직자들이 사용한 의학적 논거를 역으로 이용해, 현대의 영감과 성경 속 예언 사이의 구분을 무너뜨림으로써, 성경적 계시 자체의 정당성을 약화시키려 함
 - 17세기 후반의 열광주의 비판은 체액설에서 기계론적 입자 철학으로의 의학적 패러다임 변화를 반영함
   - 성직자들은 동물 정기와 상상력의 상호작용이라는 의학적 모델을 통해 열광주의를 질병으로 규정함으로써 종교적 열광을 통제하려 했음
+
+### 8. Shaftesbury and the Limits of Toleration Concerning Enthusiasm
+- 시대적 배경과 샤프츠버리의 등장
+  - **시대적 배경**: 1707년 여름, 영국은 **'프랑스 예언자들(French Prophets)'**이라 불리는 집단이 일으킨 종교적 열기로 소란스러운 상태였음
+  - **《열광주의에 관한 서한(Letter Concerning Enthusiasm)》**: 1707년 후반, 제3대 샤프츠버리 백작인 앤서니 애슐리 쿠퍼가 집필함
+    - 이 서한은 열광주의에 대해 매우 관대한 태도를 촉구하면서도, 그 이면에 **이신론(Deism)적 함의**를 담고 있어 당시 지성계에 큰 폭풍을 몰고 왔음
+  - 1689년 관용법(Toleration Act)의 한계
+    - 1689년의 관용법은 비국교도(Nonconformists)들에게 제한적인 관용을 베풀었으나, 가톨릭교도와 삼위일체 부정론자(Anti-Trinitarians)는 제외함
+    - 1702년 앤 여왕 즉위 이후, 토리당(Tories)과 고교회파(High Church)는 관용 정책을 축소하려 압박함
+- **샤프츠버리 백작(Anthony Ashley Cooper, 3rd Earl of Shaftesbury)**
+  - 제1대 샤프츠버리 백작의 손자로, **존 로크(John Locke)**에게 교육을 받음
+  - 스스로를 '로마 공화주의자(Roman Commonwealthman)'로 규정했으며, 관용을 옹호하는 컨트리 휘그(Country Whigs) 진영의 대변인이었음
+  - 로크의 제자였음에도 불구하고, 샤프츠버리는 1690년대부터 케임브리지 플라톤주의자들의 영향을 깊게 받음
+  - 열광주의에 대한 '의학적 비판'을 받아들여, 우울질(Melancholy)의 문제로 봄
+- 열광주의에 대한 샤프츠버리의 급진적 해석
+  - 종교 자체를 **'패닉(pannick)'**으로 규정
+    - 의학적 분석을 단순히 열광주의자들에게만 적용한 것이 아니라, **'종교 일반'**으로 확대하여, 종교적 열망을 일종의 집단적 패닉으로 봄
+      - 구약과 신약의 예언자들이 보여준 신체적 증상(황홀경, 동요 등)이 당대의 프랑스 예언자들이나 고대 이교도들의 증상과 본질적으로 다르지 않다고 주장함
+      - 처벌, 치료 대신 '관용(toleration)'을 주장하며, 형벌로 다스리려 하면 오히려 그 증세가 악화되고 '순교자적 열기'만 더해질 뿐이라고 함
+- 열광주의의 해소 방안
+  - **'농담(Raillery)'**: 열광주의를 다스리는 가장 효과적인 방법이 진지한 박해나 의학적 처치(수술, 절제 등)가 아니라, '농담(Raillery)'이라고 주장함
+  - **좋은 기분(Good Humour)**: '우울한 기질(Melancholic Humour)'에 대응하는 최고의 항암제는 바로 '훌륭한 기분(Good Humour)'이라고 주장함
+    - 1707년 바르톨로뮤 시장(Bart'lemy-Fair)에서 프랑스 예언자들을 익살스럽게 풍자한 꼭두각시 연극이 감옥에 가두는 것보다 훨씬 효과적인 치유책이라고 언급함
+- **평온한 열광(Serene Enthusiasm)**
+  - 《도덕론자들(The Moralists)》에서 천박하고 야만적인 '현대 열성당원'들의 열광과, 고대 시인들처럼 부드럽고 조화로운 **'평온한 열광'**을 사회적·심리적으로 구분함
+  - 플라톤주의 전통을 계승하여, 위대한 시인이 창작을 할 때 느끼는 '신성한 현존에 대한 상상' 역시 일종의 열광주의라고 정의함
+- 샤프츠버리의 서한에 대한 당대의 반격
+  - 출판되자마자 이신론(Deism)적 공격으로 간주되어 교회 세력(광교회파, 고교회파 모두 포함)으로부터 거센 반발을 샀음
+    - 에드워드 파울러(Edward Fowler), 사무엘 파커(Samuel Parker), 메리 아스텔 (Mary Astell) 등이 주된 비판자
+    - 비판의 핵심 논리: "구원의 문제는 장난이 아니다"
+      - **구원론적 가치의 경시 비판**: 비판자들은 샤프츠버리가 종교를 '웃음거리'로 다루는 것이 영혼의 '구원(Salvation)'이라는 중대한 문제를 간과하고 있다고 지적함
+      - **성서적 권위 방어**: 샤프츠버리가 현대의 광신도와 성서의 예언자를 동일시하자, 교교회 인사들은 '신성한 영감'을 검증할 확실한 기준(성서적 일치, 기적 등)이 존재한다고 재차 강조함
+      - **사회적 질서 위협**: 메리 아스텔은 기존 종교를 대중의 조롱거리로 만드는 행위가 공공의 평화와 국가 질서를 유지하는 기반을 무너뜨리는 행위라고 비판함
+- 악마론(Demonology)의 부활
+  - 샤프츠버리의 급진적 '의학적 비판'은 역설적으로 사라져가던 '악마론적 해석'을 다시 불러일으킴
+    - 열광주의를 단순히 신체적 질병(우울증)으로만 보게 되면, 성서 속의 거룩한 영적 경험마저 생물학적 현상으로 격하될 위험이 있음
+    - **악마적 열광(Daemoniacal Enthusiasm)**: 에드워드 파울러 같은 인물들은 프랑스 예언자들이 보여주는 기이한 현상(갑자기 라틴어를 구사하는 등)은 단순한 뇌의 과열이 아니라 '악령의 개입'으로 설명해야 한다고 주장함
+      - 하나님이 불신자들을 시험하거나 보이지 않는 존재의 실제성을 깨닫게 하기 위해 사탄의 개입을 허용했다는 17세기 신학적 논리로의 회귀를 의미함
+- 샤프츠버리의 서한은 17세기적 열광주의 비판(의학적·정치적 비판)을 계승하면서도, 이를 이신론적 관용과 심리학적 주관주의로 밀어붙임으로써 계몽주의 시대로 넘어가는 가교 역할을 수행함
+  - 당대 사회에 "어디까지 관용할 것인가?"라는 심각한 질문을 던지게 됨
