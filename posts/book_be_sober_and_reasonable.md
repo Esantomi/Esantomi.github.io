@@ -19,6 +19,7 @@ title: Be Sober and Reasonable
   - [6. Scripture and Reason: The New Theological Discourse on the Eve of the Enlightenment](#6-scripture-and-reason-the-new-theological-discourse-on-the-eve-of-the-enlightenment)
   - [7. The New Medical Discourse and the Theological Critique of Enthusiasm](#7-the-new-medical-discourse-and-the-theological-critique-of-enthusiasm)
   - [8. Shaftesbury and the Limits of Toleration Concerning Enthusiasm](#8-shaftesbury-and-the-limits-of-toleration-concerning-enthusiasm)
+  - [9. Mechanism and Enthusiasm: From Explicit Antagonism to Implicit Alliance](#9-mechanism-and-enthusiasm-from-explicit-antagonism-to-implicit-alliance)
 
 Heyd, M. (1995). *Be sober and reasonable: the critique of enthusiasm in the seventeenth and early eighteenth centuries* (Vol. 63). Brill.
 
@@ -327,3 +328,35 @@ Heyd, M. (1995). *Be sober and reasonable: the critique of enthusiasm in the sev
       - 하나님이 불신자들을 시험하거나 보이지 않는 존재의 실제성을 깨닫게 하기 위해 사탄의 개입을 허용했다는 17세기 신학적 논리로의 회귀를 의미함
 - 샤프츠버리의 서한은 17세기적 열광주의 비판(의학적·정치적 비판)을 계승하면서도, 이를 이신론적 관용과 심리학적 주관주의로 밀어붙임으로써 계몽주의 시대로 넘어가는 가교 역할을 수행함
   - 당대 사회에 "어디까지 관용할 것인가?"라는 심각한 질문을 던지게 됨
+
+### 9. Mechanism and Enthusiasm: From Explicit Antagonism to Implicit Alliance
+- 17세기 후반, 18세기 초반의 기계론적 자연철학(Mechanical Philosophy)과 열광주의(Enthusiasm) 사이의 복잡한 관계 변화
+  - 기계론은 본래 열광주의를 억제하기 위한 '해독제'로 고안되었으나, 이후 기계론적 세계관과 열광주의적 종교 체험이 결합되는 독특한 양상이 나타남
+- 17세기 후반: 열광주의의 해독제로서의 기계론
+  - 자연을 엄격하게 물질과 운동의 관점에서만 바라보는 기계론은, 자연 속에서 숨겨진 신성한 진리를 발견하거나 직접적인 신의 영감을 얻으려는 시도를 차단함
+  - 데카르트 등 유럽의 철학자들은 영적인 것과 자연적인 것을 철저히 분리하고, 신학과 철학 사이의 경계를 명확히 하기 위해 기계론을 수용함
+    - 대륙과 달리 영국의 자연철학자들은 실험철학을 종교적 관심사와 완전히 분리하지 않았음 (e.g. 로버트 보일)
+- **아이작 뉴턴(Isaac Newton)**
+  - 초기에서 중기로의 변화
+    - 초기(1660-1670년대): 뉴턴은 에테르(Aether)라는 미세한 입자의 기계적 작용으로 중력을 설명하려 시도함
+    - 중기(1680년대 이후): 1680년경을 기점으로 뉴턴은 기계적 에테르 가설을 포기하고 **'원거리 작용(Action at a distance)'** 개념을 채택하며 동역학적 관점으로 전환함
+    - 1687년부터 1713년 사이의 뉴턴은 중력의 직접적인 원인을 **'신의 의지'**로 보며, 물리적 법칙의 핵심에 신의 직접적인 개입을 재도입함
+  - 뉴턴과 열광주의의 거리두기
+    - 뉴턴은 헨리 모어(Henry More)처럼 열광주의에 대해 냉담한 태도를 유지함
+    - 뉴턴에게 신은 자연 법칙을 통해 자신을 드러내는 존재였으며, 이는 무신론적 기계론과 초자연적 열광주의를 동시에 반박하는 **자연 신학(Natural Theology)**의 기초가 됨
+- **니콜라 파티오 드 뒤리에(Nicolas Fatio de Duillier)**
+  - 뉴턴의 제자로, 기계론과 열광주의가 어떻게 한 개인 안에서 공존할 수 있는지를 보여주는 극적인 사례임
+    - 파티오는 데카르트적 배경을 바탕으로 중력을 미세한 에테르 입자의 충돌로 설명하려는 독창적인 기계론적 모델을 평생에 걸쳐 연구함
+    - 1706년 런던에 도착한 '프랑스 예언자들(French Prophets)'이라는 극단적 열광주의 집단에 매료되어 그들의 대변인이 되었고, 학술적 파탄을 맞이함
+      - 자신의 기계론적 이론 자체가 **'신의 직접적인 계시'**이며, 열광주의자들의 예언과 보완 관계에 있다고 믿음
+- **조르주-루이 르 사주(George-Louis Le Sage)**
+  - 제네바의 학자 르 사주(1724–1803)는 파티오 드 뒤리에의 아이디어를 계승하여 이를 더욱 정교한 체계로 발전시킴
+    - **Ultramundane Particles**: 르 사주는 우주가 빛보다 빠른 속도로 움직이는 극도로 작은 원자들로 가득 차 있다고 가정함
+    - **Gravitational Shadow**: 두 물체가 멀리 떨어져 있을 때는 Ultramundane 입자들이 모든 방향에서 균등하게 압력을 가해 평형을 유지하지만, 두 물체가 가까워지면 서로가 입자를 가로막는 '차폐' 역할을 하게 되어, 두 물체 사이에는 입자의 압력이 줄어드는 **'중력의 그림자(Gravitational shadow)'**가 형성되고, 그 결과, 바깥쪽에서 가해지는 입자의 압력이 더 커지기 때문에 두 물체는 서로 밀려나듯 가까워지게 된다고 봄
+  - 르 사주의 변호
+    - 과학은 명확하고 뚜렷한 이성을 따르지만, 신앙은 '거룩한 모호함' 속에 존재한다고 보았고, 이러한 분리 덕분에, 과학자가 과학적으로는 완벽하게 합리적이면서도 종교적으로는 환상을 보거나 계시를 믿는 '열광주의적' 태도를 취하는 것이 모순되지 않는다고 주장함
+    - 위대한 과학자들 중에도 열광주의적 면모를 보인 인물이 많다는 목록을 작성하여 파티오를 방어함 (e.g. 데카르트, 파스칼, 뉴턴, 스베덴보리 등)
+  - 기계론의 변용
+    - **특별 섭리(Particular Providence)**: 아주 미세한 입자들의 움직임 속에 모든 사건이 이미 계획되어 있다는 방식으로 '특별 섭리'를 설명하며, 뉴턴과 달리 신이 직접 개입할 필요가 없다고 주장함
+    - **기적의 예정설**: 기적이 자연 법칙을 깨뜨리는 신의 갑작스러운 개입이 아니라, 창조 시점에 이미 기계적 질서 안에 '예정'되어 있던 사건이라고 봄
+- 기계론적 세계관 안에서 영성과 열광주의를 포용하려 했던 시도는 이후 **18세기 후반 낭만주의적 태도로 이어지는 징검다리 역할**을 수행함
