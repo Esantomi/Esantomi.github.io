@@ -16,7 +16,6 @@ title: Posts
 ## Fun
 노는 게 제일 좋습니다. 다음은 제가 즐긴 기록입니다.
 
-- [2026-04] <a href="posts/book_the_church_of_england_and_christian_antiquity" target="_blank">『The Church of England and Christian Antiquity: The Construction of a Confessional Identity in the 17th Century』 노트</a>
 - [2026-04] <a href="posts/book_be_sober_and_reasonable" target="_blank">『Be Sober and Reasonable: The Critique of Enthusiasm in the Seventeenth and Early Eighteenth Centuries』 노트</a>
 - [2026-04] <a href="posts/paper_enthusiasm_and_enlightenment_in_europe" target="_blank">J.G.A. Pocock의 ｢Enthusiasm: The Antiself of Enlightenment｣을 포함한 논문집 『Enthusiasm and Enlightenment in Europe, 1650-1850』 노트</a>
 - [2026-04] <a href="posts/mooc_ethology" target="_blank">'동물의 행동' 강의 노트</a>
