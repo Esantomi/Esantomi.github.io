@@ -86,7 +86,7 @@ title: Curriculum Vitae
 
 ### Datasets and Models
 1. **KNoTE (Korean Novel TEI Encoded)**
-   - **KNoTE dataset v3**: Kim, G., Park, S., **Ji, H.**, Lee, H., Lee, B., Jeong, C., Lee, J.-. yeol ., Jo, G., Lim, I., Ismayilov, O., & Kim, B. (2026). KNoTE dataset [Data set]. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.19727465" target="_blank">10.5281/zenodo.19727465</a>
+   - **KNoTE dataset v4**: Kim, G., Park, S., **Ji, H.**, Lee, H., Lee, B., Jeong, C., Lee, J.-. yeol ., Jo, G., Lim, I., Ismayilov, O., & Kim, B. (2026). KNoTE dataset [Data set]. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.19813475" target="_blank">10.5281/zenodo.19813475</a>
 1. **KPoEM (Korean Poetry Emotion Mapping)**
    - **KPoEM dataset v4**: LIM, I., **Ji, H.**, Koo, S., Jung, S.-. yi ., YUN, J., & Kim, B. (2025). KPoEM dataset [Data set]. Digital Humanities and Social Sciences Korea Conference (DHSS Korea), James Joo-Jin Kim Center for Korean Studies, Pennsylvania, USA. Zenodo. <i class="ai ai-doi"></i> <a href="https://doi.org/10.5281/zenodo.15598092" target="_blank">10.5281/zenodo.15598092</a> <i class="ai ai-doi"></i> <a href="https://doi.org/10.57967/hf/6303" target="_blank">10.57967/hf/6303</a>
    - **KPoEM model**: Hugging Face. <i class="ai ai-doi"></i> <a href="https://doi.org/10.57967/hf/6301" target="_blank">10.57967/hf/6301</a>
