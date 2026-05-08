@@ -139,7 +139,9 @@ title: Curriculum Vitae
 - **강의평가 우수교원(Excellence in Teaching Award)**, 한국전통문화대학교(Korea National University of Heritage) ; 2025
 - **등록금면제장학금(Tuition Fee Exemption Scholarship)**, 한국학중앙연구원(The Academy of Korean Studies) ; Ph.D./1-2
 - **연구장학금(Research Scholarship)**, 한국학중앙연구원(The Academy of Korean Studies) ; M.A./3-4
+- **성적우수상(Academic Excellence Award)**, 한국방송통신대학교(Korea National Open Uiversity) ; Aug. 2023
 - **등록금면제장학금(Tuition Fee Exemption Scholarship)**, 한국학중앙연구원(The Academy of Korean Studies) ; M.A./1-2
+- **성적우수 장학금(Honor Scholarship)**, 한국방송통신대학교(Korea National Open Uiversity) ; Spring, 2022
 
 
 ## Memberships
