@@ -59,6 +59,7 @@ title: Curriculum Vitae
 
 ### Articles
 <!-- 1. <i class="fa-solid fa-spinner fa-spin-pulse"></i> 지해인, & 김가연. (2025). **요괴학으로 본 포켓몬스터의 가상 민족생물학적 분류에 관한 연구 [A Yōkai Studies Approach to the Virtual Ethnobiological Classification of Pokémon]**.-->
+1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** 지해인. (2027). **브루스 링컨의 신화 개념으로 다시 읽는 ｢고려세계(高麗世系)｣**.
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** 지해인. (2027). **한국 현대 이교(異敎) 신앙과 그 실천: 사례 연구를 중심으로**.
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** Park, H. & **Ji, H.** (2026). **Modeling and Characterizing Korean Spacing Errors via Information-theoretic Metrics**.
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work In Progress]** Lee, J., **Ji, H.**, & Jung, H. (2026). **Implementation of a Literary Sensory Classification Model Based on Modern Korean Novels**.
