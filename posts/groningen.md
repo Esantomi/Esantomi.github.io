@@ -11,7 +11,7 @@ title: University of Groningen as Guest Researcher
 
 <center><img class="intext-img" src="/assets/img/personal/hji_groningen.png" oncontextmenu="return false"></center>
 
-GOLEM 프로젝트 참여는 원활히 되고 있다. 한국 팬픽의 양상이 다소 흥미롭다.
+GOLEM 프로젝트 참여는 원활히 진행되고 있다. 한국 팬픽의 양상이 다소 흥미로운데, 추후 결과물을 통해 구체적으로 논해 볼 수 있겠다.
 
 ### 한가한 이곳
 
@@ -27,6 +27,8 @@ GOLEM 프로젝트 참여는 원활히 되고 있다. 한국 팬픽의 양상이
 식사는 주로 파스타를 해 먹고 있다. 한식이 특별히 그립지는 않다. 그리운 것은 따뜻한 음식이다. 그럴 때 들리는 곳이 [Pho Saigon](https://phosaigon.nl/)이다. 아마 흐로닝언에서 가장 제대로 된 아시아 음식점 중 하나일 것이다. 쌀국수가 19.5€라는 것만 제외하면 완벽하다.
 
 <center><img class="intext-img" src="/assets/img/personal/phosaigon.jpg" oncontextmenu="return false"></center>
+
+### 챨뚤 가족과의 만남
 
 매일 비슷한 일상이지만, 최근 인상적이었던 일은 이곳 사람들과 **둥지에서 떨어진 아기 검은머리물떼새(이하 챨뚤tjaldur)를 구조해 어미새 품으로 돌려줬던 일**이다.
 
