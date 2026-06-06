@@ -13,6 +13,10 @@ title: University of Groningen as Guest Researcher
 
 [GOLEM 프로젝트](https://golemlab.eu/about/) 참여는 원활히 진행되고 있다. 한국 팬픽의 양상이 다소 흥미로운데, 추후 결과물을 통해 구체적으로 논해 볼 수 있겠다.
 
+<center><img class="intext-img" src="/assets/img/personal/groningen_room_for_guests.jpg" oncontextmenu="return false"></center>
+
+위는 안내받은 객원연구원을 위한 공간. 가끔 들러서 작업을 하곤 했다. 가끔인 이유는 숙소 로비가 작업하기 좋은 환경이고, 대학이 숙소에서 다소 떨어져 있기 때문이다. 이곳에서 친분을 쌓은 연구자와 언어 교환을 할 때도 잠깐 들렀다.
+
 ### 한가할 땐 논문
 
 흐로닝언은 예쁜 도시다. 그리고 딱히 할 게 없는 곳이기도 하다. 
