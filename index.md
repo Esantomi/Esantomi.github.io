@@ -40,9 +40,9 @@ title: Curriculum Vitae
 
 - **연구위원(Researcher)**, 인문학&신학연구소 에라스무스(Erasmus Institute for Humanities and Theologies) ; May 2025 - Present
 - **편집간사(Editorial Assistant)**, 한국디지털인문학협의회(Korean Association for Digital Humanities, KADH) ; Nov. 2024 - Present
+- **강사(Instructor)**, 한국전통문화대학교(Korea National University of Heritage) ; Sept. 2024 - Present
 - **연구원(Researcher)**, 한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the AKS) ; Mar. 2022 - Present
 - **[객원연구원(Guest Researcher)](https://www.rug.nl/staff/h.ji/?lang=en)**, 흐로닝언 대학교(University of Groningen) ; Mar. 2026 - Aug. 2026
-- **강사(Instructor)**, 한국전통문화대학교(Korea National University of Heritage) ; Sept. 2024 - Aug. 2026
 - **편집자(Editor)**, ㈜이감(Yigam Co., Ltd.) ; Jan. 2019 - Mar. 2021
 - **정비병(Mechanic)**, 대한민국 육군(Republic of Korea Army) ; Jan. 2014 - Oct. 2015
 
