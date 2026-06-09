@@ -60,7 +60,7 @@ title: Curriculum Vitae
 ### Articles
 <!-- 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work In Progress]** Lee, J., **Ji, H.**, & Jung, H. (2026). **Implementation of a Literary Sensory Classification Model Based on Modern Korean Novels**.-->
 <!-- 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** 지해인. (2027). **한국 현대 이교(異敎) 신앙과 그 실천: 사례 연구를 중심으로**.-->
-1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** 지해인, & 김가연. (2026). **가상 민속지식에 대한 소고: 〈포켓몬스터〉 도감 정보를 중심으로**.
+1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** 지해인, & 김가연. (2026). **허구적 가능세계의 가상 민속지식에 대한 소고: 〈포켓몬스터〉 도감 정보를 중심으로**.
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** 지해인. (2026). **｢성주풀이｣ 마모와 고착의 두 향방: 이본 코퍼스의 계량적 분석 연구**.
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** 지해인. (2026). **고려 국조신화 역사화·신화화 비교 연구: ｢고려세계｣와 『제왕운기』를 중심으로**.
 1. **[<i class="fa-solid fa-spinner fa-spin-pulse"></i> Work in Progress]** Park, H. & **Ji, H.** (2026). **Modeling and Characterizing Korean Spacing Errors via Information-theoretic Metrics**.
