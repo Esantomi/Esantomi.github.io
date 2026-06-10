@@ -12,7 +12,7 @@ title: Curriculum Vitae
 
 안녕하세요. 저는 **디지털 인문학(Digital Humanities, DH)** 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**, Sino-Korean: **池海印**)입니다. 한국 근대 문학, 고전 문학(한국 신화), 주로 인터넷을 떠도는 (서사 형식의 이데올로기로서) 현대적 신화들, 즉 '서사'에 주된 관심을 두고 있습니다.
 
-[한국학중앙연구원 디지털인문학연구소](https://digitalhumanities.kr/)(Center for Digital Humanities at the Academy of Korean Studies) **연구원**, [인문학&신학연구소 에라스무스](https://erasmus.imweb.me/8dgks3k7)(Erasmus Institute for Humanities and Theologies) **연구위원**, [흐로닝언 대학교](https://www.rug.nl/?lang=en)(University of Groningen) **객원연구원**, [한국전통문화대학교](https://www.knuh.ac.kr/)(Korea National University of Heritage) **강사**로서 지속적인 연구·강의 경력을 쌓고 있으며, 현재 인문 데이터 설계·구축·분석 등을 주제로 한 강의·워크숍을 진행할 수 있는 역량을 갖추고 있습니다.
+[한국학중앙연구원 디지털인문학연구소](https://digitalhumanities.kr/)(Center for Digital Humanities at the Academy of Korean Studies) **연구원**, [인문학&신학연구소 에라스무스](https://erasmus.imweb.me/)(Erasmus Institute for Humanities and Theologies) **연구위원**, [흐로닝언 대학교](https://www.rug.nl/?lang=en)(University of Groningen) **객원연구원**, [한국전통문화대학교](https://www.knuh.ac.kr/)(Korea National University of Heritage) **강사**로서 지속적인 연구·강의 경력을 쌓고 있으며, 현재 인문 데이터 설계·구축·분석 등을 주제로 한 강의·워크숍을 진행할 수 있는 역량을 갖추고 있습니다.
 
 그 외, 실담범자 명인 법헌 스님께 실담전밀계(悉曇傳密戒)를 받은 전수자로서, **실담범자(悉曇梵字) 기반의 불교예술** 활동을 하고 있는 작가이기도 합니다.
 
@@ -38,10 +38,10 @@ title: Curriculum Vitae
 
 ## Work Experience
 
-- **연구위원(Researcher)**, 인문학&신학연구소 에라스무스(Erasmus Institute for Humanities and Theologies) ; May 2025 - Present
-- **편집간사(Editorial Assistant)**, 한국디지털인문학협의회(Korean Association for Digital Humanities, KADH) ; Nov. 2024 - Present
+- **[연구위원(Researcher)](https://erasmus.imweb.me/8dgks3k7)**, 인문학&신학연구소 에라스무스(Erasmus Institute for Humanities and Theologies) ; May 2025 - Present
+- **[편집간사(Editorial Assistant)](https://accesson.kr/kjdh/menu/7554/7557/)**, 한국디지털인문학협의회(Korean Association for Digital Humanities, KADH) ; Nov. 2024 - Present
 - **강사(Instructor)**, 한국전통문화대학교(Korea National University of Heritage) ; Sept. 2024 - Present
-- **연구원(Researcher)**, 한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the AKS) ; Mar. 2022 - Present
+- **[연구원(Researcher)](https://digitalhumanities.kr/members/Haein.html)**, 한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the AKS) ; Mar. 2022 - Present
 - **[객원연구원(Guest Researcher)](https://www.rug.nl/staff/h.ji/?lang=en)**, 흐로닝언 대학교(University of Groningen) ; Mar. 2026 - Aug. 2026
 - **편집자(Editor)**, ㈜이감(Yigam Co., Ltd.) ; Jan. 2019 - Mar. 2021
 - **정비병(Mechanic)**, 대한민국 육군(Republic of Korea Army) ; Jan. 2014 - Oct. 2015
