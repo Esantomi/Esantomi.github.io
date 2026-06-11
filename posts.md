@@ -18,6 +18,9 @@ title: Posts
 
 - [2026-06] <a href="posts/groningen" target="_blank">흐로닝언 대학교 객원연구원 생활</a>
   - [2026-06] <a href="posts/venus_von_willendorf" target="_blank">빌렌도르프의 비너스(Venus von Willendorf)를 보다</a>
+  - [2026-06] 오스트리아 여행
+  - [2026-03] 프랑스 여행
+  - [2026-03] 독일 여행
 - [2026-04] <a href="posts/book_be_sober_and_reasonable" target="_blank">『Be Sober and Reasonable: The Critique of Enthusiasm in the Seventeenth and Early Eighteenth Centuries』 노트</a>
 - [2026-04] <a href="posts/paper_enthusiasm_and_enlightenment_in_europe" target="_blank">J.G.A. Pocock의 ｢Enthusiasm: The Antiself of Enlightenment｣을 포함한 논문집 『Enthusiasm and Enlightenment in Europe, 1650-1850』 노트</a>
 - [2026-04] <a href="posts/mooc_ethology" target="_blank">'동물의 행동' 강의 노트</a>
