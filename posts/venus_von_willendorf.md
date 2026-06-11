@@ -20,7 +20,9 @@ title: Venus von Willendorf
   <img src="/assets/img/personal/venus_von_willendorf1.jpg" style="width: 49%;" oncontextmenu="return false">
 </div>
 
-어떻게 이렇게 아름다울 수가 있나? 원형적인 에너지가 느껴지는 느낌적 느낌.
+어떻게 이렇게 아름다울 수가 있나? 원형적인 에너지가 느껴지는 느낌적 느낌. 다음은 위키백과에서 발췌.
+
+> 1908년 오스트리아 니더외스터라이히주 빌렌도르프 근교의 구석기 시대 지층에서 고고학자 요제프 촘바티가 발견한 11.1 cm 키의 여자 조각상이다. 그 지역에서 나지 않는 어란상 석회암으로 만들어졌으며 석간주로 칠해졌다.
 
 <center><img class="intext-img" src="/assets/img/personal/venus_von_willendorf3.jpg" oncontextmenu="return false"></center>
 
