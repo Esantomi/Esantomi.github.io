@@ -21,6 +21,7 @@ title: Posts
   - [2026-06] 오스트리아 여행
   - [2026-03] 프랑스 여행
   - [2026-03] 독일 여행
+- [2026-06] <a href="posts/paper_enlightenment_for_the_common_people" target="_blank">｢Enlightenment for the Common People? Frederick II and the Philosophes on Popular Prejudice, Deception, and Education｣ 노트</a>
 - [2026-04] <a href="posts/book_be_sober_and_reasonable" target="_blank">『Be Sober and Reasonable: The Critique of Enthusiasm in the Seventeenth and Early Eighteenth Centuries』 노트</a>
 - [2026-04] <a href="posts/paper_enthusiasm_and_enlightenment_in_europe" target="_blank">J.G.A. Pocock의 ｢Enthusiasm: The Antiself of Enlightenment｣을 포함한 논문집 『Enthusiasm and Enlightenment in Europe, 1650-1850』 노트</a>
 - [2026-04] <a href="posts/mooc_ethology" target="_blank">'동물의 행동' 강의 노트</a>
