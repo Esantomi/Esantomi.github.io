@@ -34,6 +34,7 @@ title: Curriculum Vitae
 - **2024 디지털인문학(DH) 겨울학교**, 고려대학교(Korea University) ; Jan. 2024
 - **2023 디지털인문학(DH) 겨울학교**, 한국과학기술원(Korea Advanced Institute of Science and Technology, KAIST) ; Jan. 2023
 - **데이터 기반 인공지능 시스템 엔지니어 양성 과정**, 에티버스러닝(Etevers Learning) ; Mar. 2021 - Aug. 2021
+  - K-Digital 인공지능 시스템 개발자 양성 과정 해커톤(캐글) 준우승 수상
 
 
 ## Work Experience
