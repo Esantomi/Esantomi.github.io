@@ -7,6 +7,8 @@ title: Enlightenment for the Common People? Frederick II and the Philosophes on 
 
 ## Enlightenment for the Common People? Frederick II and the Philosophes on Popular Prejudice, Deception, and Education
 
+* Lifschitz A. Enlightenment for the Common People? Frederick II and the Philosophes on Popular Prejudice, Deception, and Education. *Modern Intellectual History*. Published online 2026:1-27. doi:[10.1017/S1479244326100468](https://doi.org/10.1017/S1479244326100468)
+
 ### 서론 및 인식론적 배경: 인간 정신의 취약성
 
 #### 1. 논쟁의 출발점과 문제제기
