@@ -22,6 +22,7 @@ title: Posts
   - [2026-03] 프랑스 여행
   - [2026-03] 독일 여행
 - 계몽(Enlightenment)의 문제
+  - [2026-06] <a href="posts/book_the_cambridge_history_of_philosophy_of_the_scientific_revolution" target="_blank">『The Cambridge History of Philosophy of the Scientific Revolution』 노트</a>
   - [2026-06] <a href="posts/paper_testimony_and_proof_in_early-modern_england" target="_blank">｢Testimony and Proof in Early-Modern England｣ 노트</a>
   - [2026-06] <a href="posts/paper_enlightenment_for_the_common_people" target="_blank">｢Enlightenment for the Common People? Frederick II and the Philosophes on Popular Prejudice, Deception, and Education｣ 노트</a>
   - [2026-04] <a href="posts/book_be_sober_and_reasonable" target="_blank">『Be Sober and Reasonable: The Critique of Enthusiasm in the Seventeenth and Early Eighteenth Centuries』 노트</a>
