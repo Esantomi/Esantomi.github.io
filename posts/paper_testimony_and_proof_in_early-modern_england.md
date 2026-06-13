@@ -71,7 +71,7 @@ title: Testimony and Proof in Early-Modern England
 
 * **학문적 성격과 위치**
   * 수사학은 문법을 배운 르네상스기 학생들이 그다음으로 접하는 **필수 교과**였다. 
-  * 키케로, 퀸틸리아누스, 아리스토텔레스 등의 **고전 이론을 바탕으로 사안에 맞는 논거를 찾아내고(Invention), 배치가 완성되면 문체를 우아하게 가꾸며(Elocutio), 이를 기억하여 발표하는 기술**을 가르치는 학문이었다.
+  * 키케로, 퀸틸리아누스, 아리스토텔레스 등의 **고전 이론을 바탕으로 사안에 맞는 논거를 찾아내고(Invention), 배치가 완성되면 문체를 우아하게 가꾸며(Elocutio), 이를 기억하여 발표하는 기술(the invention (inventio) and disposition (dispositio) of arguments, their amplification through the tropes and figures of elocutio, and techniques of memorisation and delivery)**을 가르치는 학문이었다.
 * **텍스트적 기술로서의 증언**
   * 수사학적 관점에서 증언은 구어(Oral)적인 기원을 지니고 있지만, 르네상스를 거치며 철저하게 '**글쓰기 실천(Practices of writing)**'에 통합되었다. 
     * 따라서 근대 초기에 증언을 유포하고 지탱하던 이른바 **'문학적 기술(Literary technology)'은 다름 아닌 고전 수사학의 규칙들**이었다.
