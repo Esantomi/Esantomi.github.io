@@ -17,8 +17,10 @@ title: Posts
 노는 게 제일 좋습니다. 다음은 제가 즐긴 기록입니다.
 
 - [2026-06] <a href="posts/groningen" target="_blank">흐로닝언 대학교 객원연구원 생활</a>
-  - [2026-06] <a href="posts/venus_von_willendorf" target="_blank">빌렌도르프의 비너스(Venus von Willendorf)를 보다</a>
+  - [2026-07] 영국 여행 
+  - [2026-06] 네덜란드 여행
   - [2026-06] 오스트리아 여행
+    - [2026-06] <a href="posts/venus_von_willendorf" target="_blank">빌렌도르프의 비너스(Venus von Willendorf)를 보다</a>
   - [2026-03] 프랑스 여행
   - [2026-03] 독일 여행
 - 계몽(Enlightenment)의 문제
