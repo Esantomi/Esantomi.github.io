@@ -290,7 +290,7 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 그 결과 1997년 존 헨리(John Henry)는 앨런 데버스(Allen Debus)나 피오 라탄시(Pio Rattansi) 같은 옹호자들의 노력에도 불구하고, **헤르메스주의 전통의 영향력이 크게 과장되었다는 점에 학계의 보편적 합의가 이루어졌다**고 평가했다. 
   * 이집트학자 플로리안 에벨링(Florian Ebeling) 역시 헤르메스주의의 종교적 지향성과 상징주의적 기호학이 현대 자연과학의 인식론적 토대가 되는 것을 가로막았다고 인정했다.
 
-### 9.1.2. 브라이언 비커스의 상호 배제론
+#### 9.1.2. 브라이언 비커스의 상호 배제론
 
 * **오컬트와 과학의 이분법**
   * 예이츠의 가장 철저한 비판자 중 한 명인 **브라이언 비커스(Brian Vickers)**는 1984년 **오컬트(occult)와 과학(scientific) 사이에 완전한 비동일성이 존재함을 주장**했다. 
@@ -300,15 +300,15 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 즉, 이들이 **두 개의 분리된 사유 세계에 동시에 거주**.할 수 있었기 때문에 17세기 사상이 호환 불가능한 것들의 공존이라는 **'혼종적 특성'(hybrid nature)**을 지니게 되었다는 것이다. 
   * 비커스는 **르네상스 오컬트 과학이 새로운 과학의 아이디어, 이론, 기술을 생산했다는 주장을 오류로 규정**하며, 오컬트 전통 연구는 외계 문화를 연구하는 것과 같은 인류학적 관심에 그친다고 결론지었다.
 
-### 9.1.3. 새로운 대안의 필요성
+#### 9.1.3. 새로운 대안의 필요성
 
 * 저자 스티븐 클루카스(Stephen Clucas)는 예이츠 테제와 비커스의 **이분법적 대립을 넘어설 것을 제안**한다. 
   * 16-17세기 사상가들을 단순한 '양서류'나 '혼종'으로 범주화하는 대신, 니콜라스 H. 클룰리(Nicholas H. Clulee)와 존 헨리(John Henry)의 제안을 따라 중세로부터 17세기까지 이어진 오컬트 전통의 한 줄기인 **'방사 이론'(radiation theory)**을 추적함으로써 **두 전통 사이의 의미 있는 관계를 증명**하고자 한다. 
   * 이 접근법은 방사성 힘(radiative virtue) 이론이 후기 스콜라주의(Scholasticism)에 반대하고 **원자론(atomism)과 기계론(mechanism)을 수용하는 자연철학적 구상(initiative)로 이어졌음**을 보여준다.
 
-## 9.2. 방사 활동과 물리 현상의 설명(Radial Activity and Explanations of Physical Phenomena)
+### 9.2. 방사 활동과 물리 현상의 설명(Radial Activity and Explanations of Physical Phenomena)
 
-### 9.2.1. 알킨디의 방사 이론과 마술의 물리학
+#### 9.2.1. 알킨디의 방사 이론과 마술의 물리학
 
 * **존 디와 원근법 전통**
   * 클룰리는 1550년대와 1560년대 초반 존 디(John Dee)의 학문적 경력에서 **13세기 원근법(perspectiva) 전통에서 유래한 방사성 힘 이론이 중요했음**을 밝혀내며, 그를 헤르메스주의 마술사로만 보던 기존 시각을 교정했다. 
@@ -321,7 +321,7 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 이 광선들은 **서로 호혜적으로 작용하며(reciprocally on one another), 피동체(patient)의 물질적 종류와 거리에 따라 상이한 효과**를 낳는다. 
   * 마술적 부적(talismans)은 이러한 광선을 활용하여 효과를 발휘한다.
 
-### 9.2.2. 인간 정신과 언어의 방사력
+#### 9.2.2. 인간 정신과 언어의 방사력
 
 * **상상력적 영(spiritus ymaginarus)**
   * 인간의 **마음 역시 외계의 사물에 영향을 미치는 광선**을 방사한다. 
@@ -336,9 +336,9 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 알킨디의 논지는 자연 마술뿐 아니라 주문, 부적, 동물 희생 제사까지 설명하는 **'마술의 물리적 이론'(physical theory of magic)**을 제공한다. 
   * 이는 천체 영향력이라는 **점성술적 이론을 월하계 전반의 물리적 메커니즘으로 확장**한 것이다.
 
-## 9.3. 원근법 전통과 곱하기 개념(The Perspectiva Tradition and the 'Multiplication of Species')
+### 9.3. 원근법 전통과 곱하기 개념(The Perspectiva Tradition and the 'Multiplication of Species')
 
-### 9.3.1. 로버트 그로스테스트와 빛의 형이상학
+#### 9.3.1. 로버트 그로스테스트와 빛의 형이상학
 
 * **빛의 으뜸적 형상(Lux as first corporeal form)**
   * 13세기 옥스퍼드 학파의 **로버트 그로스테스트(Robert Grosseteste)**는 알킨디의 방사 이론을 계승하면서도, 이를 **기독교적 신플라톤주의 세계관과 결합**했다. 
@@ -347,7 +347,7 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 그로스테스트에게 모든 자연적 동인(natural agent)은 **자신의 힘(virtus)을 자신으로부터 피동체로 방사하는 방식으로 작용**한다. 
   * 이러한 힘의 방사선은 기하학적 법칙을 따르기 때문에, **자연철학자는 선, 각도, 도형을 활용한 기하학(geometry)을 통해서만 자연의 작용을 온전히 이해**할 수 있다.
 
-### 9.3.2. 로저 베이컨과 '형상의 곱하기'(Multiplication of Species)
+#### 9.3.2. 로저 베이컨과 '형상의 곱하기'(Multiplication of Species)
 
 * **형상(Species)의 정의**
   * **로저 베이컨(Roger Bacon)**은 그로스테스트의 직계 후계자로서 이 이론을 더욱 체계화하여 **'형상의 곱하기'(multiplication of species)** 이론을 확립했다. 
@@ -359,9 +359,9 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 부적, 주문, 인간의 상상력이 발휘하는 매혹(fascination) 등은 초자연적이거나 악마적인 힘이 아니라, **매질을 통해 기하학적으로 전파되는 물리적 광선(radii)의 작용으로 설명**된다. 
     * 이로써 베이컨은 기적이나 악마의 소행으로 치부되던 **오컬트 현상을 합리적이고 수학적인 자연철학의 영역으로 포섭**했다.
 
-## 9.4. 르네상스 자연 마술로의 이행(The Transition to Renaissance Natural Magic)
+### 9.4. 르네상스 자연 마술로의 이행(The Transition to Renaissance Natural Magic)
 
-### 9.4.1. 마르실리오 피치노와 우주적 영
+#### 9.4.1. 마르실리오 피치노와 우주적 영
 
 * **『인생에 관하여』(De vita libri tres)**
   * 15세기 후반 **마르실리오 피치노(Marsilio Ficino)**는 **르네상스 자연 마술(Natural Magic)의 토대**를 놓았다. 
@@ -371,7 +371,7 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 인간의 **정신적 영(spiritus)이 천체의 광선과 일치할 때**, 행성의 특정한 힘(예: 태양의 생명력, 목성의 지혜)을 흡수할 수 있다. 
   * 피치노의 마술은 이 광선들을 부적, 음악, 약제를 통해 **물리적으로 '여과'하고 '포착'하는 기술**이었다.
 
-### 9.4.2. 조반니 피코 델라 미란돌라와 자연의 결합
+#### 9.4.2. 조반니 피코 델라 미란돌라와 자연의 결합
 
 * **자연의 보조자로서의 마술사**
   * **피코 델라 미란돌라(Giovanni Pico della Mirandola)**는 마술을 **악마적 마술(goetia)**과 **자연 마술(magia naturalis)**로 엄격히 구분했다. 
@@ -380,15 +380,15 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 피코는 **우주를 상호 연결된 하나의 유기체**로 보았으며, 마술사의 역할은 **천체의 방사적 힘과 지상의 수동적 물질을 적절하게 결합**하는 것(activa passivis coniungere)이라고 정의했다. 
   * 이는 **중세의 방사 이론**이 르네상스에 이르러 인간이 자연을 적극적으로 조작하고 운영하려는 **'운영적 의지(will to operate)'로 변모했음**을 보여 준다.
   
-## 9.5. 존 디와 방사적 힘의 기하학적 운용(John Dee on Radiative Virtue)
+### 9.5. 존 디와 방사적 힘의 기하학적 운용(John Dee on Radiative Virtue)
 
-### 9.5.1. 『서론적 아포리즘』(Propaedeumata aphoristica, 1558)
+#### 9.5.1. 『서론적 아포리즘』(Propaedeumata aphoristica, 1558)
 
 * **중세 원근법의 요약**
   * 영국 수사학자이자 수학자인 **존 디(John Dee)**는 알킨디(Al-Kindī), 로버트 그로스테스트(Robert Grosseteste), 로저 베이컨(Roger Bacon)의 중세 사본을 다수 소장하고 있었으며, 이들의 **방사 이론을 계승하여 복합적인 천체 마술 체계를 구축**했다. 
   * 그의 저작 『서론적 아포리즘』은 **천체의 능력이 전파되는 기하학적 모델을 집약한 일종의 요약본적 성격**을 지닌다. 디의 일차적 목표는 **천체의 힘이 전파되는 방식을 수학적으로 규명하여 마술적 효과(magical effects)에 도달**하는 것이었다.
 
-### 9.5.2. 반사광학(Catoptrics)과 광선의 인위적 집중
+#### 9.5.2. 반사광학(Catoptrics)과 광선의 인위적 집중
 
 * **거울을 통한 광선 증폭**
   * 디는 반사광학, 즉 거울(mirrors)에 대한 정교한 지식을 바탕으로 **포물선형 반사경(parabolic burning mirror)이 태양광뿐 아니라 다른 행성과 별의 보이지 않는 방사선까지 초점으로 모으고, 곱하고, 물질에 각인(imprint)할 수 있다**고 믿었다.
@@ -397,9 +397,9 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 나아가 아포리즘 89에서는 **거울의 설계를 통해 오행성(five planets)의 천체 영향력을 굴절, 완화, 또는 증폭**시킴으로써 순식간에 행성을 새로운 근지점(perigee)으로 끌어내리는 듯한 효과를 낼 수 있다고 주장했다. 
     * 이는 행성의 물리적 위치를 옮기는 것이 아니라, **지상에 도달하는 방사적 영향력을 인위적으로 통제할 수 있음을 의미**한다.
 
-## 9.6. 방사성 힘의 물리학적 전환(The Physics of Radiated Virtue)
+### 9.6. 방사성 힘의 물리학적 전환(The Physics of Radiated Virtue)
 
-### 9.6.1. 오컬트 현상의 자연주의적 해독
+#### 9.6.1. 오컬트 현상의 자연주의적 해독
 
 * **자연주의적 아리스토텔레스주의와의 연계**
   * 클룰리(Nicholas H. Clulee)의 지적처럼, 방사 영향력의 물리학은 니콜라 오렘(Nicolas Oresme)이나 피에트로 폼포나치(Pietro Pomponazzi)의 **자연주의적 성향과 궤를 같이하며**, 오컬트 현상을 악마적이거나 영적인 것이 아닌 **'자연적이고 이성적으로 이해 가능한 것'으로 격상**시켰다. 
@@ -407,16 +407,16 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
 * **의식 마술과 자연 마술의 분리**
   * 디가 수행한 천사 소환 같은 **의식 마술(ritual magic)**은 종교적 기능에 국한된 반면, 과학 혁명의 토대를 마련한 것은 헤르메스주의나 카발라와 독립된 '**자연 마술(natural magic)**'의 지적 전통이었다.
 
-### 9.6.2. 존 헨리의 마술적 기원론
+#### 9.6.2. 존 헨리의 마술적 기원론
 
 * **실용적 전통과의 결합**
   * **존 헨리(John Henry)** 역시 과학 혁명의 세계관이 **자연철학(natural philosophy)과 자연 마술의 실용적·경험적 전통의 결합에서 탄생했다**고 논증한다. 
   * 아리스토텔레스주의자들은 오컬트 능력을 설명 불가능한 미지의 것으로 치부했으나, **자연 마술은 자석(magnetism)이나 천체 방사 같은 원격 작용을 설명 가능한 물리적 대상으로 취급**했다. 
     * 이 과정에서 마술의 종교적·초연역적 요소가 걸러지고 자연주의적 잔재가 17세기 역학적 물질 이론(matter theory)으로 스며들게 되었다.
 
-## 9.7. 월터 워너와 '방사성 힘'(Vis Radiativa)의 입자론적 전환
+### 9.7. 월터 워너와 '방사성 힘'(Vis Radiativa)의 입자론적 전환
 
-### 9.7.1. 노섬벌랜드 학파와 방사 전통의 수용
+#### 9.7.1. 노섬벌랜드 학파와 방사 전통의 수용
 
 * **월터 워너(Walter Warner)의 위치**
   * 17세기 초 영국에서 토머스 해리엇(Thomas Harriot), 니콜라스 히어드(Nicholas Hill) 등과 함께 '노섬벌랜드 학파'를 구성했던 월터 워너는 **중세의 원근법적 방사 이론을 미출간 원고를 통해 매우 독창적인 입자론적(corpuscular) 자연철학으로 발전**시켰다.
@@ -424,7 +424,7 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 워너는 우주의 물리적 작용을 설명하기 위해 '**방사성 힘**'이라는 개념을 도입했다. 
   * 그는 중세 베이컨 전통의 **'형상의 곱하기'를 물리적 입자의 운동과 결합**하여, 동인이 방사하는 힘을 매질을 통해 전파되는 실재적인 물리적 작용으로 재정의했다.
 
-### 9.7.2. 능동적 원리로서의 방사(Radiation as an Active Principle)
+#### 9.7.2. 능동적 원리로서의 방사(Radiation as an Active Principle)
 
 * **물질과 힘의 결합**
   * 아리스토텔레스주의나 초기 기계론이 물질의 충돌(mechanical collision)만을 유일한 인과관계로 보았던 것과 달리, 워너는 물질 자체에 내재하거나 물질을 통해 전파되는 **능동적 힘(active power)을 인정**했다.
@@ -432,9 +432,9 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 워너에게 방사성 힘은 단순히 추상적인 기하학적 선이 아니라, 물질적 동인으로부터 발산되는 미세한 입자들의 흐름이자 역동적인 파동이었다.
   * 이는 자석의 끌어당김, 열의 전달, 시각 현상뿐만 아니라 천체의 영향력까지도 **하나의 통일된 '방사 물리학'으로 설명하려는 시도**였다. 이로써 **오컬트 마술의 핵심 설명 모델이었던 '방사'는 17세기 새로운 물질 이론(matter theory)의 핵심적인 능동적 원리로 흡수**되었다.
 
-## 9.8. 기계론적 자연철학과 오컬트의 해체(The Dissolution of the Occult in Mechanical Philosophy)
+### 9.8. 기계론적 자연철학과 오컬트의 해체(The Dissolution of the Occult in Mechanical Philosophy)
 
-### 9.8.1. 켄지름 디그비와 월터 찰턴의 기계론적 수용
+#### 9.8.1. 켄지름 디그비와 월터 찰턴의 기계론적 수용
 
 * **켄지름 디그비(Kenelm Digby)의 '무기물 발산'(Effluvia)**
   * 디그비 경은 1644년 저작에서 이른바 **'무기적 발산'(corporeal effluvia) 이론**을 통해 원격 작용을 설명했다. 
@@ -443,7 +443,7 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 피에르 가상디(Pierre Gassendi)의 원자론을 영국에 소개한 찰턴 역시 오컬트 능력을 미지의 존재로 남겨두지 않았다. 
   * 그는 '오컬트'라는 단어가 단지 **'우리의 감각에 너무 미세하여 보이지 않는 입자의 기계적 메커니즘'을 지칭하는 명칭일 뿐**이라고 주장하며, 마술적 현상을 완전히 자연주의적이고 역학적인 과학의 영역으로 포섭했다.
 
-### 9.8.2. 아이작 뉴턴과 원격 인력(Action at a Distance)
+#### 9.8.2. 아이작 뉴턴과 원격 인력(Action at a Distance)
 
 * **기계적 충돌론의 한계 극복**
   * 17세기 후반 기계론적 자연철학자들이 단순한 **'접촉 충돌'(mechanical collision)만을 우주의 유일한 인과율로 고집**했을 때, 행성의 운동이나 중력 같은 **원격 작용을 설명하는 데 한계**에 부딪혔다.
@@ -452,9 +452,9 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 뉴턴이 제안한 이 '원격 인력' 개념은 당대 기계론자들로부터 다시 **'오컬트 능력'을 과학에 도입했다는 비판**을 받았다. 
   * 그러나 뉴턴은 중세와 르네상스의 자연 마술 및 방사 이론(radiative force)이 보존해 온 **'보이지 않는 능동적 힘의 전파' 모델을 수학적으로 정밀화**함으로써 과학 혁명의 최종적 장을 완성할 수 있었다.
 
-## 9.9. 월터 찰턴의 원자론적 방사 물리학(Walter Charleton)
+### 9.9. 월터 찰턴의 원자론적 방사 물리학(Walter Charleton)
 
-### 9.9.1. 『반 헬몬트 번역』(1650)과 방사 활동의 정의
+#### 9.9.1. 『반 헬몬트 번역』(1650)과 방사 활동의 정의
 
 * **영향력적 또는 방사적 활동(Influential or Radial Activity)**
   * 찰턴은 1650년 얀 밥티스타 반 헬몬트(Jan Baptist van Helmont)의 자석 치료법에 관한 저작을 번역하면서, 자신의 방사 이론을 천명했다. 
@@ -464,7 +464,7 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 반 헬몬트는 후기 스콜라주의자들이 원격 작용을 무시한 것을 비판하며, 천체로부터 주입된 동인인 '**블라스(Blas)**'를 통해 이러한 현상이 일어난다고 보았다. 
   * 반 헬몬트에게도 '방사적 작용'(actiones radiales)이 존재했으나, 그의 이론에서는 동인과 피동체 사이의 상호 호혜성(reciprocity)이 결여되어 있었다. 반면 찰턴은 이를 훨씬 더 정교하고 물질적인 이론으로 발전시켰다.
 
-### 9.9.2. 『에피쿠로스-가상디-찰턴 자연학』(Physiologia, 1654)
+#### 9.9.2. 『에피쿠로스-가상디-찰턴 자연학』(Physiologia, 1654)
 
 * **오컬트 품질의 해체**
   * 찰턴은 1654년 저작 『자연학』(Physiologia Epicuro-Gassendo-Charltoniana)에서 스콜라주의자들이 알 수 없는 **'오컬트 성격'(occult qualities)으로 치부하고 포기했던 현상들을 방사 이론으로 설명**했다. 
@@ -476,9 +476,9 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 그는 Alhazen의 명제 "모든 발광점은 구형으로 방사한다(Omne punctum luminosum radiare sphaeraliter)"를 인용하며, 이 입자들이 기하학적으로(구형 및 원뿔형으로) 확산된다고 보았다. 
   * 자석 역시 자석의 중심에서 활동 영역의 경계(bounds of their orb of activity)까지 '자기 광선'(magnetique Rayes)을 발산하며, 이 광선들은 빛의 광선처럼 후행 입자가 선행 입자를 밀어내는 방식으로 tense and direct하게 전진한다고 설명했다.
 
-## 9.10. 케넬름 디그비의 물질적 유출론(Kenelm Digby)
+### 9.10. 케넬름 디그비의 물질적 유출론(Kenelm Digby)
 
-### 9.10.1. 『신체론』(Treatise on the Nature of Bodies, 1644)
+#### 9.10.1. 『신체론』(Treatise on the Nature of Bodies, 1644)
 
 * **활동 영역(Sphere of activity)의 보편화**
   * 디그비는 윌리엄 길버트(William Gilbert)의 연구를 따라 자석이 유출물(emanations)로 구성된 '활동의 영역' 혹은 '작용의 구체'를 가지고 있음을 지적했다. 나아가 디그비는 이러한 자기적 구체가 특수한 사례가 아니라 세상의 모든 물리적 신체(every physicall body)가 필연적으로 가지는 보편적 법칙, 즉 '**유출물의 궤도(orbe of fluours)**'라고 주장했다.
@@ -487,7 +487,7 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 그는 그러한 비물질적 존재를 증명하는 것보다, 자신이 제안한 **'물질적 작용(materiall actions)'만으로도 충분히 그 효과들을 수행할 수 있음을 입증하는 것이 자연철학의 과제**라고 보았다. 
     * 디그비에게 빛을 포함한 모든 **방사적 힘은 철저히 신체적(corporeal)**이었다.
 
-### 9.10.2. 불(Fire)의 모델과 중력으로의 확장
+#### 9.10.2. 불(Fire)의 모델과 중력으로의 확장
 
 * **방사성 운동의 메커니즘**
   * 디그비는 철학자들이 말하는 '활동의 영역'을 불의 작용 방식을 통해 설명했다. 
@@ -497,7 +497,7 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 디그비는 자신의 중력 이론 역시 **불의 무한한 증식과 희박화(extreme multiplication and rarefaction)를 통한 구형 확장 모델로 설명**할 수 있다고 보았다. 
   * 디그비와 찰턴에게 원근법 전통에서 차용한 방사 개념은 스콜라주의의 추상적 관념인 '형상과 결여(formes and priuations)'나 리차드 스와인즈헤드(Richard Swineshead)의 '형상의 강도와 약화(intensio et remissio formarum)' 같은 성질론적 도메인을 대체하는 강력한 인과적 메커니즘(explanatory lacuna)을 제공했다.
 
-## 9.11. 아이작 뉴턴과 방사 전통의 유산(Isaac Newton)
+### 9.11. 아이작 뉴턴과 방사 전통의 유산(Isaac Newton)
 
 * **비접촉적 상호작용의 가능성**
   * 방사 이론의 역사는 17세기로 끝나지 않았다. 이 전통은 **아이작 뉴턴(Isaac Newton)**이 직접적인 접촉과 충돌 없이 일어나는 원격 작용, 즉 **중력(gravitational force)의 메커니즘을 구상하는 데 이론적 토대를 제공**했을 가능성이 크다.
@@ -509,7 +509,7 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
 	  * 월터 워너(Walter Warner)가 입자론적 맥락에서 '방사성 힘'(vis radiativa)을 사용한 것과 유사하게, 뉴턴은 **"사물의 미세한 입자들이 빛의 광선뿐만 아니라 서로에게 거리를 두고 작용하여 자연 현상의 상당 부분을 생산하는 어떤 권능, 힘, 혹은 작용(Powers, Virtues, or Forces)을 가지고 있지 않은가?"**라고 반문했다. 
 	  * 방사 전통의 존재 덕분에 뉴턴은 모든 물리적 상호작용을 단순한 역학적 충돌과 압착으로 환원하려는 당대 기계론자들의 압박에 저항할 수 있었다.
 
-## 9.12. 결론(Conclusion)
+### 9.12. 결론(Conclusion)
 
 * **과학 혁명과 자연 마술의 필연적 관계**
   * 본 글이 입증하고자 한 바는 **오컬트 전통의 일부분(방사 이론)이 과학 혁명과 깊은 유기적 관계를 맺고 있다**는 사실이다. 
