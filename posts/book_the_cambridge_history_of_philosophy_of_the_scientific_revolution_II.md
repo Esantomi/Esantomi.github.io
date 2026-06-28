@@ -286,7 +286,7 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
 * **예이츠 테제(Yates thesis)의 대두**
   * 1960년대 중반부터 1980년대 중반까지 마술과 과학의 관계에 대한 논의는 **프랜시스 예이츠(Frances Yates)의 가설이 지배적**이었다. 
   * 이 테제는 신플라톤주의(Neoplatonic) 철학과 기독교 카발라(Christian cabala)가 융합된 르네상스 마술의 **'헤르메스주의 전통'(Hermetic Tradition)**이 자연 세계에 작용하려는 의지와 수학에 대한 관심을 자극하여 **17세기 과학 혁명(Scientific Revolution)에 기여했다고 주장**한다.
-* **역사의학적 비판**: 로버트 웨스트맨(Robert Westman), 제임스 맥과이어(James McGuire), 메리 헤세(Mary Hesse), 에드워드 그랜트(Edward Grant) 등 과학사학자들은 예이츠 테제에 대해 **매우 효과적인 비판을 제기**했다. 
+* **역사학적 비판**: 로버트 웨스트맨(Robert Westman), 제임스 맥과이어(James McGuire), 메리 헤세(Mary Hesse), 에드워드 그랜트(Edward Grant) 등 과학사학자들은 예이츠 테제에 대해 **매우 효과적인 비판을 제기**했다. 
   * 그 결과 1997년 존 헨리(John Henry)는 앨런 데버스(Allen Debus)나 피오 라탄시(Pio Rattansi) 같은 옹호자들의 노력에도 불구하고, **헤르메스주의 전통의 영향력이 크게 과장되었다는 점에 학계의 보편적 합의가 이루어졌다**고 평가했다. 
   * 이집트학자 플로리안 에벨링(Florian Ebeling) 역시 헤르메스주의의 종교적 지향성과 상징주의적 기호학이 현대 자연과학의 인식론적 토대가 되는 것을 가로막았다고 인정했다.
 
@@ -314,8 +314,8 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
   * 클룰리는 1550년대와 1560년대 초반 존 디(John Dee)의 학문적 경력에서 **13세기 원근법(perspectiva) 전통에서 유래한 방사성 힘 이론이 중요했음**을 밝혀내며, 그를 헤르메스주의 마술사로만 보던 기존 시각을 교정했다. 
   * 이 전통의 기원은 9세기 아랍 철학자 **아부 유수프 야쿠브 이븐 이스하크 아스사바 알킨디(Abu Yūsuf Yaʻqūb ibn 'Ishaq aş-Şabbah al-Kindī)**로 거슬러 올라간다.
 * **『별의 광선에 관하여』(De radiis stellarum)**
-  * 12세기 말에서 13세기 초 사이에 라틴 서방 세계로 번역된 알킨디의 저작 『별의 광선에 관하여 혹은 마술의 이론』(De radiis stellarum seu theorica artium magicarum)은 라틴 학자들에게 깊은 영향을 미쳤다. 
-  * 이 저작은 천체 영향력의 전파를 다룬 점성술적 논박이지만, 알킨디는 이 광선 이론을 월하계(sublunar realm)의 자연물로 확장했다.
+  * 12세기 말에서 13세기 초 사이에 라틴 서방 세계로 번역된 알킨디의 저작 **『별의 광선에 관하여 혹은 마술의 이론』(De radiis stellarum seu theorica artium magicarum)**은 라틴 학자들에게 깊은 영향을 미쳤다. 
+  * 이 저작은 천체 영향력의 전파를 다룬 점성술적 논박이지만, 알킨디는 이 광선 이론을 **월하계(sublunar realm)의 자연물로 확장**했다.
 * **만물의 광선 방사**
   * 알킨디에 따르면 **원소 세계는 성좌 세계의 모사(exemplum)**이므로, 원소 세계의 실체적이거나 우연적인 **모든 사물은 별과 마찬가지로 사방으로 광선을 방사**한다. 
   * 이 광선들은 **서로 호혜적으로 작용하며(reciprocally on one another), 피동체(patient)의 물질적 종류와 거리에 따라 상이한 효과**를 낳는다. 
@@ -323,9 +323,9 @@ title: The Cambridge History of Philosophy of the Scientific Revolution Part II
 
 #### 9.2.2. 인간 정신과 언어의 방사력
 
-* **상상력적 영(spiritus ymaginarus)**
+* **상상력적 영(spiritus maginarus)**
   * 인간의 **마음 역시 외계의 사물에 영향을 미치는 광선**을 방사한다. 
-  * 상상력적 영 속에서 물질적 사물을 상상할 때, 그 형상(species)들이 신체적 존재성을 획득하고 광선을 발하여 외부 사물을 움직이게 된다. 
+  * 상상력적 영 속에서 물질적 사물을 상상할 때, 그 형상(species)들이 **신체적 존재성을 획득하고 광선을 발하여** 외부 사물을 움직이게 된다. 
     * 이때 물리적 변화를 이끌어내는 힘은 **확신, 즉 신앙(fides)**이며, 신앙은 욕망의 힘(robur)이자 지지대(fulcimen)가 된다.
 * **말(words)의 물리적 작용**
   * 정신 속의 구상은 **수작업이나 언어를 통해 실현**된다. 
