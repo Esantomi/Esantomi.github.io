@@ -39,6 +39,7 @@ title: Curriculum Vitae
 
 ## Work Experience
 
+- **강사(Instructor)**, 고려대학교(Korea University) ; Sept. 2026 - Present
 - **[연구위원(Researcher)](https://erasmus.imweb.me/8dgks3k7)**, 인문학&신학연구소 에라스무스(Erasmus Institute for Humanities and Theologies) ; May 2025 - Present
 - **[편집간사(Editorial Assistant)](https://accesson.kr/kjdh/menu/7554/7557/)**, 한국디지털인문학협의회(Korean Association for Digital Humanities, KADH) ; Nov. 2024 - Present
 - **강사(Instructor)**, 한국전통문화대학교(Korea National University of Heritage) ; Sept. 2024 - Present
@@ -162,6 +163,7 @@ title: Curriculum Vitae
 
 
 ## Teaching Experience
+- COLA173-16 **디지털인문학응용(Application of Digital Humanities)**, 강사(Instructor), 고려대학교(Korea University) ; Sept. - Dec. 2026
 - **Building a Korean Literature TEI/XML Database: From Data Acquisition to AI-Enhanced Reading**, 주최자(Organizer), The Alliance of Digital Humanities Organizations (ADHO) Digital Humanities Conferences 2026 (DH2026) ; Jul. 27-31, 2026
 - **[트랙 2] 분석 트랙 ≪인공지능을 활용한 인문 텍스트 분석과 실습 - 전처리부터 시각화까지≫**, 수업조교(TA), 2026 디지털인문학 겨울학교(2026 Digital Humanities Winter School) ; Feb. 04-05, 2026
 - **[HUM-X] 융합역량강화프로그램 ≪AI전환시대의 문학연구: 워크샵≫**, 강사(Instructor), 이화여자대학교(Ewha Womans University) ; Jan. 30, 2026 <br> <i class="fas fa-list-alt"></i> <a href="https://github.com/Esantomi/Esantomi.github.io/blob/main/assets/poster/ewha_workshop_ai_lit.pdf" target="_blank">Program</a>
