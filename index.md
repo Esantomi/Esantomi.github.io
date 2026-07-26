@@ -45,7 +45,7 @@ title: Curriculum Vitae
 - **강사(Instructor)**, 한국전통문화대학교(Korea National University of Heritage) ; Sept. 2024 - Present
 - **[연구원(Researcher)](https://digitalhumanities.kr/members/Haein.html)**, 한국학중앙연구원 디지털인문학연구소(Center for Digital Humanities at the AKS) ; Mar. 2022 - Present
 - **[객원연구원(Guest Researcher)](https://www.rug.nl/staff/h.ji/?lang=en)**, 흐로닝언 대학교(University of Groningen) ; Mar. 2026 - Aug. 2026
-- **기술 스태프(Technical staff)** ; Jul. 2026
+- **기술 스태프(Technical staff)**, ADHO(Alliance of Digital Humanities Organizations) ; Jul. 2026
 - **편집자(Editor)**, ㈜이감(Yigam Co., Ltd.) ; Jan. 2019 - Mar. 2021
 - **정비병(Mechanic)**, 대한민국 육군(Republic of Korea Army) ; Jan. 2014 - Oct. 2015
 
