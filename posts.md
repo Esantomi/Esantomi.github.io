@@ -16,6 +16,7 @@ title: Posts
 ## Fun
 노는 게 제일 좋습니다. 다음은 제가 즐긴 기록입니다.
 
+- [2026-07] <a href="posts/metaethics" target="_blank">메타윤리학 노트</a>
 - [2026-06] <a href="posts/groningen" target="_blank">흐로닝언 대학교 객원연구원 생활</a>
   - [2026-07] 영국 여행 
   - [2026-06] 네덜란드 여행
