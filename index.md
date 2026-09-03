@@ -108,7 +108,7 @@ title: Curriculum Vitae
 ## Projects
 
 - 한국학중앙연구원: (AKSR2026-RE) **<고백(告白) 벤치마크> : 식민지 남성 지식인 페르소나의 자기합리화 평가 데이터셋 구축(The Gobaek (Confession) Benchmark: An Evaluation Dataset for Self-Rationalization of Colonial Male Intellectual Personas)** ; 보조연구원(연구책임자: 김병준) ; Sept. 2026 - Feb. 2027
-- 한국학중앙연구원: (AKSR2026-RE) **조선시대 흉배(胸背) 연구의 디지털 전환: 시맨틱 데이터 편찬과 정량 분석·AI 분류 방법론** ; 보조연구원(연구책임자: 김바로) ; Sept. 2026 - Feb. 2027
+- 한국학중앙연구원: (AKSR2026-RE) **조선시대 흉배(胸背) 연구의 디지털 전환: 시맨틱 데이터 편찬과 정량 분석·AI 분류 방법론(The Digital Turn in Joseon Hyungbae (胸背) Studies: Semantic Data Compilation, Quantitative Analysis, and AI-Based Classification)** ; 보조연구원(연구책임자: 김바로) ; Sept. 2026 - Feb. 2027
 - University of Groningen (ERC StG): **Graphs and Ontologies for Literary Evolution Models** ; Guest Researcher(PI: Federico Pianzola) ; Mar. 2026 - Aug. 2026 <br> <i class="fas fa-bookmark"></i> <a href="https://golemlab.eu" target="_blank">Homepage</a>
 - 한국학중앙연구원: (AKSR2025-RE08) **AI 스마트 도슨트 구현을 위한 다국어·다층적 문화유산 안내문 생성 플랫폼 구축 연구: 조선시대 불교회화를 중심으로(Developing an AI Smart Docent: A Multilingual, Multi-layered Platform for Generating Cultural Heritage Guides: A Case Study of Korean Buddhist Paintings of the Joseon Dynasty)** ; 보조연구원(연구책임자: 김바로) ; Sept. 2025 - Feb. 2026
 - 한국학중앙연구원: (AKSR2025-RE10) **인문 데이터 설계 교육을 위한 한국 근현대 문학 TEI/XML 구축 방법론 연구(TEI/XML Construction Methodology for Korean Modern Literature in Humanities Data Design Education)** ; 보조연구원(연구책임자: 김병준) ; Sept. 2025 - Feb. 2026
