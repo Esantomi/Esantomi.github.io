@@ -107,6 +107,7 @@ title: Curriculum Vitae
 
 ## Projects
 
+- 한국연구재단: **조선시대 왕실 한글 및 대응 한문 자료의 종합 DB 구축과 외국어 모듈 개발** ; 보조연구원(연구책임자: 신정수) ; Sept. 2026 - Present
 - 한국학중앙연구원: (AKSR2026-RE) **<고백(告白) 벤치마크> : 식민지 남성 지식인 페르소나의 자기합리화 평가 데이터셋 구축(The Gobaek (Confession) Benchmark: An Evaluation Dataset for Self-Rationalization of Colonial Male Intellectual Personas)** ; 보조연구원(연구책임자: 김병준) ; Sept. 2026 - Feb. 2027
 - 한국학중앙연구원: (AKSR2026-RE) **조선시대 흉배(胸背) 연구의 디지털 전환: 시맨틱 데이터 편찬과 정량 분석·AI 분류 방법론(The Digital Turn in Joseon Hyungbae (胸背) Studies: Semantic Data Compilation, Quantitative Analysis, and AI-Based Classification)** ; 보조연구원(연구책임자: 김바로) ; Sept. 2026 - Feb. 2027
 - University of Groningen (ERC StG): **Graphs and Ontologies for Literary Evolution Models** ; Guest Researcher(PI: Federico Pianzola) ; Mar. 2026 - Aug. 2026 <br> <i class="fas fa-bookmark"></i> <a href="https://golemlab.eu" target="_blank">Homepage</a>
@@ -170,7 +171,7 @@ title: Curriculum Vitae
 
 
 ## Teaching Experience
-- COLA173-16 **디지털인문학응용(Application of Digital Humanities)**, 강사(Instructor), 고려대학교(Korea University) ; Sept. - Dec. 2026
+- COLA173-16 **디지털인문학응용(Applied Digital Humanities)**, 강사(Instructor), 고려대학교(Korea University) ; Sept. - Dec. 2026
 - LE1173 **빅데이터와분석(Big Data and Analysis)**, 강사(Instructor), 한국전통문화대학교(Korea National University of Heritage) ; Sept. - Dec. 2026
 - **[트랙 2] 분석 트랙 ≪인공지능을 활용한 인문 텍스트 분석과 실습 - 전처리부터 시각화까지≫**, 수업조교(TA), 2026 디지털인문학 겨울학교(2026 Digital Humanities Winter School) ; Feb. 04-05, 2026
 - LE1173 **빅데이터와분석(Big Data and Analysis)**, 강사(Instructor), 한국전통문화대학교(Korea National University of Heritage) ; Sept. - Dec. 2025
