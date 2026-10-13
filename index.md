@@ -8,7 +8,7 @@ title: Curriculum Vitae
 
 ## Bio
 
-<span class="hashtag-text">#Digital_Humanities</span> <span class="hashtag-text">#Language_and_Linguistics</span> <span class="hashtag-text">#Literature</span> <span class="hashtag-text">#Cultural_Studies</span> <span class="hashtag-text">#Religion</span>
+<span class="hashtag-text">#Digital_Humanities</span> <span class="hashtag-text">#Literature</span> <span class="hashtag-text">#Cultural_Studies</span> <span class="hashtag-text">#Religion</span>
 
 안녕하세요. 저는 **디지털 인문학(Digital Humanities, DH)** 연구자 **지해인**(Revised Romanization of Korean: **Haein Ji**, Sino-Korean: **池海印**)입니다. 한국 근대 문학, 고전 문학(한국 신화), 주로 인터넷을 떠도는 (서사 형식의 이데올로기로서) 현대적 신화들, 즉 '서사'에 주된 관심을 두고 있습니다.
 
