@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Post — Haein Ji · 지해인</title>
+  <!--post-meta: replaced by tools/build-blog.mjs on pre-rendered pages-->
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#11151b" media="(prefers-color-scheme: dark)">
+  <link rel="icon" type="image/png" href="../assets/img/logo_transparent.png">
+  <link rel="apple-touch-icon" href="../assets/img/logo_transparent.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=LXGW+WenKai+Mono+TC&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="../assets/css/main.css">
+  <script>
+    (function () {
+      try { var t = localStorage.getItem('cv-theme'); if (t) document.documentElement.setAttribute('data-theme', t); } catch (e) {}
+      var l = new URLSearchParams(location.search).get('lang');
+      if (!l) { try { l = localStorage.getItem('cv-lang'); } catch (e) {} }
+      document.documentElement.lang = l === 'en' ? 'en' : 'ko';
+    })();
+  </script>
+</head>
+<body class="blog">
+  <div class="progress" aria-hidden="true"><span></span></div>
+  <header class="topbar">
+    <div class="topbar__in">
+      <a class="brand" href="../" data-keep-lang>
+        <figure class="avatar avatar--sm">
+          <img src="../assets/img/haein.jpg" alt="" width="80" height="80" onerror="this.parentNode.classList.add('avatar--empty'); this.remove();">
+          <span class="avatar__fallback" aria-hidden="true">海</span>
+        </figure>
+        <span class="brand__name" data-b18n="name">지해인</span>
+      </a>
+      <nav class="topnav">
+        <a href="../" data-keep-lang data-b18n="cv">CV</a>
+        <a href="./" data-keep-lang class="active" data-b18n="blog">Blog</a>
+      </nav>
+      <div class="controls">
+        <div class="lang" role="group" aria-label="Language">
+          <button type="button" data-lang="ko">KO</button>
+          <button type="button" data-lang="en">EN</button>
+        </div>
+        <button type="button" class="icon-btn" id="themeBtn" aria-label="Toggle dark mode"><i class="fa-solid fa-moon"></i></button>
+      </div>
+    </div>
+  </header>
+
+  <main class="page page--post" id="main">
+    <a class="back" href="./" data-keep-lang><i class="fa-solid fa-arrow-left"></i> <span data-b18n="back">목록으로</span></a>
+    <article>
+      <header class="post__head">
+        <h1 class="page__title" id="postTitle">&nbsp;</h1>
+        <p class="post__meta" id="postMeta"></p>
+      </header>
+      <div class="md" id="postBody"></div>
+    </article>
+    <nav class="postnav" id="postNav" aria-label="Posts"></nav>
+  </main>
+
+  <button type="button" class="to-top" id="toTop" data-b18n-label="toTop" aria-label="맨 위로"><i class="fa-solid fa-arrow-up"></i></button>
+
+  <footer class="foot page"><p>© <span id="year"></span> Haein Ji · 지해인</p></footer>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+  <script src="../assets/js/blog-core.js"></script>
+  <script src="../assets/js/blog.js" data-base="../" data-mode="post"></script>
+</body>
+</html>

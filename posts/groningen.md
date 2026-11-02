@@ -1,6 +1,7 @@
 ---
 author: Haein Ji
 title: University of Groningen as Guest Researcher
+category: journal
 ---
 
 <div class="menu"><center><i class="fas fa-home"></i><a href="../../"> home</a> | <i class="fas fa-sticky-note"></i><a href="../posts"> posts</a></center></div>

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page not found — Haein Ji · 지해인</title>
+  <script>
+    // Old URLs → new blog: /posts/ → /blog/, /posts/<name>(/|.html) → /blog/post.html?p=<name>
+    (function () {
+      var path = location.pathname, hash = location.hash;
+      if (/^\/posts\/?$/.test(path) || /^\/posts\/index(\.html)?$/.test(path)) { location.replace('/blog/' + location.search); return; }
+      var m = path.match(/^\/posts\/([^\/]+?)(?:\.html)?\/?$/);
+      if (m && m[1] !== 'post') { location.replace('/blog/post.html?p=' + encodeURIComponent(decodeURIComponent(m[1])) + hash); return; }
+      if (/^\/posts\/post\.html$/.test(path)) { location.replace('/blog/post.html' + location.search + hash); }
+    })();
+  </script>
+  <link rel="icon" type="image/png" href="/assets/img/logo_transparent.png">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=LXGW+WenKai+Mono+TC&display=swap">
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+  <main class="page" style="text-align:center; padding-top: 18vh;">
+    <h1 class="page__title">404</h1>
+    <p class="page__lead">페이지를 찾을 수 없습니다. · Page not found.</p>
+    <p><a class="more" href="/" style="text-decoration:none">CV</a> <a class="more" href="/blog/" style="text-decoration:none">Blog</a></p>
+  </main>
+</body>
+</html>

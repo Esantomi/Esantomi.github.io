@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Blog — Haein Ji · 지해인</title>
+  <meta name="description" content="지해인(Haein Ji)의 연구 노트와 기록 — 논문·책 정리, 공부 노트, 일상의 기록.">
+  <link rel="canonical" href="https://haein.info/blog/">
+  <link rel="alternate" type="application/rss+xml" title="Haein Ji · 지해인 — Blog" href="https://haein.info/feed.xml">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Haein Ji · 지해인">
+  <meta property="og:title" content="Blog — Haein Ji · 지해인">
+  <meta property="og:description" content="지해인(Haein Ji)의 연구 노트와 기록 — 논문·책 정리, 공부 노트, 일상의 기록.">
+  <meta property="og:url" content="https://haein.info/blog/">
+  <meta property="og:image" content="https://haein.info/assets/img/haein.jpg">
+  <meta property="og:locale" content="ko_KR">
+  <meta name="twitter:card" content="summary">
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#11151b" media="(prefers-color-scheme: dark)">
+  <link rel="icon" type="image/png" href="../assets/img/logo_transparent.png">
+  <link rel="apple-touch-icon" href="../assets/img/logo_transparent.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=LXGW+WenKai+Mono+TC&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="../assets/css/main.css">
+  <script>
+    (function () {
+      try { var t = localStorage.getItem('cv-theme'); if (t) document.documentElement.setAttribute('data-theme', t); } catch (e) {}
+      var l = new URLSearchParams(location.search).get('lang');
+      if (!l) { try { l = localStorage.getItem('cv-lang'); } catch (e) {} }
+      document.documentElement.lang = l === 'en' ? 'en' : 'ko';
+    })();
+  </script>
+</head>
+<body class="blog">
+  <header class="topbar">
+    <div class="topbar__in">
+      <a class="brand" href="../" data-keep-lang>
+        <figure class="avatar avatar--sm">
+          <img src="../assets/img/haein.jpg" alt="" width="80" height="80" onerror="this.parentNode.classList.add('avatar--empty'); this.remove();">
+          <span class="avatar__fallback" aria-hidden="true">海</span>
+        </figure>
+        <span class="brand__name" data-b18n="name">지해인</span>
+      </a>
+      <nav class="topnav">
+        <a href="../" data-keep-lang data-b18n="cv">CV</a>
+        <a href="./" data-keep-lang class="active" data-b18n="blog">Blog</a>
+      </nav>
+      <div class="controls">
+        <div class="lang" role="group" aria-label="Language">
+          <button type="button" data-lang="ko">KO</button>
+          <button type="button" data-lang="en">EN</button>
+        </div>
+        <button type="button" class="icon-btn" id="themeBtn" aria-label="Toggle dark mode"><i class="fa-solid fa-moon"></i></button>
+      </div>
+    </div>
+  </header>
+
+  <main class="page" id="main">
+    <h1 class="page__title" data-b18n="blog">Blog</h1>
+    <p class="page__lead" data-b18n="blogLead">연구 노트와 기록</p>
+    <div class="blogbar">
+      <div class="cats" id="cats" role="group" aria-label="Categories"></div>
+      <label class="search">
+        <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+        <input id="q" type="search" autocomplete="off" data-b18n-ph="searchPh" placeholder="제목·본문 검색" aria-label="Search">
+        <kbd>/</kbd>
+      </label>
+    </div>
+    <p class="blogcount" id="postCount"></p>
+    <ul class="postlist" id="postList"></ul>
+  </main>
+
+  <footer class="foot page"><p>© <span id="year"></span> Haein Ji · 지해인</p></footer>
+  <script src="../assets/js/blog-core.js"></script>
+  <script src="../assets/js/blog.js" data-base="../" data-mode="list"></script>
+</body>
+</html>

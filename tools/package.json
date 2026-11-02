@@ -1,0 +1,11 @@
+{
+  "name": "haein-info",
+  "private": true,
+  "description": "Builds haein.info (CV + blog) for GitHub Pages",
+  "scripts": {
+    "build": "node build-blog.mjs"
+  },
+  "dependencies": {
+    "marked": "12.0.2"
+  }
+}
