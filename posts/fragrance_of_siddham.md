@@ -2,6 +2,7 @@
 author: Haein Ji
 title: Fragrance of Siddham
 category: journal
+date: 2025-11
 ---
 
 <div class="menu"><center><i class="fas fa-home"></i><a href="../../"> home</a> | <i class="fas fa-sticky-note"></i><a href="../posts"> posts</a></center></div>

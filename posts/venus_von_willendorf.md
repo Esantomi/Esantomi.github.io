@@ -2,6 +2,7 @@
 author: Haein Ji
 title: Venus von Willendorf
 category: journal
+date: 2026-07
 ---
 
 <div class="menu"><center><i class="fas fa-home"></i><a href="../../"> home</a> | <i class="fas fa-sticky-note"></i><a href="../posts"> posts</a></center></div>

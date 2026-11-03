@@ -77,13 +77,37 @@
     return slug;
   }
 
-  // Posts with a `date` come first, newest first; posts without one keep their posts.json order after them.
+  // `date:` may be a month (2025-07) or a day (2025-07-15); "." or "/" also work as separators.
+  // Parsed by hand (not Date.parse) so the day never shifts with the reader's time zone.
+  function parseDate(s) {
+    const m = String(s || '').trim().match(/^(\d{4})[-./](\d{1,2})(?:[-./](\d{1,2}))?\.?$/);
+    if (!m) return null;
+    const y = +m[1], mo = +m[2], d = m[3] ? +m[3] : null;
+    if (mo < 1 || mo > 12 || (d != null && (d < 1 || d > 31))) return null;
+    const pad = (n) => String(n).padStart(2, '0');
+    return {
+      y, m: mo, d,
+      iso: d ? `${y}-${pad(mo)}-${pad(d)}` : `${y}-${pad(mo)}`,   // valid for <time datetime>, sitemap, schema.org
+      sort: y * 10000 + mo * 100 + (d || 0),
+    };
+  }
+
+  const MONTHS_EN = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  function formatDate(s, lang = 'ko') {
+    const p = parseDate(s);
+    if (!p) return s || '';
+    if (lang === 'en') return p.d ? `${MONTHS_EN[p.m - 1]} ${p.d}, ${p.y}` : `${MONTHS_EN[p.m - 1]} ${p.y}`;
+    return p.d ? `${p.y}. ${p.m}. ${p.d}.` : `${p.y}. ${p.m}.`;
+  }
+
+  // Posts with a `date` come first, newest first (same date → posts.json order);
+  // posts without one keep their posts.json order after them.
   function sortPosts(posts) {
-    const time = (p) => { const d = Date.parse(p.meta && p.meta.date); return isNaN(d) ? null : d; };
+    const time = (p) => { const d = parseDate(p.meta && p.meta.date); return d ? d.sort : null; };
     const dated = posts.filter((p) => time(p) != null).sort((a, b) => time(b) - time(a));
     const undated = posts.filter((p) => time(p) == null);
     return [...dated, ...undated];
   }
 
-  return { CATS, parseFrontMatter, stripMenu, plain, excerpt, firstHeading, slugify, sortPosts };
+  return { CATS, parseFrontMatter, stripMenu, plain, excerpt, firstHeading, slugify, parseDate, formatDate, sortPosts };
 });

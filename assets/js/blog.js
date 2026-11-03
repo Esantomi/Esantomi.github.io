@@ -16,7 +16,7 @@
 (function () {
   'use strict';
 
-  const { CATS, parseFrontMatter, stripMenu, plain, excerpt, firstHeading, slugify, sortPosts } = window.BlogCore;
+  const { CATS, parseFrontMatter, stripMenu, plain, excerpt, firstHeading, slugify, parseDate, formatDate, sortPosts } = window.BlogCore;
 
   const me = document.currentScript;
   const BASE = me.dataset.base || './';
@@ -46,14 +46,8 @@
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const langQ = (sep) => (lang() === 'en' ? `${sep}lang=en` : '');
 
-  function fmtDate(d) {
-    if (!d) return '';
-    const dt = new Date(d);
-    if (isNaN(dt)) return d;
-    return lang() === 'en'
-      ? dt.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })
-      : `${dt.getFullYear()}. ${dt.getMonth() + 1}. ${dt.getDate()}.`;
-  }
+  const fmtDate = (d) => formatDate(d, lang());
+  const isoOf = (d) => { const p = parseDate(d); return p ? p.iso : ''; };
 
   function editDistance(a, b) {
     const d = Array.from({ length: a.length + 1 }, (_, i) => [i]);
@@ -120,7 +114,7 @@
         <a href="${postUrl(p.name)}">
           <div class="postlist__meta">
             ${p.category ? `<span class="postlist__cat">${esc(catLabel(p.category))}</span>` : ''}
-            ${p.meta.date ? `<time datetime="${esc(p.meta.date)}">${esc(fmtDate(p.meta.date))}</time>` : ''}
+            ${p.meta.date ? `<time datetime="${esc(isoOf(p.meta.date))}">${esc(fmtDate(p.meta.date))}</time>` : ''}
             ${sub ? `<span class="postlist__sub">${esc(sub)}</span>` : ''}
           </div>
           <h3 class="postlist__title">${mark(esc(title), terms)}</h3>
@@ -233,7 +227,7 @@
     $('#postMeta').innerHTML = [
       cat && `<a class="post__cat" href="${BLOG}?c=${encodeURIComponent(cat)}${langQ('&')}">${esc(catLabel(cat))}</a>`,
       meta.author && esc(meta.author),
-      meta.date && `<time datetime="${esc(meta.date)}">${esc(fmtDate(meta.date))}</time>`,
+      meta.date && `<time datetime="${esc(isoOf(meta.date))}">${esc(fmtDate(meta.date))}</time>`,
     ].filter(Boolean).join(' · ');
   }
 

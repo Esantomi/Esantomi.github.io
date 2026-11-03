@@ -34,14 +34,14 @@ function firstImage(html) {
   return new URL(src, `${SITE}/posts/`).href;   // "/assets/…" → site root; relative → next to the .md file
 }
 
-const { CATS, parseFrontMatter, stripMenu, excerpt, slugify, sortPosts } = require(path.join(ROOT, 'assets/js/blog-core.js'));
+const { CATS, parseFrontMatter, stripMenu, excerpt, slugify, parseDate, formatDate, sortPosts } = require(path.join(ROOT, 'assets/js/blog-core.js'));
 
 const SKIP = new Set(['.git', '.github', 'node_modules', 'tools', '_site', 'README.md', '.gitignore']);
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const read = (p) => fs.readFileSync(path.join(ROOT, p), 'utf8');
 const write = (p, s) => { fs.mkdirSync(path.dirname(path.join(OUT, p)), { recursive: true }); fs.writeFileSync(path.join(OUT, p), s); };
 const postPath = (name) => `/blog/${encodeURIComponent(name)}/`;
-const isoDate = (d) => { const t = Date.parse(d); return isNaN(t) ? null : new Date(t).toISOString().slice(0, 10); };
+const isoDate = (d) => { const p = parseDate(d); return p ? p.iso : null; };   // "2025-07" or "2025-07-15"
 const markBuilt = (html) => html.replace(/<html lang="ko">/, '<html lang="ko" data-built="1">');
 
 /* 1. copy the site */
@@ -110,7 +110,7 @@ posts.forEach((p, i) => {
   const metaLine = [
     p.meta.category && `<a class="post__cat" href="../?c=${encodeURIComponent(p.meta.category)}">${esc(catLabel(p.meta.category))}</a>`,
     p.meta.author && esc(p.meta.author),
-    p.date && `<time datetime="${p.date}">${esc(p.meta.date)}</time>`,
+    p.date && `<time datetime="${p.date}">${esc(formatDate(p.meta.date))}</time>`,
   ].filter(Boolean).join(' · ');
   const data = JSON.stringify({ name: p.name, meta: p.meta, title: p.title, newer, older }).replace(/</g, '\\u003c');
 
@@ -153,7 +153,7 @@ ${posts.map((p) => `    <item>
       <title>${esc(p.title)}</title>
       <link>${SITE}${postPath(p.name)}</link>
       <guid>${SITE}${postPath(p.name)}</guid>
-      <description>${esc(p.description)}</description>${p.meta.category ? `\n      <category>${esc(catLabel(p.meta.category))}</category>` : ''}${p.date ? `\n      <pubDate>${new Date(p.date).toUTCString()}</pubDate>` : ''}
+      <description>${esc(p.description)}</description>${p.meta.category ? `\n      <category>${esc(catLabel(p.meta.category))}</category>` : ''}${p.date ? `\n      <pubDate>${new Date(p.date.length === 7 ? p.date + '-01' : p.date).toUTCString()}</pubDate>` : ''}
     </item>`).join('\n')}
   </channel>
 </rss>

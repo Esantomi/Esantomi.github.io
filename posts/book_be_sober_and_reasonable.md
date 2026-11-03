@@ -2,6 +2,7 @@
 author: Haein Ji
 title: Be Sober and Reasonable
 category: books
+date: 2026-04
 ---
 
 <div class="menu"><center><i class="fas fa-home"></i><a href="../../"> home</a> | <i class="fas fa-sticky-note"></i><a href="../posts"> posts</a></center></div>

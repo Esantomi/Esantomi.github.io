@@ -2,6 +2,7 @@
 author: Haein Ji
 title: Enlightenment for the Common People? Frederick II and the Philosophes on Popular Prejudice, Deception, and Education
 category: papers
+date: 2026-04
 ---
 
 <div class="menu"><center><i class="fas fa-home"></i><a href="../../"> home</a> | <i class="fas fa-sticky-note"></i><a href="../posts"> posts</a></center></div>
