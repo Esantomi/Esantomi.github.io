@@ -10,7 +10,7 @@
   const UI = {
     ko: {
       skip: '본문으로 건너뛰기', name: '지해인', aff: '연구원 · 강사<br>한국학중앙연구원 (AKS)<br>성남, 대한민국', hello: '편하게 연락 주세요.',
-      heroTitle: '인문학자, <em>디지털</em>을 곁들인.<br><span>한국 근대 문학 · 신화 · 종교 · 문화 연구</span>',
+      heroTitle: '인문학자, 이제&nbsp;<em>디지털</em>을&nbsp;곁들인.<br><span>한국 근대 문학 · 신화 · 종교 · 문화 연구</span>',
       home: 'Home', posts: 'Blog',
       s_bio: '소개', s_education: '학력', s_nondegree: '비학위 교육', s_work: '경력', s_pubs: '연구 성과',
       s_projects: '연구 프로젝트', s_talks: '학술 발표', s_teaching: '강의 경력', s_exhibitions: '전시',
@@ -24,7 +24,7 @@
     },
     en: {
       skip: 'Skip to content', name: 'Haein Ji', aff: 'Researcher &amp; Instructor<br>The Academy of Korean Studies (AKS)<br>Seongnam, Republic of Korea', hello: 'Please feel free to get in touch.',
-      heroTitle: 'A humanist, with a side of <em>digital</em>.<br><span>Modern Korean literature · Myth · Religion · Cultural studies</span>',
+      heroTitle: 'A humanist, now&nbsp;with&nbsp;a&nbsp;side&nbsp;of&nbsp;<em>digital</em>.<br><span>Modern Korean literature · Myth · Religion · Cultural studies</span>',
       home: 'Home', posts: 'Blog',
       s_bio: 'Bio', s_education: 'Education', s_nondegree: 'Non-Degree Education', s_work: 'Work Experience', s_pubs: 'Publications',
       s_projects: 'Projects', s_talks: 'Talks & Presentations', s_teaching: 'Teaching Experience', s_exhibitions: 'Exhibitions',
