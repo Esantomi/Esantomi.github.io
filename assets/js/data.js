@@ -206,14 +206,14 @@ window.CV = {
   funders: {
     nrf:  { ko: '한국연구재단', en: 'National Research Foundation of Korea' },
     aks:  { ko: '한국학중앙연구원', en: 'The Academy of Korean Studies' },
-    rug:  'University of Groningen (ERC StG)',
+    rug:  { ko: '흐로닝언 대학교 (ERC StG)', en: 'University of Groningen (ERC StG)' },
     cha:  { ko: '문화재청, ㈜PCN', en: 'Cultural Heritage Administration · PCN Co., Ltd.' },
     nikl: { ko: '국립국어원', en: 'National Institute of Korean Language' },
   },
   roles: {
     ra:    { ko: '보조연구원', en: 'Research Assistant' },
     ext:   { ko: '외부참여연구원', en: 'External Researcher' },
-    guest: 'Guest Researcher',
+    guest: { ko: '객원연구원', en: 'Guest Researcher' },
   },
 
   talks: [

@@ -92,7 +92,8 @@
     };
   }
 
-  const MONTHS_EN = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  // Same style as the CV's English dates ("Feb. 2026", "Sept. 2026").
+  const MONTHS_EN = ['Jan.', 'Feb.', 'Mar.', 'Apr.', 'May', 'Jun.', 'Jul.', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.'];
   function formatDate(s, lang = 'ko') {
     const p = parseDate(s);
     if (!p) return s || '';
