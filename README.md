@@ -187,7 +187,6 @@ CV 내용은 **`assets/js/data.js` 한 파일**에 모여 있습니다.
 |---|---|
 | 소속 3줄, 상단 문구(「데이터로 서사를 읽습니다.」) | `assets/js/script.js` 위쪽 `UI` 사전의 `aff`, `heroTitle` |
 | 이메일, 학술 프로필 링크, CV PDF 주소 | `index.html` 사이드바 |
-| 최종 업데이트 날짜 | `index.html` 맨 아래 푸터 |
 
 ---
 
