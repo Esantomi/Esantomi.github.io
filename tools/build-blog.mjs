@@ -24,14 +24,17 @@ const SITE_NAME = 'Haein Ji · 지해인';
 const AUTHOR = { '@type': 'Person', name: 'Haein Ji', alternateName: '지해인', url: `${SITE}/` };
 const PROFILE_IMAGE = `${SITE}/assets/img/haein.jpg`;   // fallback for posts without images (the CV uses it too)
 
-// A post's preview image is the first image in the post.
+// A post's preview image is the first image in the post that actually exists
+// (site images are checked in the repository, so a missing file never becomes the preview).
 function firstImage(html) {
-  const m = html.match(/<img\b[^>]*?\ssrc=["']([^"']+)["']/i);
-  if (!m) return null;
-  const src = m[1].trim();
-  if (/^https?:\/\//i.test(src)) return src;
-  if (src.startsWith('//')) return 'https:' + src;
-  return new URL(src, `${SITE}/posts/`).href;   // "/assets/…" → site root; relative → next to the .md file
+  for (const m of html.matchAll(/<img\b[^>]*?\ssrc=["']([^"']+)["']/gi)) {
+    const src = m[1].trim();
+    if (/^https?:\/\//i.test(src)) return src;
+    if (src.startsWith('//')) return 'https:' + src;
+    const url = new URL(src, `${SITE}/posts/`);
+    if (fs.existsSync(path.join(ROOT, decodeURIComponent(url.pathname)))) return url.href;
+  }
+  return null;
 }
 
 const { CATS, parseFrontMatter, stripMenu, excerpt, slugify, parseDate, formatDate, sortPosts } = require(path.join(ROOT, 'assets/js/blog-core.js'));
